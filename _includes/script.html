@@ -41,8 +41,31 @@ Javascript
     if (lang.indexOf('JP') > -1) {
       $('.lang.en').hide();
       $('.lang.ja').show();
+      changeTitle('ja');
     }
   });
+  function changeLang(lang) {
+    if (lang === 'ja') {
+      $('.lang.en').hide();
+      $('.lang.ja').show();
+    } else {
+      $('.lang.ja').hide();
+      $('.lang.en').show();
+      changeTitle(lang)
+    }
+    return false;
+  }
+  function changeTitle(lang) {
+    if (lang === 'ja') {
+      var title = 'DevRelCon Tokyo 2019 – DevRel、開発者マーケティング、DX、APIに関するマーケティング';
+      var description = 'DevRelCon Tokyoはテクニカルエバンジェリスト、デベロッパーアドボケイトそしてDevRelとDXに関係する全ての方向けのワンデーカンファレンスです';
+    } else {
+      var title = 'DevRelCon Tokyo 2019 – conference for developer relations, developer marketing, developer experience, APIs';
+      var description = 'DevRelCon Tokyo is a one day conference for technical evangelists, developer advocates and anyone interested in developer relations and developer experience';
+    }
+    $('title').text(title);
+    $('meta[name="description"]').attr('content', description);
+  }
 </script>
 <script type='text/javascript'>
              (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);

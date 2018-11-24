@@ -8,15 +8,16 @@ Organisers
   <div id="organisers"></div>
   <div class="row">
     <div class="col-lg-12 section-text">
-      <h1 class="speaker-title">Organizers</h1>
+      <h1 class="lang en speaker-title">Organizers</h1>
+      <h1 class="lang ja speaker-title">主催者</h1>
     </div>
   </div>
 </div>
 <div id="section6">
   <div class="row">
     <div class="col-lg-12 section-text">
-      <h3>We are organisers of DevRelCon Tokyo 2018.<br>
-      </div>
+      <h3 class="lang en">We are organisers of DevRelCon Tokyo 2019.<br>
+      <h3 class="lang ja">私たちがDevRelCon Tokyo 2019の主催者です。<br>
     </div>
     <div class="row">
       <div class="container">
@@ -38,7 +39,8 @@ Organisers
         {% if organizer.type == 'member' %}
           <div class="col-sm-3">
             <h3 class="partner-type">
-              {{ organizer.name }}
+              <span class="lang en">{{ organizer.name }}</span>
+              <span class="lang ja">{{ organizer.ja_name }}</span>
               {% if organizer.github %}
                 <a href="https://github.com/{{ organizer.github }}" target="_blank">
                   <i class="fa fa-github-square" style="color:white"></i>

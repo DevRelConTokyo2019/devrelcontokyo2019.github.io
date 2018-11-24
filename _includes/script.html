@@ -1,0 +1,49 @@
+<!-- ================================================
+
+Javascript
+
+==================================================-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script> 
+<script type='text/javascript'> <!-- load Google fonts -->
+             WebFont.load({
+               google: {
+                 families: ['Open+Sans:300,400,700,800']
+               }
+             });
+</script> 
+<script type='text/javascript'> <!-- smooth scrolling script -->
+             $(function () {
+             $('a.scrollnav[href^="#"]').click(function(event) {
+             var id = $(this).attr("href");
+             var offset = 60;
+             var target = $(id).offset().top - offset;
+             $('html, body').animate({scrollTop:target}, 500);
+             event.preventDefault();
+             }); });
+</script>
+<script type='text/javascript'> <!-- hides dropdown menu on click/touch -->
+             $(document).on('click','.navbar-collapse.in',function(e) {
+               if( $(e.target).is('a') && $(e.target).attr('class') != 'dropdown-toggle' ) {
+               $(this).collapse('hide');
+               }
+             });
+</script>
+<script src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js' type='text/javascript'>
+  <!-- Mailchimp validation -->         
+</script> 
+<script type='text/javascript'>
+  $(function() {
+    $('.lang.ja').hide();
+    var lang = navigator.language || navigator.userLanguage;
+    if (lang.indexOf('JP') > -1) {
+      $('.lang.en').hide();
+      $('.lang.ja').show();
+    }
+  });
+</script>
+<script type='text/javascript'>
+             (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
+</script>

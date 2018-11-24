@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+    <div id="home"></div> <!-- Top of the page anchor (from main nav) -->
+
+    {% include nav.html %}
+    
+    <!-- ================================================
+
+    Date box
+
+    ==================================================-->
+    {{ content }}
+    
+    {% include header.html %}
+
+    {% include intro.html %}
+
+    {% include about.html %}
+    
+    {% include speakers.html %}
+
+    {% include schedule.html %}
+
+    {% include sponsors.html %}
+
+    {% include venue.html %}
+
+    {% include organizers.html %}
+
+    {% include footer.html %}
+
+    {% include script.html %}
+  </body>
+</html>

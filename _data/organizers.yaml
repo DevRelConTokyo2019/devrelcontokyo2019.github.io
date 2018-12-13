@@ -1,112 +1,127 @@
-- objectId: 43fnkF6CoNG3IncE
+- objectId: Nru5wF16lBLBmrcS
   type: group
   name: MOONGIFT
+  name_ja: MOONGIFT
   title: Local organizer
   image: /img/partners/moongift.png
   url: 'https://moongift.co.jp/'
-  language: en
-- objectId: 6c6F6zNm6RNt5SZY
+  twitter: moongift
+  facebook: moongift
+  company: MOONGIFT
+- objectId: pkf4oHsIFMARuidk
   type: group
   name: DevRel Meetup in Tokyo
+  name_ja: DevRel Meetup in Tokyo
   title: Local organizer
   image: /img/partners/devreltokyo.png
   url: 'https://devrel.tokyo/'
-  language: en
-- objectId: weGwUHze7B0FZP9W
+  twitter: devrelTokyo
+  facebook: devreltokyo
+- objectId: nEeCx1Hs2vzXVaBM
   type: group
   name: Hoopy
+  name_ja: Hoopy
   title: Original organizer
   image: /img/partners/hoopy.png
   url: 'https://hoopy.io'
-  language: en
-- objectId: 0x6dFmxJcI0thJmZ
+  twitter: hoopyio
+  facebook: hoopyio
+  company: Hoopy
+- objectId: 1ByOyMAoAW6nfiEL
   type: member
   name: Atsushi
-  ja_name: アツシ
+  name_ja: アツシ
   title: CEO
   image: /img/members/atsushi.jpg
-  language: en
   twitter: goofmint
   github: goofmint
   facebook: goofmint
   company: MOONGIFT
-- objectId: Qm7KzNgUfKCqyIv8
+- objectId: JcveZWfOFwbScsGC
   type: member
   name: Taiji Hagino
+  name_ja: たいじ
   image: /img/members/taiji.jpg
-  language: en
   twitter: taiponrock
   github: taijihagino
   facebook: taiponrock
   company: IBM
-- objectId: c8Exz3hwdrsqlMFZ
+  title: Developer Advocate
+  url: 'https://developer.ibm.com'
+- objectId: RhM1Tk5bepoFQU8E
   type: member
   name: Shohei Oda
-  language: en
+  name_ja: おだしょー
+  image: /img/members/oda.jpg
   twitter: mki_oda
   facebook: odasho0618
-  company: Mitsui Knowledge Industry
-  image: /img/members/oda.jpg
-- objectId: pKUvQyIYTxKm1JwV
+  company: Microsoft Japan
+- objectId: T4SMd5ojA0SanwPe
   type: member
   name: Noriyuki Suzuki
+  name_ja: 鈴木 教之
   title: Editor in chief
   image: /img/members/suzuki.jpg
-  language: en
   twitter: szkn27
   github: suzukin
   facebook: szkn27
   company: Impress Corporation
-- objectId: FyTo03HGFasPBjVI
+- objectId: F7NftxrRQNVnT7bT
   type: member
   name: Yuko Kondo
+  name_ja: 近藤 佑子
   title: Editor
   image: /img/members/kondo.jpg
-  language: en
   twitter: kondoyuko
   github: kondoyuko
   facebook: kondoyuko516
   company: SHOEISHA
-- objectId: rglpYwNdRjG4L79H
+- objectId: HkEfIrYnjPdRqAWh
   type: member
   name: Kiko Ando
+  name_ja: 安藤 喜子
   image: /img/members/kiko.jpg
-  language: en
   twitter: kiko_tw
   github: kikoando112
   facebook: kikoando112
   company: Mercari
-- objectId: LyYcnPfb6pqjvCLG
+- objectId: VBb9ri1JjN6B6RtR
   type: member
   name: Aritomo Matsutani
+  name_ja: 松谷 有朋
   image: /img/members/matsutani.jpg
-  language: en
   twitter: matsutani
   facebook: aritomo.matsutani
   company: ForesightSystem
-- objectId: J7oBzHr3ytCo42Dc
+- objectId: z61A2HPiigNScR6f
   type: member
   name: msato
+  name_ja: 佐藤 雅子
   image: /img/members/msato.jpg
   company: Val Laboratory Corporation
-  language: en
-- objectId: 1p88cYSyiRiDBJSo
+- objectId: zma1EbC0ImtHKiZX
   type: member
   name: Taro Kawashita
-  language: en
+  name_ja: 川下 太郎
+  image: /img/members/kawashita.jpg
   twitter: tarotaro4
   github: cafedeaqua
   facebook: taro.kawashita.9
   company: Sony
-  image: /img/members/kawashita.jpg
-- objectId: ty13tgskWBXkidMS
+- objectId: j12h6vimzeS4LcXN
   type: member
   name: Takeki Oizumi
+  name_ja: 大泉 健木
   title: Social Media & Contents Marketer
+  image: /img/members/oizumi.jpg
   url: 'https://www.facebook.com/stores.saison.co.jp/'
-  twitter: beajourneyman
+  twitter: '2018-11-25T15:00:00.000Z'
   github: beajourneyman
   facebook: beajourneyman
   company: 'SAISON INFORMATION SYSTEMS CO.,LTD.'
-  language: en
-  image: /img/members/oizumi.jpg
+- objectId: vu99KYi8hvaCey3N
+  type: member
+  name: Yasunori Kihara
+  name_ja: 木原 康智
+  facebook: ysnrkr
+  company: Amazing Day

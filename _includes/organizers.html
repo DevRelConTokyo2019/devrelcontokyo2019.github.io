@@ -37,28 +37,30 @@ Organisers
     <div class="container">
       {% for organizer in site.data.organizers %}
         {% if organizer.type == 'member' %}
-          <div class="col-sm-3">
-            <h3 class="partner-type">
-              <span class="lang en">{{ organizer.name }}</span>
-              <span class="lang ja">{{ organizer.ja_name }}</span>
-              {% if organizer.github %}
-                <a href="https://github.com/{{ organizer.github }}" target="_blank">
-                  <i class="fa fa-github-square" style="color:white"></i>
-                </a>
-              {% endif %}
-              {% if organizer.twitter %}
-                <a href="https://twitter.com/{{ organizer.twitter }}" target="_blank">
-                  <i class="fa fa-twitter-square" style="color:white"></i>
-                </a>
-              {% endif %}
-              {% if organizer.facebook %}
-                <a href="https://facebook.com/{{ organizer.facebook }}" target="_blank">
-                  <i class="fa fa-facebook-square" style="color:white"></i>
-                </a>
-              {% endif %}
-            </h3>
-            <img alt="{{ organizer.name }}" src="{{ organizer.image }}">
-          </div>
+          {% if organizer.image %}
+            <div class="col-sm-3">
+              <h3 class="partner-type">
+                <span class="lang en">{{ organizer.name }}</span>
+                <span class="lang ja">{{ organizer.name_ja }}</span>
+                {% if organizer.github %}
+                  <a href="https://github.com/{{ organizer.github }}" target="_blank">
+                    <i class="fa fa-github-square" style="color:white"></i>
+                  </a>
+                {% endif %}
+                {% if organizer.twitter %}
+                  <a href="https://twitter.com/{{ organizer.twitter }}" target="_blank">
+                    <i class="fa fa-twitter-square" style="color:white"></i>
+                  </a>
+                {% endif %}
+                {% if organizer.facebook %}
+                  <a href="https://facebook.com/{{ organizer.facebook }}" target="_blank">
+                    <i class="fa fa-facebook-square" style="color:white"></i>
+                  </a>
+                {% endif %}
+              </h3>
+              <img alt="{{ organizer.name }}" src="{{ organizer.image }}">
+            </div>
+          {% endif %}
         {% endif %}
       {% endfor %}
     </div>

@@ -2,3 +2,9 @@ _site
 .sass-cache
 .jekyll-metadata
 .DS_Store
+package.json
+config.json
+scratch/
+node_modules/
+sync-data.js
+package-lock.json

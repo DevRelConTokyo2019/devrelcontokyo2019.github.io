@@ -39,7 +39,7 @@
   company: MOONGIFT
 - objectId: JcveZWfOFwbScsGC
   type: member
-  name: Taiji Hagino
+  name: Taiji
   name_ja: たいじ
   image: /img/members/taiji.jpg
   twitter: taiponrock
@@ -50,12 +50,15 @@
   url: 'https://developer.ibm.com'
 - objectId: RhM1Tk5bepoFQU8E
   type: member
-  name: Shohei Oda
+  name: odasho
   name_ja: おだしょー
   image: /img/members/oda.jpg
-  twitter: mki_oda
+  twitter: MS_odasho
   facebook: odasho0618
   company: Microsoft Japan
+  github: odasho0618
+  title: Technical Evangelist
+  url: 'https://azure.microsoft.com/ja-jp/'
 - objectId: T4SMd5ojA0SanwPe
   type: member
   name: Noriyuki Suzuki
@@ -93,9 +96,10 @@
   twitter: matsutani
   facebook: aritomo.matsutani
   company: ForesightSystem
+  github: antmatsu2000
 - objectId: z61A2HPiigNScR6f
   type: member
-  name: msato
+  name: Masako Sato
   name_ja: 佐藤 雅子
   image: /img/members/msato.jpg
   company: Val Laboratory Corporation
@@ -125,3 +129,21 @@
   name_ja: 木原 康智
   facebook: ysnrkr
   company: Amazing Day
+- objectId: 8idi7m6zVrNnf0ML
+  type: member
+  name: Ai Naito
+  name_ja: 内藤 愛
+  twitter: ai_n1991
+  facebook: ai.naito.7
+  company: Twilio for KWC
+- objectId: szESHAU8BQpwzTO8
+  type: member
+  name: Tomonori Watanabe
+  name_ja: 渡部 知記
+  title: Digital Marketing Architect
+  url: 'https://mapdesign.site/'
+  twitter: shigenoko
+  github: shigenoko
+  facebook: watanabe.tomonori
+  company: MaP design
+  image: /img/members/watanabe.png

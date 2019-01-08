@@ -1,1 +1,27 @@
-[]
+- objectId: GEsviX6e8EU8tMEo
+  name: Twitter
+  picture: /img/sponsors/twitter.png
+  url: 'https://twitter.com/'
+  rank: 1
+  title: Gold sponsor
+  size: 50
+  type: sponsor
+  column: 3
+- objectId: MXuHJWL1dKoqeANg
+  name: Casareal
+  picture: /img/sponsors/casareal.png
+  url: 'https://www.casareal.co.jp/ls/'
+  rank: 5
+  title: Speech sponsor
+  size: 33
+  type: sponsor
+  column: 3
+- objectId: aoj7wW6dCBnV2fIF
+  name: Cybozu
+  picture: /img/sponsors/cybozu.png
+  url: 'https://cybozu.co.jp/'
+  rank: 6
+  title: Venue sponsor
+  size: 33
+  type: sponsor
+  column: 3

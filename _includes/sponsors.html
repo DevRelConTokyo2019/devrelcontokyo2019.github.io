@@ -14,64 +14,44 @@ Sponsors
     </div>
 </div>
 <div id="section7">
-    <div class="row">
-        <div class="col-lg-12 section-text">
-          <h3 class="en lang">Do you want your brand to be a part of DevRelCon Tokyo 2019?<br>
-            <a href="mailto:devrelcon@moongift.jp">Contact us for sponsorship opportunities</a>.
-          </h3>
-          <h3 class="lang ja">DevRelCon Tokyo 2019のスポンサーになりませんか？<br>
-            <a href="mailto:devrelcon@moongift.jp">お問い合わせはこちらから</a>。
-          </h3>
-        </div>
+  <div class="row">
+      <div class="col-lg-12 section-text">
+        <h3 class="en lang">Do you want your brand to be a part of DevRelCon Tokyo 2019?<br>
+          <a href="mailto:devrelcon@moongift.jp">Contact us for sponsorship opportunities</a>.
+        </h3>
+        <h3 class="lang ja">DevRelCon Tokyo 2019のスポンサーになりませんか？<br>
+          <a href="mailto:devrelcon@moongift.jp">お問い合わせはこちらから</a>。
+        </h3>
+      </div>
+  </div>
+  {% for sponsor in site.data.sponsors %}
+    {% if sponsor.type == 'partner' %}
+      <div class="row">
+        <p>
+          <div class="container">
+            <a href="{{ sponsor.url }}" target="_blank">
+              <div class="col-sm-12">
+                <h3 class="partner-type">{{ sponsor.title }}</h3>
+                <img alt="" src="{{ sponsor.picture }}" style="width: 300px" />
+              </div>
+            </a>
+          </div>
+        </p>
+      </div>
+    {% endif %}
+  {% endfor %}
+  <div class="row">
+    <div class="container">
+      {% for sponsor in site.data.sponsors %}
+        {% if sponsor.type == 'sponsor' %}
+          <a href="{{ sponsor.url || 'mailto:devrelcon@moongift.jp?subject=DevRelCon' }}" target="_blank">
+            <div class="col-sm-{{ sponsor.column }}">
+              <h3 class="partner-type">{{ sponsor.title }}</h3>
+              <img alt="{{ sponsor.name || 'Wanted logo' }}" src="{{ sponsor.picture || '/img/sponsors/wanted.png' }}" />
+            </div>
+          </a>
+        {% endif %}
+      {% endfor %}
     </div>
-
-    <!-- 
-
-    <div class="row">
-        <div class="container">
-            <a href="https://hoopy.io/">
-                <div class="col-sm-12 partner">
-                    <h3 class="partner-type">Organiser</h3><img alt="Hoopy" src="img/partners/hoopy.png">
-                </div>
-            </a>
-            <a href="https://hoopy.io/">
-                <div class="col-sm-6 partner">
-                    <h3 class="partner-type">Organiser</h3><img alt="Hoopy" src="img/partners/hoopy.png">
-                </div>
-            </a>
-            <a href="https://hoopy.io/">
-                <div class="col-sm-6 partner">
-                    <h3 class="partner-type">Organiser</h3><img alt="Hoopy" src="img/partners/hoopy.png">
-                </div>
-            </a>
-            <a href="https://hoopy.io/">
-                <div class="col-sm-6 partner">
-                    <h3 class="partner-type">Organiser</h3><img alt="Hoopy" src="img/partners/hoopy.png">
-                </div>
-            </a>
-            <a href="https://hoopy.io/">
-                <div class="col-sm-6 partner">
-                    <h3 class="partner-type">Organiser</h3><img alt="Hoopy" src="img/partners/hoopy.png">
-                </div>
-            </a>
-            <a href="https://hoopy.io/">
-                <div class="col-sm-4 partner">
-                    <h3 class="partner-type">Organiser</h3><img alt="Hoopy" src="img/partners/hoopy.png">
-                </div>
-            </a>
-            <a href="https://hoopy.io/">
-                <div class="col-sm-4 partner">
-                    <h3 class="partner-type">Organiser</h3><img alt="Hoopy" src="img/partners/hoopy.png">
-                </div>
-            </a>
-            <a href="https://hoopy.io/">
-                <div class="col-sm-4 partner">
-                    <h3 class="partner-type">Organiser</h3><img alt="Hoopy" src="img/partners/hoopy.png">
-                </div>
-            </a>
-        </div>
-    </div>
-
-    -->
-
+  </div>
 </div>

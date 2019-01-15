@@ -15,14 +15,23 @@ Javascript
              });
 </script> 
 <script type='text/javascript'> <!-- smooth scrolling script -->
-             $(function () {
-             $('a.scrollnav[href^="#"]').click(function(event) {
-             var id = $(this).attr("href");
-             var offset = 60;
-             var target = $(id).offset().top - offset;
-             $('html, body').animate({scrollTop:target}, 500);
-             event.preventDefault();
-             }); });
+ $(function () {
+   $('a.scrollnav[href^="#"]').click(function(event) {
+     var id = $(this).attr("href");
+     var offset = 60;
+     var target = $(id).offset().top - offset;
+     $('html, body').animate({scrollTop:target}, 500);
+     event.preventDefault();
+   });
+   $('.thumbnail2').hover(
+       function(){
+           $(this).find('.caption').slideDown(250); //.fadeIn(250)
+       },
+       function(){
+           $(this).find('.caption').slideUp(250); //.fadeOut(205)
+       }
+   ); 
+});
 </script>
 <script type='text/javascript'> <!-- hides dropdown menu on click/touch -->
              $(document).on('click','.navbar-collapse.in',function(e) {

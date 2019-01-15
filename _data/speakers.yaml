@@ -1,1 +1,102 @@
-[]
+- objectId: 40qxoUAthKCMCQZi
+  name: Yukihiro Matsumoto
+  name_ja: まつもとゆきひろ
+  company: Network Applied Communication Laboratory Ltd.
+  company_ja: 株式会社ネットワーク応用通信研究所
+  profile: >-
+    The creator of the programming language named "Ruby". He started developing
+    Ruby from 1993, and released as free software in 1995. NPO corporate
+    lightweight Ruby Forum president, Fellow of Network Applied Communication
+    Laboratory Inc., General Association "Ruby Association" chairman, Heroku
+    Chief Architect, US, etc. He is father of three girls, a body and a dog. He
+    likes hot SPA(Onsen). He was born in Tottori Prefecture, and he is living in
+    Shimane prefecture. Taurus and Blood type is O.
+  profile_ja: >-
+    プログラミング言語「Ruby」の生みの親。 1993年頃からRubyの開発に着手し、1995年にフリーソフトとして公開。
+    NPO法人軽量Rubyフォーラム理事長をはじめ、株式会社ネットワーク応用通信研究所フェロー、一般社団法人「Rubyアソシ エーション」理事長、 米
+    Heroku Chief  Architectなど、肩書多数。三女一男犬一匹の父である。 温泉好き。鳥取県出身、島根県在住。牡牛座。O型
+  title: ''
+  title_ja: ''
+  page: /speakers/matz
+  image: /img/speakers/matz.jpg
+  list: true
+- objectId: czgiv7jJ0DJ809gZ
+  name: Melinda Seckington
+  name_ja: Melinda Seckington
+  company: FutureLearn
+  twitter: mseckington
+  profile: >-
+    Melinda is a Ruby developer at FutureLearn, a social learning platform. She
+    loves attending BarCamps, Hackdays and other tech meet ups, and since 2009
+    has been organising them at Geeks of London. She also writes at MissGeeky, a
+    blog about all things geeky and girly.
+  title: ''
+  title_ja: ''
+  blog: 'http://missgeeky.com/'
+  page: /speakers/melinda
+  list: true
+  image: /img/speakers/melinda.jpg
+  profile_ja: >-
+    Melinda is a Ruby developer at FutureLearn, a social learning platform. She
+    loves attending BarCamps, Hackdays and other tech meet ups, and since 2009
+    has been organising them at Geeks of London. She also writes at MissGeeky, a
+    blog about all things geeky and girly.
+  company_ja: FutureLearn
+- objectId: uo607wtw9omntydM
+  name: Cristiano Betta
+  name_ja: Cristiano Betta
+  twitter: cbetta
+  profile: >-
+    I’m a Developer Advocate and Developer Experience designer at Box. I like to
+    look at great developer onboarding flows, analyzing and documenting the best
+    practices and pitfalls of common design practices. Although I have over 15
+    years of development experience I believe that at the core we’re all
+    beginners at some things, and documentation and onboarding should reflect
+    that notion.
+
+
+    In the past I’ve worked as a contractor, startup founder, event organizer,
+    and developer advocate at Braintree/PayPal.
+  title: ''
+  title_ja: ''
+  blog: 'http://developer.box.com/'
+  page: /speakers/cristiano
+  image: /img/speakers/cristiano.jpg
+  list: true
+  Slack: true
+  company: Box
+  profile_ja: >-
+    I’m a Developer Advocate and Developer Experience designer at Box. I like to
+    look at great developer onboarding flows, analyzing and documenting the best
+    practices and pitfalls of common design practices. Although I have over 15
+    years of development experience I believe that at the core we’re all
+    beginners at some things, and documentation and onboarding should reflect
+    that notion.
+
+
+    In the past I’ve worked as a contractor, startup founder, event organizer,
+    and developer advocate at Braintree/PayPal.
+  company_ja: Box
+- objectId: g7uvZ86u6F68ijtJ
+  name: Terence Huynh
+  name_ja: Terence Huynh
+  twitter: terencehuynh
+  profile: >-
+    Terence Huynh is the founder and one of the organisers of
+    [UNIHACK](https://unihack.net/), Australia’s largest student hackathon.
+    First started in 2014, it has quickly become one of the country’s premier
+    hackathons with events in Melbourne and Sydney. He is also a full-stack
+    software engineer at Localz, a Melbourne-based startup.
+  profile_ja: >-
+    Terence Huynh is the founder and one of the organisers of
+    [UNIHACK](https://unihack.net/), Australia’s largest student hackathon.
+    First started in 2014, it has quickly become one of the country’s premier
+    hackathons with events in Melbourne and Sydney. He is also a full-stack
+    software engineer at Localz, a Melbourne-based startup.
+  title: ''
+  title_ja: ''
+  blog: 'https://terencehuynh.com'
+  page: /speakers/terence
+  image: /img/speakers/terence.jpg
+  list: true
+  Slack: true

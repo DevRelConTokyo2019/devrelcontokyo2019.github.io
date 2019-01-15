@@ -1,0 +1,72 @@
+<div id="section1">
+  {% assign speakers = site.data.speakers | where: "name", page.speaker %}
+  {% assign speaker = speakers[0] %}
+  <div class="row">
+    <div class="col-lg-12 section-text coc">
+      <div id="about"></div>
+      <h1>
+        <strong class="lang en">{{ speaker.name }}</strong>
+        <strong class="lang ja">{{ speaker.name_ja }}</strong>
+      </h1>
+      <p class="speaker-info lang en">{% if speaker.title != '' %}{{ speaker.title }} at {% endif %}{{ speaker.company }}</p>
+      <p class="speaker-info lang ja">{% if speaker.title_ja != '' %}{{ speaker.title_ja }} at {% endif %}{{ speaker.company_ja }}</p>
+      </div>
+    </div>
+    </div>
+    <div class="row blue-container">
+    <div class="col-sm-12 col-md-4 about">
+    <img src="{{ speaker.image }}" alt="{{ speaker.name }}" />
+    </div>
+    <div id="papers"></div>
+    <div class="col-sm-12 col-md-8 about-text">
+      <h2 class="lang en">{{ speaker.profile | markdownify }}</h2>
+      <h2 class="lang ja">{{ speaker.profile_ja | markdownify }}</h2>
+    <p></p>
+    </div>
+    </div>
+    <div id="section3">
+    <div class="row">
+    <div class="col-lg-12 section-text">
+      <p class="speaker-info lang en">TALK OVERVIEW</p>
+      <p class="speaker-info lang ja">トーク</p>
+      <h1>
+        <strong class="lang en">{{ speaker.session.title }}</strong>
+        <strong class="lang ja">{{ speaker.session.title }}</strong>
+      </h1>
+    </div>
+    </div>
+    </div>
+    <div id="section8">
+    <div class="row">
+    <div class="col-lg-12 section-text">
+    <div id="organisers"></div>
+    <p>{{ speaker.session.description | markdownify }}</p>
+    <p>
+     <ul style="list-style-type: none;text-align:left;line-height:3em;">
+       {% if speaker.github %}
+        <li><i class="fa fa-github"></i> <a href="https://github.com/{{ speaker.github }}" target="_blank">{{ speaker.github }}</a></li>
+       {% endif %}
+       {% if speaker.twitter %}
+        <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a></li>
+       {% endif %}
+       {% if speaker.facebook %}
+       <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/{{ speaker.facebook }}" target="_blank">{{ speaker.facebook }}</a></li>
+       {% endif %}
+       {% if speaker.google %}
+        <li><i class="fa fa-google-plus"></i> <a href="https://plus.google.com/{{ speaker.google }}" target="_blank">{{ speaker.google }}</a></li>
+       {% endif %}
+       {% if speaker.linkedin %}
+       <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{ speaker.linkedin }}/" target="_blank">{{ speaker.linkedin }}</a></li>
+       {% endif %}
+       {% if speaker.youtube %}
+       <li><i class="fa fa-youtube"></i><a href="https://www.youtube.com/user/{{ speaker.youtube }}" target="_blank">
+      {{ speaker.youtube }}</a></li>
+       {% endif %}
+       {% if speaker.blog && speaker.blog != '' %}
+       <li><i class="fa fa-rss-square"></i> <a href="{{ speaker.blog }}" target="_blank">{{ speaker.blog }}</a></li>
+       {% endif %}
+     </ul>
+    </p>
+    </div>
+  </div>
+</div>

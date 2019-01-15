@@ -22,30 +22,94 @@ Speakers
     </div>
 </div>
 <div id="section6">
-    <div class="row">
-        <div class="col-md-4 col-lg-2 organiser">
-            <a href="">
-                <div class="content-item-speaker">
-                    <img alt="TBA" src="img/speakers/speaker-female.jpg">
-                    <div class="overlay"></div>
-                    <div class="overlay-content">
-                      <h2 class="lang en">More speakers to be announced!</h2>
-                      <h2 class="lang ja">さらに追加アナウンスします！</h2>
-                    </div>
-                </div>
+  <div class="row">
+    <div class="container">
+      {% for speaker in site.data.speakers %}
+      <div class="col-sm-3 thumbnail2">
+        <h3 class="partner-type rolldown" style="text-align:center">
+          <span class="lang en">{{ speaker.name }}</span>
+          <span class="lang ja">{{ speaker.name_ja }}</span>
+          {% if speaker.github %}
+            <a href="https://github.com/{{ speaker.github }}" target="_blank">
+              <i class="fa fa-github-square" style="color:white"></i>
             </a>
-        </div>
-        <div class="col-md-4 col-lg-2 organiser">
-            <a href="">
-                <div class="content-item-speaker">
-                    <img alt="TBA" src="img/speakers/speaker-male.jpg">
-                    <div class="overlay"></div>
-                    <div class="overlay-content">
-                      <h2 class="lang en">More speakers to be announced!</h2>
-                      <h2 class="lang ja">さらに追加アナウンスします！</h2>
-                    </div>
-                </div>
+          {% endif %}
+          {% if speaker.twitter %}
+            <a href="https://twitter.com/{{ speaker.twitter }}" target="_blank">
+              <i class="fa fa-twitter-square" style="color:white"></i>
             </a>
+          {% endif %}
+          {% if speaker.facebook %}
+            <a href="https://www.facebook.com/{{ speaker.facebook}}" target="_blank">
+              <i class="fa fa-facebook-square" style="color:white"></i>
+            </a>
+          {% endif %}
+          {% if speaker.google %}
+            <a href="https://plus.google.com/{{ speaker.google }}" target="_blank">
+              <i class="fa fa-google-plus" style="color:white"></i>
+            </a>
+          {% endif %}
+          {% if speaker.linkedin %}
+            <a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" target="_blank">
+              <i class="fa fa-linkedin" style="color:white"></i>
+            </a>
+          {% endif %}
+          {% if speaker.youtube %}
+            <a href="https://www.youtube.com/user/{{ speaker.youtube }}" target="_blank">
+              <i class="fa fa-youtube" style="color:white"></i>
+            </a>
+          {% endif %}
+          {% if speaker.blog %}
+            <a href="{{ speaker.blog}}" target="_blank">
+              <i class="fa fa-rss-square" style="color:white"></i>
+            </a>
+          {% endif %}
+        </h3>
+        <div class="caption">
+          <h4 class="lang en">{{ speaker.name }}</h4>
+          <h4 class="lang ja">{{ speaker.name_ja }}</h4>
+          <p class="lang en">
+            {% if speaker.title != '' %}
+              {{ speaker.title }} at 
+            {% endif %}
+            {{ speaker.company }}
+          </p>
+          <p class="lang ja">
+            {% if speaker.title_ja != '' %}
+              {{ speaker.title_ja }},
+            {% endif %}
+            {{ speaker.company_ja }}</p>
+          <a href="{{ speaker.page }}" class="label label-default lang en" rel="tooltip" title="More">More</a>
+          <a href="{{ speaker.page }}" class="label label-default lang ja" rel="tooltip" title="詳しく">詳しく</a>
         </div>
+        <img alt="{{ speaker.name }}" src="{{ speaker.image }}" />
+      </div>
+      {% endfor %}
+      
+      
+      <!-- more -->
+      <div class="col-sm-3 thumbnail2">
+        <h3 class="partner-type rolldown" style="text-align:center">
+          <span class="lang en">Awesome speaker!</span>
+          <span class="lang ja">素晴らしいスピーカー！</span>
+        </h3>
+        <div class="caption">
+          <h4 class="lang en">More speakers to be announced!</h4>
+          <h4 class="lang ja">さらに追加アナウンスします！</h4>
+        </div>
+        <img alt="TBA" src="img/speakers/speaker-female.jpg">
+      </div>
+      <div class="col-sm-3 thumbnail2">
+        <h3 class="partner-type rolldown" style="text-align:center">
+          <span class="lang en">Awesome speaker!</span>
+          <span class="lang ja">素晴らしいスピーカー！</span>
+        </h3>
+        <div class="caption">
+          <h4 class="lang en">More speakers to be announced!</h4>
+          <h4 class="lang ja">さらに追加アナウンスします！</h4>
+        </div>
+        <img alt="TBA" src="img/speakers/speaker-male.jpg">
+      </div>
     </div>
+  </div>
 </div>

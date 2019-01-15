@@ -1,0 +1,41 @@
+---
+layout: compress
+---
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    
+    <div id="section3">
+        <div class="row">
+            <div class="col-lg-12 section-text coc">
+                <h1><strong>{{ page.title }}</strong></h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12 section-text" style="text-align:left">
+          <strong>
+            {{ page.date | date: '%m-%d' }}
+          </strong>
+          <p>
+            {{ content | markdownify }}
+          </p>
+        </div>
+    </div>
+    
+    {% include script.html %}
+    
+    {% include footer.html %}
+  </body>
+</html>

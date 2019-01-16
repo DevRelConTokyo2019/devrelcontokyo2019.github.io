@@ -20,6 +20,8 @@
   page: /speakers/matz
   image: /img/speakers/matz.jpg
   list: true
+  github: matz
+  twitter: yukihiro_matz
 - objectId: czgiv7jJ0DJ809gZ
   name: Melinda Seckington
   name_ja: Melinda Seckington

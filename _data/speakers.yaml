@@ -100,3 +100,39 @@
   image: /img/speakers/terence.jpg
   list: true
   Slack: true
+  needhotel: true
+- objectId: cDEIvDz1GfTtpkSB
+  name: Peter Moskovits
+  name_ja: Peter Moskovits
+  company: IBM
+  company_ja: IBM
+  profile: >-
+    Peter leads IBM’s world-wide developer advocacy teams raising awareness of a
+    wide range of IBM’s technologies (Watson AI, blockchain, containers,
+    serverless, IoT) in San Francisco, New York, Sao Paulo, London, Berlin,
+    Amsterdam, Tel Aviv, Dubai, Bangalore, and Tokyo.
+
+    Before joining IBM, Peter was Head of Real-Time Solutions at Kaazing, a
+    startup that pioneered the WebSocket standard. Prior to that, Peter was
+    Director of Product Management at Oracle, responsible for Oracle’s portal
+    product strategy. Peter is a frequent speaker at conferences and industry
+    events world wide, and is the co-author of two books: The Definitive Guide
+    to HTML5 WebSocket and the Oracle WebCenter 11g Handbook.
+  profile_ja: >-
+    Peter leads IBM’s world-wide developer advocacy teams raising awareness of a
+    wide range of IBM’s technologies (Watson AI, blockchain, containers,
+    serverless, IoT) in San Francisco, New York, Sao Paulo, London, Berlin,
+    Amsterdam, Tel Aviv, Dubai, Bangalore, and Tokyo.
+
+    Before joining IBM, Peter was Head of Real-Time Solutions at Kaazing, a
+    startup that pioneered the WebSocket standard. Prior to that, Peter was
+    Director of Product Management at Oracle, responsible for Oracle’s portal
+    product strategy. Peter is a frequent speaker at conferences and industry
+    events world wide, and is the co-author of two books: The Definitive Guide
+    to HTML5 WebSocket and the Oracle WebCenter 11g Handbook.
+  title: 'Program Director, World-wide Developer Advocacy'
+  title_ja: 'Program Director, World-wide Developer Advocacy'
+  page: /speakers/peter
+  image: /img/speakers/peter.jpg
+  needhotel: true
+  list: true

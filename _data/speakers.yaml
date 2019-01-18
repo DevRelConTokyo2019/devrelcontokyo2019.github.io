@@ -140,3 +140,24 @@
   list: true
   linkedin: petermoskovits
   blog: 'https://developer.ibm.com/'
+- objectId: kN3KzFlxYJcPBbSC
+  name: Madoka Chiyoda
+  name_ja: 千代田まどか (ちょまど)
+  twitter: chomado
+  profile: >-
+    I’m a Cloud Developer Advocate, a DevRel role at Microsoft. I’m not only an
+    engineer but also a manga artist, and I have more than 50k followers on
+    Twitter (@chomado).
+  profile_ja: >-
+    I’m a Cloud Developer Advocate, a DevRel role at Microsoft. I’m not only an
+    engineer but also a manga artist, and I have more than 50k followers on
+    Twitter (@chomado).
+  title: Cloud Developer Advocate
+  title_ja: Cloud Developer Advocate
+  blog: 'https://github.com/chomado'
+  page: /speakers/chomado
+  image: /img/speakers/chomado.jpg
+  github: chomado
+  list: true
+  company_ja: Microsoft
+  company: Microsoft

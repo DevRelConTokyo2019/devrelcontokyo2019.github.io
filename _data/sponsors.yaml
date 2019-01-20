@@ -25,3 +25,39 @@
   size: 33
   type: sponsor
   column: 3
+- objectId: A7Kzgfa4w9IqqcTA
+  name: Ekispert
+  picture: /img/sponsors/ekispert.png
+  url: 'https://ekiworld.net/service/lp/webservice/'
+  rank: 6
+  title: Silver sponsor
+  size: 33
+  type: sponsor
+  column: 3
+- objectId: QVKypRaHEydjEc18
+  name: CodeZine
+  picture: /img/sponsors/codezine.png
+  url: 'https://codezine.jp'
+  rank: 8
+  title: Media
+  size: 33
+  type: sponsor
+  column: 3
+- objectId: sfYXy64y97Sb5FVB
+  name: Think IT
+  picture: /img/sponsors/thinkit.png
+  url: 'https://thinkit.co.jp'
+  rank: 8
+  title: Media
+  size: 33
+  type: sponsor
+  column: 3
+- objectId: IznKMSSnyrlIaKoD
+  name: Gihyo
+  picture: /img/sponsors/gihyo.png
+  url: 'http://gihyo.jp'
+  rank: 8
+  title: Media
+  size: 33
+  type: sponsor
+  column: 3

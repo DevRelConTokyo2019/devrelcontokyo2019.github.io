@@ -79,6 +79,95 @@
     In the past I’ve worked as a contractor, startup founder, event organizer,
     and developer advocate at Braintree/PayPal.
   company_ja: Box
+- objectId: ygZZwvOkOr4YwBiR
+  name: Myrsini Koukiasa
+  name_ja: Myrsini Koukiasa
+  twitter: myrsiningos
+  profile: >-
+    Myrsini is a Community Manager at Nexmo. In the past, she’s run hackathons
+    and developer programs for PayPal, Braintree and Major League Hacking. She
+    loves running events and project management as much as creating content. A
+    keen coffee drinker and expert devourer of new Netflix shows, you’ll never
+    run our of things to discuss.
+  title: ''
+  title_ja: ''
+  blog: 'https://developer.nexmo.com/'
+  page: /speakers/myrsini
+  profile_ja: >-
+    Myrsini is a Community Manager at Nexmo. In the past, she’s run hackathons
+    and developer programs for PayPal, Braintree and Major League Hacking. She
+    loves running events and project management as much as creating content. A
+    keen coffee drinker and expert devourer of new Netflix shows, you’ll never
+    run our of things to discuss.
+  needhotel: true
+  company_ja: Nexmo
+  image: /img/speakers/myrsini.jpg
+  list: true
+  company: Nexmo
+- objectId: QHzHSg8hfHU50nLS
+  name: Jaime Lopez Jr
+  name_ja: Jaime Lopez Jr
+  twitter: DevWithTheHair
+  profile: >-
+    Jaime is an experienced software developer with a focus on iOS development.
+    He led the iOS development team at OfferUp where he helped make the buying
+    and selling experience simpler, faster, and safer. Jaime is currently an iOS
+    developer at Simple, where he helps make personal banking delightful. He is
+    also a co-host of the More Than Just Code podcast. Jaime often enjoys a nice
+    cup of coffee and conversation on various topics.
+  profile_ja: >-
+    Jaime is an experienced software developer with a focus on iOS development.
+    He led the iOS development team at OfferUp where he helped make the buying
+    and selling experience simpler, faster, and safer. Jaime is currently an iOS
+    developer at Simple, where he helps make personal banking delightful. He is
+    also a co-host of the More Than Just Code podcast. Jaime often enjoys a nice
+    cup of coffee and conversation on various topics.
+  title: ''
+  title_ja: ''
+  blog: 'http://www.devwiththehair.com/'
+  page: /speakers/jaime
+  needhotel: true
+  image: /img/speakers/jaime.jpg
+  list: true
+- objectId: wXv6jHfhUoEDiijK
+  name: Wataru Yamazaki
+  name_ja: Wataru Yamazaki
+  twitter: wyamazak
+  profile: >-
+    Wataru Yamazaki is a General Manager and the team lead of “enebular” product
+    marketing team, Uhuru Corporation based in Tokyo, Japan.
+
+
+    He runs a product marketing team and also acts as a developer relation of
+    the product - organises meetups, a user community, tech contents - demos,
+    hands-on labs, and communicate with users via SNS.
+
+
+    He is a community member of “DevRelJp”, “Community-Marketing Community”,
+    “Node-RED User Group”, “IoTLT”, “Cloud Developer Circle”, and so on. As an
+    admin. member, he joins “DevRelJp English” and “DevRel/Community”
+    communities.
+  profile_ja: >-
+    Wataru Yamazaki is a General Manager and the team lead of “enebular” product
+    marketing team, Uhuru Corporation based in Tokyo, Japan.
+
+
+    He runs a product marketing team and also acts as a developer relation of
+    the product - organises meetups, a user community, tech contents - demos,
+    hands-on labs, and communicate with users via SNS.
+
+
+    He is a community member of “DevRelJp”, “Community-Marketing Community”,
+    “Node-RED User Group”, “IoTLT”, “Cloud Developer Circle”, and so on. As an
+    admin. member, he joins “DevRelJp English” and “DevRel/Community”
+    communities.
+  title: ''
+  title_ja: ''
+  blog: 'https://about.me/wyamazak'
+  page: /speakers/wataru
+  Slack: true
+  image: /img/speakers/wataru.jpg
+  list: true
 - objectId: g7uvZ86u6F68ijtJ
   name: Terence Huynh
   name_ja: Terence Huynh
@@ -161,3 +250,118 @@
   list: true
   company_ja: Microsoft
   company: Microsoft
+- objectId: yQFSshdUcfSx26WN
+  name: Matthew Revell
+  name_ja: Matthew Revell
+  company: Hoopy
+  company_ja: Hoopy
+  twitter: matthewrevell
+  profile: >-
+    Matthew runs Hoopy, the developer relations consultancy, working with
+    clients around the world and in 2015 he founded the DevRelCon series.
+  profile_ja: >-
+    Matthew runs Hoopy, the developer relations consultancy, working with
+    clients around the world and in 2015 he founded the DevRelCon series.
+  blog: 'https://devrel.net'
+  page: /speakers/matthew/
+  image: /img/speakers/matthew.jpg
+  needhotel: true
+  facebook: matthewrevell
+  list: true
+  Slack: true
+- objectId: kHsf8o5uCWCD3Vcd
+  name: Kristof Van Tomme
+  name_ja: Kristof Van Tomme
+  twitter: kvantomme
+  profile: >-
+    Kristof Van Tomme is an open source strategist and architect. He is the CEO
+    and co-founder of Pronovix, a company that builds developer portals and
+    documentation systems in Drupal. He’s got a degree in bioengineering and is
+    a regular speaker at technology conferences. For a few years now he’s been
+    building bridges between the documentation, API and Drupal communities.
+  profile_ja: >-
+    Kristof Van Tomme is an open source strategist and architect. He is the CEO
+    and co-founder of Pronovix, a company that builds developer portals and
+    documentation systems in Drupal. He’s got a degree in bioengineering and is
+    a regular speaker at technology conferences. For a few years now he’s been
+    building bridges between the documentation, API and Drupal communities.
+  blog: 'https://pronovix.com/articles'
+  page: /speakers/kristof/
+  image: /img/speakers/kristof.jpg
+  list: true
+- objectId: gn1xb7UPbwCyoM6L
+  name: Christina Aldan
+  name_ja: Christina Aldan
+  twitter: luckygirliegirl
+  profile: >-
+    Christina Aldan is a TEDx speaker, trainer, and digital advertising
+    consultant whose boutique agency, LG Designs, offers businesses brand
+    consulting and creative content for everyday media. With over a decade of
+    experience in the digital advertising realm, Christina is highly regarded
+    for her approach to business, partnering with clients to find unique
+    strategies that ensure their advertising goals are met. Christina builds
+    connections through her keynote addresses, training workshops, and
+    technological education. She uses these tools to help individuals and
+    businesses cultivate value in everyday media. She has presented trainings
+    for the Microsoft MVP community, among others. She also served as Chief
+    Marketing Officer for PrayerSpark and as Marketing Coordinator for
+    Starmark1. Christina uses her charisma and expertise to inspire others by
+    mentoring women in business like herself. She also has sat on state and
+    local boards supporting women in tech, entrepreneurship, and children with
+    learning disabilities.
+
+
+    She is the recipient of the Las Vegas Women in Tech Community Service Award,
+    the Distinguished Woman of the Year Award in STEM. Learn more at:
+    ChristinaAldan.com and connect on
+    https://www.linkedin.com/in/luckygirliegirl.
+  profile_ja: >-
+    Christina Aldan is a TEDx speaker, trainer, and digital advertising
+    consultant whose boutique agency, LG Designs, offers businesses brand
+    consulting and creative content for everyday media. With over a decade of
+    experience in the digital advertising realm, Christina is highly regarded
+    for her approach to business, partnering with clients to find unique
+    strategies that ensure their advertising goals are met. Christina builds
+    connections through her keynote addresses, training workshops, and
+    technological education. She uses these tools to help individuals and
+    businesses cultivate value in everyday media. She has presented trainings
+    for the Microsoft MVP community, among others. She also served as Chief
+    Marketing Officer for PrayerSpark and as Marketing Coordinator for
+    Starmark1. Christina uses her charisma and expertise to inspire others by
+    mentoring women in business like herself. She also has sat on state and
+    local boards supporting women in tech, entrepreneurship, and children with
+    learning disabilities.
+
+
+    She is the recipient of the Las Vegas Women in Tech Community Service Award,
+    the Distinguished Woman of the Year Award in STEM. Learn more at:
+    ChristinaAldan.com and connect on
+    https://www.linkedin.com/in/luckygirliegirl.
+  blog: 'http://iamagoodmix.com/blog/'
+  page: /speakers/christina/
+  image: /img/speakers/christina.jpg
+  list: true
+- objectId: IBEmDrctQzzIcPhK
+  name: Jessica Rose
+  name_ja: Jessica Rose
+  twitter: jesslynnrose
+  profile: >-
+    Jessica Rose is a self taught technologist obsessed with fostering more
+    equal access to technical education and meaningful work in tech. She’s
+    working with Mozilla on strategy and helping their TechSpeakers program turn
+    out the next generation of folks you’ll see on this stage. She’s the host of
+    the Pursuit Podcast, co-founded Trans*Code and founded the Open Code meetup
+    series. She’s always excited to hear about what your working on, come say
+    hello!
+  profile_ja: >-
+    Jessica Rose is a self taught technologist obsessed with fostering more
+    equal access to technical education and meaningful work in tech. She’s
+    working with Mozilla on strategy and helping their TechSpeakers program turn
+    out the next generation of folks you’ll see on this stage. She’s the host of
+    the Pursuit Podcast, co-founded Trans*Code and founded the Open Code meetup
+    series. She’s always excited to hear about what your working on, come say
+    hello!
+  blog: 'http://jessica.tech'
+  page: /speakers/jessica/
+  image: /img/speakers/jessica.jpg
+  list: true

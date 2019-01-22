@@ -22,6 +22,21 @@
   list: true
   github: matz
   twitter: yukihiro_matz
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  blog: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  stackoverflow: ''
+  facebook: ''
+  google: ''
+  money: 0
+  Slack: ''
+  needhotel: false
 - objectId: czgiv7jJ0DJ809gZ
   name: Melinda Seckington
   name_ja: Melinda Seckington
@@ -44,6 +59,21 @@
     has been organising them at Geeks of London. She also writes at MissGeeky, a
     blog about all things geeky and girly.
   company_ja: FutureLearn
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  money: 0
+  Slack: ''
+  needhotel: false
 - objectId: uo607wtw9omntydM
   name: Cristiano Betta
   name_ja: Cristiano Betta
@@ -79,6 +109,20 @@
     In the past I’ve worked as a contractor, startup founder, event organizer,
     and developer advocate at Braintree/PayPal.
   company_ja: Box
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  money: 0
+  needhotel: false
 - objectId: ygZZwvOkOr4YwBiR
   name: Myrsini Koukiasa
   name_ja: Myrsini Koukiasa
@@ -104,6 +148,20 @@
   image: /img/speakers/myrsini.jpg
   list: true
   company: Nexmo
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  money: ''
+  Slack: ''
 - objectId: QHzHSg8hfHU50nLS
   name: Jaime Lopez Jr
   name_ja: Jaime Lopez Jr
@@ -129,6 +187,22 @@
   needhotel: true
   image: /img/speakers/jaime.jpg
   list: true
+  company_ja: ''
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  company: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  money: ''
+  Slack: ''
 - objectId: wXv6jHfhUoEDiijK
   name: Wataru Yamazaki
   name_ja: Wataru Yamazaki
@@ -168,6 +242,22 @@
   Slack: true
   image: /img/speakers/wataru.jpg
   list: true
+  company_ja: ''
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  company: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  money: 0
+  needhotel: false
 - objectId: Uf2CHXO6vnvCvpMg
   name: Baruch Sadogursky
   name_ja: Baruch Sadogursky
@@ -211,30 +301,18 @@
   github: jbaruch
   linkedin: jbaruch
   company: JFrog
-- objectId: g7uvZ86u6F68ijtJ
-  name: Terence Huynh
-  name_ja: Terence Huynh
-  twitter: terencehuynh
-  profile: >-
-    Terence Huynh is the founder and one of the organisers of
-    [UNIHACK](https://unihack.net/), Australia’s largest student hackathon.
-    First started in 2014, it has quickly become one of the country’s premier
-    hackathons with events in Melbourne and Sydney. He is also a full-stack
-    software engineer at Localz, a Melbourne-based startup.
-  profile_ja: >-
-    Terence Huynh is the founder and one of the organisers of
-    [UNIHACK](https://unihack.net/), Australia’s largest student hackathon.
-    First started in 2014, it has quickly become one of the country’s premier
-    hackathons with events in Melbourne and Sydney. He is also a full-stack
-    software engineer at Localz, a Melbourne-based startup.
-  title: ''
-  title_ja: ''
-  blog: 'https://terencehuynh.com'
-  page: /speakers/terence
-  image: /img/speakers/terence.jpg
-  list: true
-  Slack: true
-  needhotel: true
+  youtube: ''
+  session: ''
+  discount: ''
+  instagram: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  stackoverflow: ''
+  facebook: ''
+  google: ''
+  money: ''
+  Slack: ''
 - objectId: cDEIvDz1GfTtpkSB
   name: Peter Moskovits
   name_ja: Peter Moskovits
@@ -272,6 +350,20 @@
   list: true
   linkedin: petermoskovits
   blog: 'https://developer.ibm.com/'
+  youtube: ''
+  session: ''
+  discount: ''
+  instagram: ''
+  number: ''
+  twitter: ''
+  preparty: ''
+  hotel: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  money: ''
+  Slack: ''
 - objectId: kN3KzFlxYJcPBbSC
   name: Madoka Chiyoda
   name_ja: 千代田まどか (ちょまど)
@@ -293,6 +385,20 @@
   list: true
   company_ja: Microsoft
   company: Microsoft
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  stackoverflow: ''
+  facebook: ''
+  google: ''
+  money: ''
+  Slack: ''
+  needhotel: false
 - objectId: yQFSshdUcfSx26WN
   name: Matthew Revell
   name_ja: Matthew Revell
@@ -312,6 +418,20 @@
   facebook: matthewrevell
   list: true
   Slack: true
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  title: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  stackoverflow: ''
+  github: ''
+  google: ''
+  title_ja: ''
+  money: ''
 - objectId: kHsf8o5uCWCD3Vcd
   name: Kristof Van Tomme
   name_ja: Kristof Van Tomme
@@ -332,6 +452,25 @@
   page: /speakers/kristof/
   image: /img/speakers/kristof.jpg
   list: true
+  company_ja: ''
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  title: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  company: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  title_ja: ''
+  money: ''
+  Slack: ''
+  needhotel: ''
 - objectId: gn1xb7UPbwCyoM6L
   name: Christina Aldan
   name_ja: Christina Aldan
@@ -384,6 +523,25 @@
   page: /speakers/christina/
   image: /img/speakers/christina.jpg
   list: true
+  company_ja: ''
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  title: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  company: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  title_ja: ''
+  money: ''
+  Slack: ''
+  needhotel: ''
 - objectId: IBEmDrctQzzIcPhK
   name: Jessica Rose
   name_ja: Jessica Rose
@@ -408,3 +566,134 @@
   page: /speakers/jessica/
   image: /img/speakers/jessica.jpg
   list: true
+  company_ja: ''
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  title: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  company: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  title_ja: ''
+  money: ''
+  Slack: ''
+  needhotel: ''
+- objectId: 67hOI3VlYB5SXiqE
+  name: Simon Sasaki
+  name_ja: 佐々木士門
+  company: IBM
+  company_ja: IBM
+  twitter: simonTokyo
+  profile: >-
+    IBM Software Developer (ex IBM Developer Advocate)
+
+
+    Engage with developers through workshops and as session speaker at tech
+    conference. My main sessions contents are about AI, Virtual Reality, Cloud
+    Serverless platform, Quantum computing and Blockchain. also give a speech as
+    a guest speaker at educational institutions such as university.
+  profile_ja: >-
+    IBM Software Developer (ex IBM Developer Advocate)
+
+
+    Engage with developers through workshops and as session speaker at tech
+    conference. My main sessions contents are about AI, Virtual Reality, Cloud
+    Serverless platform, Quantum computing and Blockchain. also give a speech as
+    a guest speaker at educational institutions such as university.
+  page: /speakers/simon/
+  image: /img/speakers/simon.jpg
+  list: true
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  title: ''
+  blog: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  title_ja: ''
+  money: ''
+  Slack: ''
+  needhotel: ''
+- objectId: ExZ2jgJjOXUKAxrF
+  name: Jesse Casman
+  name_ja: Jesse Casman
+  twitter: jcasman
+  profile: >-
+    I am a software marketing executive with extensive experience in early-stage
+    startups in Silicon Valley and Japan. I focus on building developer
+    communities. Developer Relations is a key component to reaching customers
+    and building awareness. I work with great companies like IBM, RICOH, and
+    Renesas to leverage open source, open communities and open APIs to build
+    strong developer communities that benefit community members and companies
+    alike.
+
+
+    DevRel doesn’t just happen, it requires planning, effort and insight. I have
+    more than 15 years experience developing smart, high impact marketing and
+    developer relations campaigns. I have been deeply involved in open source,
+    networking, software development, enterprise software and high-performance
+    computing (HPC).
+
+    I act as the face of companies and communities and have a wide range of
+    specialties around communications: marketing strategy, messaging and
+    positioning development, competitive analysis, content development (writing
+    and graphics), developer-focused tech PR, US market entry for non-US
+    companies, Japanese language fluency.
+  profile_ja: >-
+    I am a software marketing executive with extensive experience in early-stage
+    startups in Silicon Valley and Japan. I focus on building developer
+    communities. Developer Relations is a key component to reaching customers
+    and building awareness. I work with great companies like IBM, RICOH, and
+    Renesas to leverage open source, open communities and open APIs to build
+    strong developer communities that benefit community members and companies
+    alike.
+
+
+    DevRel doesn’t just happen, it requires planning, effort and insight. I have
+    more than 15 years experience developing smart, high impact marketing and
+    developer relations campaigns. I have been deeply involved in open source,
+    networking, software development, enterprise software and high-performance
+    computing (HPC).
+
+    I act as the face of companies and communities and have a wide range of
+    specialties around communications: marketing strategy, messaging and
+    positioning development, competitive analysis, content development (writing
+    and graphics), developer-focused tech PR, US market entry for non-US
+    companies, Japanese language fluency.
+  blog: 'http://www.oppkey.com'
+  page: /speakers/jesse/
+  image: /img/speakers/jesse.jpg
+  list: true
+  company_ja: ''
+  youtube: ''
+  session: ''
+  discount: ''
+  linkedin: ''
+  instagram: ''
+  title: ''
+  number: ''
+  preparty: ''
+  hotel: ''
+  company: ''
+  stackoverflow: ''
+  github: ''
+  facebook: ''
+  google: ''
+  title_ja: ''
+  money: ''
+  Slack: ''
+  needhotel: ''

@@ -43,22 +43,22 @@
     <p>{{ speaker.session.description | markdownify }}</p>
     <p>
      <ul style="list-style-type: none;text-align:left;line-height:3em;">
-       {% if speaker.github %}
+       {% if speaker.github != '' %}
         <li><i class="fa fa-github"></i> <a href="https://github.com/{{ speaker.github }}" target="_blank">{{ speaker.github }}</a></li>
        {% endif %}
-       {% if speaker.twitter %}
+       {% if speaker.twitter != '' %}
         <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a></li>
        {% endif %}
-       {% if speaker.facebook %}
+       {% if speaker.facebook != '' %}
        <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/{{ speaker.facebook }}" target="_blank">{{ speaker.facebook }}</a></li>
        {% endif %}
-       {% if speaker.google %}
+       {% if speaker.google != '' %}
         <li><i class="fa fa-google-plus"></i> <a href="https://plus.google.com/{{ speaker.google }}" target="_blank">{{ speaker.google }}</a></li>
        {% endif %}
-       {% if speaker.linkedin %}
+       {% if speaker.linkedin != '' %}
        <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{ speaker.linkedin }}/" target="_blank">{{ speaker.linkedin }}</a></li>
        {% endif %}
-       {% if speaker.youtube %}
+       {% if speaker.youtube != '' %}
        <li><i class="fa fa-youtube"></i><a href="https://www.youtube.com/user/{{ speaker.youtube }}" target="_blank">
       {{ speaker.youtube }}</a></li>
        {% endif %}

@@ -665,6 +665,49 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+- objectId: AXlgHFqeQC3LtCCc
+  number: ''
+  name: Seigo Tanaka
+  name_ja: 田中 正吾
+  company: 1ft-seabass
+  company_ja: 1ft-seabass
+  twitter: 1ft_seabass
+  profile: >-
+    I worked front-end Engineer from 2004. Then I maked interactive contents
+    using Adobe FLASH.Recently, I base on front-end technology.I am related to
+    infomation and user-interface gradually. ex. IoT , Mixed Reality and AI…
+
+
+    Additionally I got 2018-2020 IBM Champion and 2018-2019 Microsoft MVP (
+    Windows Development ). I’m in the position connecting DevRel from outside.
+  profile_ja: >-
+    I worked front-end Engineer from 2004. Then I maked interactive contents
+    using Adobe FLASH.Recently, I base on front-end technology.I am related to
+    infomation and user-interface gradually. ex. IoT , Mixed Reality and AI…
+
+
+    Additionally I got 2018-2020 IBM Champion and 2018-2019 Microsoft MVP (
+    Windows Development ). I’m in the position connecting DevRel from outside.
+  title: ''
+  title_ja: ''
+  blog: 'https://1ft-seabass.jp/'
+  page: /speakers/seigo/
+  image: /img/speakers/seigo.jpg
+  needhotel: ''
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session: ''
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
 - objectId: 0KXHfOp3FWagSWNZ
   number: ''
   name: Brian Douglas

@@ -665,6 +665,67 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+- objectId: U1y9YU3tDATEF1K9
+  number: ''
+  name: Nauman Ali
+  name_ja: Nauman Ali
+  company: ''
+  company_ja: ''
+  twitter: mnaumanali94
+  profile: >-
+    Nauman Ali is an API enthusiast who dived into the API world early into his
+    career. Ever since his days at college, he was deeply interested in how
+    systems interact and how the interactions between them can be optimized to
+    produce better connections between digital entities. Working on a similar
+    project he realized how hard it gets for developers to work with unfamiliar
+    systems when working on these integrations and this opened him up to the
+    world of Developer Experience and making APIs easy to consume. Since then he
+    took off his journey with APIMatic, a New Zealand based startup set out to
+    do the same. Nauman currently is leading the Developer Experience Portal and
+    the CodeGen project at APIMatic and in his quest has met API Evangelists
+    from around the world and has spoken at a number of conferences. He has
+    developed a considerable insight into problems faced by both API Developers
+    and consumer and can feel their pain and is set out on a mission to make
+    life easy for both of them. In his free time, he loves watching football and
+    is currently really sad about Ronaldo leaving his favorite club, Real
+    Madrid.
+  profile_ja: >-
+    Nauman Ali is an API enthusiast who dived into the API world early into his
+    career. Ever since his days at college, he was deeply interested in how
+    systems interact and how the interactions between them can be optimized to
+    produce better connections between digital entities. Working on a similar
+    project he realized how hard it gets for developers to work with unfamiliar
+    systems when working on these integrations and this opened him up to the
+    world of Developer Experience and making APIs easy to consume. Since then he
+    took off his journey with APIMatic, a New Zealand based startup set out to
+    do the same. Nauman currently is leading the Developer Experience Portal and
+    the CodeGen project at APIMatic and in his quest has met API Evangelists
+    from around the world and has spoken at a number of conferences. He has
+    developed a considerable insight into problems faced by both API Developers
+    and consumer and can feel their pain and is set out on a mission to make
+    life easy for both of them. In his free time, he loves watching football and
+    is currently really sad about Ronaldo leaving his favorite club, Real
+    Madrid.
+  title: ''
+  title_ja: ''
+  blog: 'https://www.linkedin.com/in/nauman-ali/'
+  page: /speakers/nauman/
+  image: /img/speakers/nauman.jpg
+  needhotel: ''
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session: ''
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
 - objectId: AXlgHFqeQC3LtCCc
   number: ''
   name: Seigo Tanaka

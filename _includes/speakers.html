@@ -80,10 +80,10 @@ Speakers
                 {{ speaker.title_ja }},
               {% endif %}
               {{ speaker.company_ja }}</p>
-            <a href="{{ speaker.page }}" class="label label-default lang en" rel="tooltip" title="More">More</a>
-            <a href="{{ speaker.page }}" class="label label-default lang ja" rel="tooltip" title="詳しく">詳しく</a>
+            <a href="/speakers/{{ speaker.key }}/" class="label label-default lang en" rel="tooltip" title="More">More</a>
+            <a href="/speakers/{{ speaker.key }}/" class="label label-default lang ja" rel="tooltip" title="詳しく">詳しく</a>
           </div>
-          <img alt="{{ speaker.name }}" src="{{ speaker.image }}" />
+          <img alt="{{ speaker.name }}" src="/img/speakers/{{ speaker.key }}.jpg" />
         </div>
         {% endif %}
       {% endfor %}

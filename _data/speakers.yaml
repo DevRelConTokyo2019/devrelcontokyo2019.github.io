@@ -37,6 +37,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: matz
 - objectId: w1bOVXZhPv2DaW7O
   number: ''
   name: Melinda Seckington
@@ -74,6 +75,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: melinda
 - objectId: 6Fpn7OaIbbVr0DwQ
   number: ''
   name: Cristiano Betta
@@ -123,6 +125,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: true
+  key: cristiano
 - objectId: GgqJvFKfp6Jc6xTL
   number: ''
   name: Myrsini Koukiasa
@@ -162,6 +165,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: myrsini
 - objectId: KM7txvc5AetoIGOZ
   number: ''
   name: Jaime Lopez Jr
@@ -203,6 +207,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: jaime
 - objectId: uQQjqNfZNJCsVP59
   number: ''
   name: Wataru Yamazaki
@@ -258,6 +263,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: true
+  key: wataru
 - objectId: qyUpWCZFBDpE0KKk
   number: ''
   name: Baruch Sadogursky
@@ -313,6 +319,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: baruch
 - objectId: MtHmDxVi5wZUNETi
   number: ''
   name: Terence Huynh
@@ -352,6 +359,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: true
+  key: terence
 - objectId: Qhazhg5LDpemyRdg
   number: ''
   name: Peter Moskovits
@@ -403,6 +411,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: peter
 - objectId: qwzBeEx8t7qJDvKX
   number: ''
   name: Madoka Chiyoda
@@ -438,6 +447,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: chomado
 - objectId: QRWZza6rmTf8QmUm
   number: ''
   name: Matthew Revell
@@ -471,6 +481,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: true
+  key: matthew
 - objectId: kDqmS26gmCrBX4mH
   number: ''
   name: Kristof Van Tomme
@@ -510,6 +521,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: kristof
 - objectId: y658abM6sJAVPCWU
   number: ''
   name: Jessica Rose
@@ -553,6 +565,47 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: jessica
+- objectId: emdFNey2l8nk2mfm
+  number: ''
+  name: Andy Piper
+  name_ja: Andy Piper
+  company: Twitter
+  company_ja: Twitter
+  twitter: andypiper
+  profile: >-
+    Lead Developer Advocate, and Public Speaker in London, United Kingdom A
+    widely-known Social Bridgebuilder, LEGO fanatic, technologist, and speaker.
+
+
+    Andy is an enabler, a synthesiser, a connector, and a community-builder.
+  profile_ja: >-
+    Lead Developer Advocate, and Public Speaker in London, United Kingdom A
+    widely-known Social Bridgebuilder, LEGO fanatic, technologist, and speaker.
+
+
+    Andy is an enabler, a synthesiser, a connector, and a community-builder.
+  title: ''
+  title_ja: ''
+  blog: 'https://andypiper.co.uk'
+  page: /speakers/andy/
+  image: /img/speakers/andy.jpg
+  needhotel: ''
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session: ''
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
+  key: andy
 - objectId: ec2IlVDxjbGiORhl
   number: ''
   name: Simon Sasaki
@@ -596,6 +649,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: simon
 - objectId: QTnuwrmVkkLD5cwC
   number: ''
   name: Jesse Casman
@@ -665,6 +719,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: jesse
 - objectId: U1y9YU3tDATEF1K9
   number: ''
   name: Nauman Ali
@@ -726,6 +781,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: nauman
 - objectId: AXlgHFqeQC3LtCCc
   number: ''
   name: Seigo Tanaka
@@ -769,6 +825,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: seigo
 - objectId: 0KXHfOp3FWagSWNZ
   number: ''
   name: Brian Douglas
@@ -810,3 +867,4 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  key: brian

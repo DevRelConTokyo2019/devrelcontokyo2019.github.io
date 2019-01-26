@@ -69,10 +69,7 @@
     has been organising them at Geeks of London. She also writes at MissGeeky, a
     blog about all things geeky and girly.
   profile_ja: >-
-    Melinda is a Ruby developer at FutureLearn, a social learning platform. She
-    loves attending BarCamps, Hackdays and other tech meet ups, and since 2009
-    has been organising them at Geeks of London. She also writes at MissGeeky, a
-    blog about all things geeky and girly.
+    メリンダはソーシャルラーニングプラットフォームを提供するFutureLearnのRubyデベロッパーです。彼女はBarCamps、Hackdaysなどのテックミートアップに参加するのが好きで、2009年からロンドンのギークスでそれらを企画しています。彼女は[MissGeeky（オタクな女の子）](https://missgeeky.com)というブログを書いています。
   title: ''
   title_ja: ''
   blog: 'http://missgeeky.com/'
@@ -171,16 +168,10 @@
     In the past I’ve worked as a contractor, startup founder, event organizer,
     and developer advocate at Braintree/PayPal.
   profile_ja: >-
-    I’m a Developer Advocate and Developer Experience designer at Box. I like to
-    look at great developer onboarding flows, analyzing and documenting the best
-    practices and pitfalls of common design practices. Although I have over 15
-    years of development experience I believe that at the core we’re all
-    beginners at some things, and documentation and onboarding should reflect
-    that notion.
+    クリスチャーノはBoxのデベロッパーアドボケイトおよびDXデザイナーです。優れた開発者の体験フロー、一般的な設計手法におけるベストプラクティスと落とし穴の分析と文書化を行っています。最初はみんな初心者であり、その中心となるのはドキュメントと研修にあると考えています。クリスチャーノは15年以上の開発経験があります。
 
 
-    In the past I’ve worked as a contractor, startup founder, event organizer,
-    and developer advocate at Braintree/PayPal.
+    クリスチャーノはこれまでブレインツリー、PayPal、スタートアップのファウンダー、イベントの主催者、そして開発者として働いてきました。
   title: ''
   title_ja: ''
   blog: 'http://developer.box.com/'
@@ -410,8 +401,8 @@
   number: ''
   name: Wataru Yamazaki
   name_ja: Wataru Yamazaki
-  company: ''
-  company_ja: ''
+  company: Uhuru Corporation
+  company_ja: 株式会社ウフル
   twitter: wyamazak
   profile: >-
     Wataru Yamazaki is a General Manager and the team lead of “enebular” product
@@ -612,8 +603,8 @@
   number: ''
   name: Terence Huynh
   name_ja: Terence Huynh
-  company: ''
-  company_ja: ''
+  company: UNIHACK
+  company_ja: UNIHACK
   twitter: terencehuynh
   profile: >-
     Terence Huynh is the founder and one of the organisers of
@@ -886,8 +877,8 @@
   number: ''
   name: Matthew Revell
   name_ja: Matthew Revell
-  company: Hoopy
-  company_ja: Hoopy
+  company: Hoopy Limited
+  company_ja: Hoopy Limited
   twitter: matthewrevell
   profile: >-
     Matthew runs Hoopy, the developer relations consultancy, working with
@@ -1004,8 +995,8 @@
   number: ''
   name: Kristof Van Tomme
   name_ja: Kristof Van Tomme
-  company: ''
-  company_ja: ''
+  company: PRONOVIX GROUP BVBA
+  company_ja: PRONOVIX GROUP BVBA
   twitter: kvantomme
   profile: >-
     Kristof Van Tomme is an open source strategist and architect. He is the CEO

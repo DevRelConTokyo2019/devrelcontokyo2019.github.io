@@ -30,8 +30,8 @@
       <p class="speaker-info lang en">TALK OVERVIEW</p>
       <p class="speaker-info lang ja">トーク</p>
       <h1>
-        <strong class="lang en">{{ speaker.session.title }}</strong>
-        <strong class="lang ja">{{ speaker.session.title }}</strong>
+        <strong class="lang en">{{ speaker.session.title_en }}</strong>
+        <strong class="lang ja">{{ speaker.session.title_ja }}</strong>
       </h1>
     </div>
     </div>
@@ -40,7 +40,10 @@
     <div class="row">
     <div class="col-lg-12 section-text">
     <div id="organisers"></div>
-    <p>{{ speaker.session.description | markdownify }}</p>
+    <p class="lang en description">{{ speaker.session.description_en | newline_to_br }}</p>
+    <p class="lang ja description">
+      {{ speaker.session.description_ja | newline_to_br }}
+    </p>
     <p>
      <ul style="list-style-type: none;text-align:left;line-height:3em;">
        {% if speaker.github != '' %}

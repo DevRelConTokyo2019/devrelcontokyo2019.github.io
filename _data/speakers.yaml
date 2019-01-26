@@ -29,7 +29,25 @@
   discount: ''
   facebook: ''
   github: matz
-  session: ''
+  session:
+    objectId: wVSrIWkRRCJ8OnD9
+    title: TDB
+    title_ja: TDB
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Both
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: OQKbZdChO2Tep7EU
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -67,7 +85,65 @@
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: y4iiGhYiTGpRiGjH
+    title: The Art of Talk Design
+    title_ja: The Art of Talk Design
+    description_en: >-
+      The Art of Talk Design
+
+
+      Everywhere you look, stories surround us, and everyone has something
+      that’s worth sharing with others. As evangelists, we need to understand
+      how to structure our talks so they can have the best effect on the
+      audiences we are trying to reach. How do you discover the right angle and
+      the right story for a talk? How do you frame your story?
+
+
+      Within tech we know how to approach building a new product: we research
+      our user base, we figure out what and for who we’re trying to create
+      something for and we make sure we constantly iterate on what we’ve come up
+      with. So why aren’t we taking the same approach for our talks?
+
+
+      This talk will examine how to get in the right mindset of examining your
+      talk ideas, and will introduce a framework of how to design and iterate on
+      your talk. It will focus on several exercises and questions to help you
+      create the best talk for the story you’re trying to tell.
+    description_ja: >-
+      The Art of Talk Design
+
+
+      Everywhere you look, stories surround us, and everyone has something
+      that’s worth sharing with others. As evangelists, we need to understand
+      how to structure our talks so they can have the best effect on the
+      audiences we are trying to reach. How do you discover the right angle and
+      the right story for a talk? How do you frame your story?
+
+
+      Within tech we know how to approach building a new product: we research
+      our user base, we figure out what and for who we’re trying to create
+      something for and we make sure we constantly iterate on what we’ve come up
+      with. So why aren’t we taking the same approach for our talks?
+
+
+      This talk will examine how to get in the right mindset of examining your
+      talk ideas, and will introduce a framework of how to design and iterate on
+      your talk. It will focus on several exercises and questions to help you
+      create the best talk for the story you’re trying to tell.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: w1bOVXZhPv2DaW7O
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -117,7 +193,59 @@
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: Sak5wJqerRD0jpU3
+    title: Public Relations 101 for Developer Advocates
+    title_ja: Public Relations 101 for Developer Advocates
+    description_en: >-
+      Have you ever sent a tweet or email that you regretted sending
+      immediately? Have you ever paused before sending a tweet thinking "What
+      would my CEO thing of this?". Have you ever had to put out a fire because
+      your private email was accidentally forwarded to someone it was not
+      intended for?
+
+
+      Online, things we say live on forever yet still we often post tweets, blog
+      posts, emails without giving them a second thought. When one of these
+      backfires on us is when we need the insights of the field of Public
+      Relations. In this talk, Cristiano Betta, developer advocate at *** will
+      try to give you a set of basic questions that you can ask yourself to
+      prevent you from making the most basic mistakes. Additionally, he will
+      take you through the common practices in dealing with bad actors - those
+      trying to have you make a mistake or say the wrong thing. At the end of
+      this talk, you will be a bit more paranoid, yet more sure than ever before
+      you hit that "send" button.
+    description_ja: >-
+      Have you ever sent a tweet or email that you regretted sending
+      immediately? Have you ever paused before sending a tweet thinking "What
+      would my CEO thing of this?". Have you ever had to put out a fire because
+      your private email was accidentally forwarded to someone it was not
+      intended for?
+
+
+      Online, things we say live on forever yet still we often post tweets, blog
+      posts, emails without giving them a second thought. When one of these
+      backfires on us is when we need the insights of the field of Public
+      Relations. In this talk, Cristiano Betta, developer advocate at *** will
+      try to give you a set of basic questions that you can ask yourself to
+      prevent you from making the most basic mistakes. Additionally, he will
+      take you through the common practices in dealing with bad actors - those
+      trying to have you make a mistake or say the wrong thing. At the end of
+      this talk, you will be a bit more paranoid, yet more sure than ever before
+      you hit that "send" button.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Both
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: 6Fpn7OaIbbVr0DwQ
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -157,7 +285,37 @@
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: K6NhbQTh3xdpFrvk
+    title: Hackathons as an internal advocacy tool
+    title_ja: Hackathons as an internal advocacy tool
+    description_en: >-
+      In DevRel we speak a lot about external advocacy. But are we also giving
+      our internal community the love it needs? In this talk we’ll explore
+      strategies and go through practical tips for running impactful internal
+      hackathons. No previous experience necessary. Whether you work for a
+      startup or multi-thousand people company, and whatever your budget is,
+      we’ll go through solutions for all.
+    description_ja: >-
+      In DevRel we speak a lot about external advocacy. But are we also giving
+      our internal community the love it needs? In this talk we’ll explore
+      strategies and go through practical tips for running impactful internal
+      hackathons. No previous experience necessary. Whether you work for a
+      startup or multi-thousand people company, and whatever your budget is,
+      we’ll go through solutions for all.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: GgqJvFKfp6Jc6xTL
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -199,7 +357,47 @@
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: IR2z0vbL1H4vEr8Y
+    title: Helping Developers By Podcasting
+    title_ja: Helping Developers By Podcasting
+    description_en: >-
+      Many developers are by nature quiet introverts, but there’s so much to
+      gain from having more conversations — from rubber duck debugging, to
+      arguing about spaces vs tabs, to speaking at conferences, and podcasting
+      to the entire world!
+
+
+      In this session, More Than Just Code host Jaime will talk about his
+      experience with a tech podcast and helping developers in their technical
+      careers. Wherever you are on the scale from hermit to world-class famous
+      person tech blogger, how can talking about development and code make the
+      developer community better?
+    description_ja: >-
+      Many developers are by nature quiet introverts, but there’s so much to
+      gain from having more conversations — from rubber duck debugging, to
+      arguing about spaces vs tabs, to speaking at conferences, and podcasting
+      to the entire world!
+
+
+      In this session, More Than Just Code host Jaime will talk about his
+      experience with a tech podcast and helping developers in their technical
+      careers. Wherever you are on the scale from hermit to world-class famous
+      person tech blogger, how can talking about development and code make the
+      developer community better?
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: KM7txvc5AetoIGOZ
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -255,7 +453,59 @@
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: 80RoS23joe1udN7B
+    title: 5 Tips for making a robust DevRel team
+    title_ja: 5 Tips for making a robust DevRel team
+    description_en: >-
+      It's not easy to have a DevRel team especially for companies which are not
+      so big. But there're many things have to do. Then using external resources
+      is required, and it's not easy as well. From my real experience, I'll
+      share five tips on how to create a team to get a result!
+
+
+      There might be many tips we can try, but for the first twelve months, how
+      about trying only **FIVE** tips I always keep in mind. These are from my
+      experiences and **SIMPLE** though the effectiveness is not small. My goal
+      as a DevRel person is to acquire more users and create a user community of
+      our IoT application development service, since I've started this role from
+      March 2018. After nine months challenge, I could acquire hundreds of users
+      and about 150 members of the community.
+
+
+      I am still on the way of the journey, but I can show you real examples of
+      my failures and success.
+    description_ja: >-
+      It's not easy to have a DevRel team especially for companies which are not
+      so big. But there're many things have to do. Then using external resources
+      is required, and it's not easy as well. From my real experience, I'll
+      share five tips on how to create a team to get a result!
+
+
+      There might be many tips we can try, but for the first twelve months, how
+      about trying only **FIVE** tips I always keep in mind. These are from my
+      experiences and **SIMPLE** though the effectiveness is not small. My goal
+      as a DevRel person is to acquire more users and create a user community of
+      our IoT application development service, since I've started this role from
+      March 2018. After nine months challenge, I could acquire hundreds of users
+      and about 150 members of the community.
+
+
+      I am still on the way of the journey, but I can show you real examples of
+      my failures and success.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: uQQjqNfZNJCsVP59
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -311,7 +561,45 @@
   discount: ''
   facebook: ''
   github: jbaruch
-  session: ''
+  session:
+    objectId: UPQaTFnot3VrDs6h
+    title: >-
+      From Zero to Hero in 7 ~~hours~~ years (and counting). Tales of DevRel
+      Practitioner.
+    title_ja: >-
+      From Zero to Hero in 7 ~~hours~~ years (and counting). Tales of DevRel
+      Practitioner.
+    description_en: >-
+      After 7 years in DevRel in JFrog, Baruch knows one thing: in DevRel
+      learning never stops. In this talk, he will talk about what he learned
+      over his career and will share his experience on the most important topics
+      in DevRel: First of all, of course, KPIs and metrics, but also, where (and
+      how) the money comes from, hiring, management (since it's not only
+      self-management now), some other important stuff like too much travel, and
+      last, but not least, KPIs and metrics. But remember, learning never stops!
+      What are the changes we'll learn he's wrong about everything?!
+    description_ja: >-
+      After 7 years in DevRel in JFrog, Baruch knows one thing: in DevRel
+      learning never stops. In this talk, he will talk about what he learned
+      over his career and will share his experience on the most important topics
+      in DevRel: First of all, of course, KPIs and metrics, but also, where (and
+      how) the money comes from, hiring, management (since it's not only
+      self-management now), some other important stuff like too much travel, and
+      last, but not least, KPIs and metrics. But remember, learning never stops!
+      What are the changes we'll learn he's wrong about everything?!
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: qyUpWCZFBDpE0KKk
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: jbaruch
   youtube: ''
@@ -351,7 +639,43 @@
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: E9gMZ6uWSvY7cWdB
+    title: So you want to run a hackathon?
+    title_ja: So you want to run a hackathon?
+    description_en: >-
+      Hackathons are the biggest thing at the moment, and it seems that everyone
+      wants to hold one. Companies, startups, universities, and even governments
+      all want to do a hackathon. But where do you begin? How do you get others
+      to come and attend? And what is _even_ a mentor? This talk would go
+      through what you need to do to hold a successful kick-ass hackathon - and
+      if you really need to host your own hackathon in the first place. In
+      addition, it will go through how to tailor your hackathon to a different
+      audience (for example, an internal corporate hackathon versus a
+      public-facing hackathon).
+    description_ja: >-
+      Hackathons are the biggest thing at the moment, and it seems that everyone
+      wants to hold one. Companies, startups, universities, and even governments
+      all want to do a hackathon. But where do you begin? How do you get others
+      to come and attend? And what is _even_ a mentor? This talk would go
+      through what you need to do to hold a successful kick-ass hackathon - and
+      if you really need to host your own hackathon in the first place. In
+      addition, it will go through how to tailor your hackathon to a different
+      audience (for example, an internal corporate hackathon versus a
+      public-facing hackathon).
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: MtHmDxVi5wZUNETi
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -403,7 +727,25 @@
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: mcwbIBfLMsMPJUtK
+    title: TDB
+    title_ja: TDB
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Both
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: Qhazhg5LDpemyRdg
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: petermoskovits
   youtube: ''
@@ -439,7 +781,99 @@
   discount: ''
   facebook: ''
   github: chomado
-  session: ''
+  session:
+    objectId: 2zhefrcGxu7nTQA4
+    title: Why you need Ambassador Marketing for your DevRel business
+    title_ja: Why you need Ambassador Marketing for your DevRel business
+    description_en: >-
+      ## English ver.
+
+
+      In this digital era, people output their opinions easily through internet,
+      thus more and more companies are shifting towards ambassador marketing,
+      the ultimate form of “word of mouth” marketing, which needs building good
+      relationship between company and customer.
+
+
+      I'll talk about these following things:
+
+
+      1. What is a brand ambassador (corporate ambassador)?
+
+      2. Traditional one-way marketing V.S. Ambassador marketing
+
+      3. What is the deference between Influencer Marketing and Ambassador
+      Marketing
+
+      4. Why you need Ambassador Marketing for your DevRel business
+
+
+      ## Japanese ver.
+
+
+      *
+      昔はマス・マーケティングの時代と言われ、テレビや本を通して企業が『一方的に』大衆に情報を発信するのが一般的な時代でした。しかしデジタル時代と呼ばれる現代、企業と顧客の関係は、SNS
+      やスマートフォンの普及により、がらりと変わりました。SNS
+      を通して、顧客の声が可視化され、また拡散されるようになり、潜在的顧客はその『口コミ』を通して製品の購入や導入、店舗への来店を判断するようになっています。企業主体の情報発信の時代は終わり、顧客主体の情報発信の時代になった、ということです。
+
+      * 「アンバサダー」とは、積極的に企業の製品の口コミを SNS やブログなどに投稿、アウトプットしてくれる『情報発信型 &&
+      熱心なファン』のことを指します。例えば「松屋の新商品のハンバーグ定食めちゃ美味しいよ！」など写真付きツイートしてくれる人を指します。顧客主体の情報発信の現代は、この素晴らしいアンバサダーの方々をいかに確保し、維持するかが非常に大切になってきます。これは一般的な話だけではなく、Developer
+      Relation の分野でも同じことが言えます。
+
+      *
+      私のセッションでは、このアンバサダーマーケティングと、よく聞くインフルエンサーマーケティングとの違い(全く違います)、そしてアンバサダーマーケティングをどう
+      Developer Relation で生かすかについてお話いたします。
+    description_ja: >-
+      ## English ver.
+
+
+      In this digital era, people output their opinions easily through internet,
+      thus more and more companies are shifting towards ambassador marketing,
+      the ultimate form of “word of mouth” marketing, which needs building good
+      relationship between company and customer.
+
+
+      I'll talk about these following things:
+
+
+      1. What is a brand ambassador (corporate ambassador)?
+
+      2. Traditional one-way marketing V.S. Ambassador marketing
+
+      3. What is the deference between Influencer Marketing and Ambassador
+      Marketing
+
+      4. Why you need Ambassador Marketing for your DevRel business
+
+
+      ## Japanese ver.
+
+
+      *
+      昔はマス・マーケティングの時代と言われ、テレビや本を通して企業が『一方的に』大衆に情報を発信するのが一般的な時代でした。しかしデジタル時代と呼ばれる現代、企業と顧客の関係は、SNS
+      やスマートフォンの普及により、がらりと変わりました。SNS
+      を通して、顧客の声が可視化され、また拡散されるようになり、潜在的顧客はその『口コミ』を通して製品の購入や導入、店舗への来店を判断するようになっています。企業主体の情報発信の時代は終わり、顧客主体の情報発信の時代になった、ということです。
+
+      * 「アンバサダー」とは、積極的に企業の製品の口コミを SNS やブログなどに投稿、アウトプットしてくれる『情報発信型 &&
+      熱心なファン』のことを指します。例えば「松屋の新商品のハンバーグ定食めちゃ美味しいよ！」など写真付きツイートしてくれる人を指します。顧客主体の情報発信の現代は、この素晴らしいアンバサダーの方々をいかに確保し、維持するかが非常に大切になってきます。これは一般的な話だけではなく、Developer
+      Relation の分野でも同じことが言えます。
+
+      *
+      私のセッションでは、このアンバサダーマーケティングと、よく聞くインフルエンサーマーケティングとの違い(全く違います)、そしてアンバサダーマーケティングをどう
+      Developer Relation で生かすかについてお話いたします。
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Both
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: qwzBeEx8t7qJDvKX
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -473,7 +907,91 @@
   discount: ''
   facebook: matthewrevell
   github: ''
-  session: ''
+  session:
+    objectId: 8skAqn8mvD383LhZ
+    title: Sustainable developer relations
+    title_ja: Sustainable developer relations
+    description_en: >-
+      We have a problem. Developer relations, as many people practice it today,
+      is unsustainable.
+
+
+      We shouldn't be flying half way around the globe each year or working
+      every hour in the day. In this talk, I'll look at the four causes behind
+      this:
+
+
+      * The ongoing hunt for ROI: developer relation programmes are expensive
+      and it’s tempting to feel you have to be everywhere at once to show just
+      how hard you’re working.
+
+
+      * Fear that the opportunity window will close: the investment will run out
+      or the competition will win the market if you don’t speak at that
+      conference 3,000 miles away on your dog’s birthday.
+
+
+      * Peer pressure: we might not mean to, but we’ve created a culture where
+      airport pictures and tweets about jet lag have normalised burn-out and
+      also shown our non dev rel colleagues that this is what is expected.
+
+
+      * Dev rel still isn’t well understood: mostly, though, it’s that there
+      isn’t a common playbook for dev rel (maybe we need several) and so dev rel
+      professionals don’t always know what to do and management/colleagues have
+      outsized expectations of what dev rel can achieve.
+
+
+      I'll then talk about how we can make a better developer relations plan
+      that enables us to have a work-life balance, get great results for our
+      employers, and build rewarding developer communities.
+    description_ja: >-
+      We have a problem. Developer relations, as many people practice it today,
+      is unsustainable.
+
+
+      We shouldn't be flying half way around the globe each year or working
+      every hour in the day. In this talk, I'll look at the four causes behind
+      this:
+
+
+      * The ongoing hunt for ROI: developer relation programmes are expensive
+      and it’s tempting to feel you have to be everywhere at once to show just
+      how hard you’re working.
+
+
+      * Fear that the opportunity window will close: the investment will run out
+      or the competition will win the market if you don’t speak at that
+      conference 3,000 miles away on your dog’s birthday.
+
+
+      * Peer pressure: we might not mean to, but we’ve created a culture where
+      airport pictures and tweets about jet lag have normalised burn-out and
+      also shown our non dev rel colleagues that this is what is expected.
+
+
+      * Dev rel still isn’t well understood: mostly, though, it’s that there
+      isn’t a common playbook for dev rel (maybe we need several) and so dev rel
+      professionals don’t always know what to do and management/colleagues have
+      outsized expectations of what dev rel can achieve.
+
+
+      I'll then talk about how we can make a better developer relations plan
+      that enables us to have a work-life balance, get great results for our
+      employers, and build rewarding developer communities.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: QRWZza6rmTf8QmUm
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -506,14 +1024,70 @@
   blog: 'https://pronovix.com/articles'
   page: /speakers/kristof/
   image: /img/speakers/kristof.jpg
-  needhotel: ''
+  needhotel: true
   money: ''
   hotel: ''
   preparty: ''
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: wXlw8OIrwwI7H47c
+    title: Anatomy of a great Developer Portal
+    title_ja: Anatomy of a great Developer Portal
+    description_en: >-
+      In 2016 Stack Overflow’s Developer Survey had "poor documentation” as the
+      2nd largest challenge at work, with only 0.2% less votes than "unrealistic
+      expectations".
+
+
+      So good documentation is a prerequisite for a great Developer Experience.
+      But what documentation do you really need on your developer portal?
+
+
+      In this talk I want to analyse some of the web’s best Developer Portals to
+      answer that question.
+
+
+      What are the jobs that we need a Developer Portal to fulfil? What are the
+      best practices, and design patterns? How can these be implemented?
+
+
+      Join me, to find out and to see how you could apply these patterns to
+      improve your DX and your developer product's adoption.
+    description_ja: >-
+      In 2016 Stack Overflow’s Developer Survey had "poor documentation” as the
+      2nd largest challenge at work, with only 0.2% less votes than "unrealistic
+      expectations".
+
+
+      So good documentation is a prerequisite for a great Developer Experience.
+      But what documentation do you really need on your developer portal?
+
+
+      In this talk I want to analyse some of the web’s best Developer Portals to
+      answer that question.
+
+
+      What are the jobs that we need a Developer Portal to fulfil? What are the
+      best practices, and design patterns? How can these be implemented?
+
+
+      Join me, to find out and to see how you could apply these patterns to
+      improve your DX and your developer product's adoption.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: kDqmS26gmCrBX4mH
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -550,14 +1124,60 @@
   blog: 'http://jessica.tech'
   page: /speakers/jessica/
   image: /img/speakers/jessica.jpg
-  needhotel: ''
+  needhotel: true
   money: ''
   hotel: ''
   preparty: ''
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: A7CdXbs2cFJGzxs5
+    title: Devrel Tools Tour
+    title_ja: Devrel Tools Tour
+    description_en: >-
+      You're meeting new people, attending events, solving hard technical
+      problems and bringing feedback home to the team. You’re all over the map,
+      both literally and figuratively!
+
+
+      To do all this well, without running yourself ragged, you'll need help.
+      We'll be taking a quick look at some common tools devrels are using today,
+      alongside some more unusual helpers. Expect a fast paced, demo heavy dash
+      starting at travel apps, through personal and team CRM use, personal
+      automation, social media tools and more. Together we'll look at how tools
+      like Monica, Alfred, TripIt, Trello and others can make life easier for
+      you, for your team and for your future self. We'll also take time to look
+      at how to test out new tooling, how to share it with your teams and how to
+      best pitch the tools that didn't work for you.
+    description_ja: >-
+      You're meeting new people, attending events, solving hard technical
+      problems and bringing feedback home to the team. You’re all over the map,
+      both literally and figuratively!
+
+
+      To do all this well, without running yourself ragged, you'll need help.
+      We'll be taking a quick look at some common tools devrels are using today,
+      alongside some more unusual helpers. Expect a fast paced, demo heavy dash
+      starting at travel apps, through personal and team CRM use, personal
+      automation, social media tools and more. Together we'll look at how tools
+      like Monica, Alfred, TripIt, Trello and others can make life easier for
+      you, for your team and for your future self. We'll also take time to look
+      at how to test out new tooling, how to share it with your teams and how to
+      best pitch the tools that didn't work for you.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: y658abM6sJAVPCWU
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -590,14 +1210,76 @@
   blog: 'https://andypiper.co.uk'
   page: /speakers/andy/
   image: /img/speakers/andy.jpg
-  needhotel: ''
+  needhotel: true
   money: ''
   hotel: ''
   preparty: ''
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: KYBuS1MD2pGdd1kS
+    title: >-
+      Understanding Change; or, Adapt & Survive: a personal tale of a changing
+      career in DevRel
+    title_ja: >-
+      Understanding Change; or, Adapt & Survive: a personal tale of a changing
+      career in DevRel
+    description_en: >-
+      At previous DevRelCon events around the world, we've heard some fantastic
+      talks about handling burnout, avoiding burnout, how to deal with burnout
+      when it hits you (take. some. time. OFF.). This time, let's talk about
+      something that _contributes_ to burnout, but that is constant in our
+      industry and profession as much as any others - the changing landscape we
+      work in.
+
+
+      Technologies change. Your company's APIs _will_ change. The communities
+      you work with may change.
+
+      Your team may grow, shrink, be reorganized. In time, you may move into
+      more senior leadership or management positions.
+
+
+      Understanding that change is constant, and many of the dimensions where it
+      may occur, can help us to navigate our paths ahead.
+
+      This is a story of lessons learned across nearly 10 years in community
+      leadership and developer relations.
+    description_ja: >-
+      At previous DevRelCon events around the world, we've heard some fantastic
+      talks about handling burnout, avoiding burnout, how to deal with burnout
+      when it hits you (take. some. time. OFF.). This time, let's talk about
+      something that _contributes_ to burnout, but that is constant in our
+      industry and profession as much as any others - the changing landscape we
+      work in.
+
+
+      Technologies change. Your company's APIs _will_ change. The communities
+      you work with may change.
+
+      Your team may grow, shrink, be reorganized. In time, you may move into
+      more senior leadership or management positions.
+
+
+      Understanding that change is constant, and many of the dimensions where it
+      may occur, can help us to navigate our paths ahead.
+
+      This is a story of lessons learned across nearly 10 years in community
+      leadership and developer relations.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Both
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: emdFNey2l8nk2mfm
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -634,14 +1316,74 @@
   blog: ''
   page: /speakers/simon/
   image: /img/speakers/simon.jpg
-  needhotel: ''
+  needhotel: false
   money: ''
   hotel: ''
   preparty: ''
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: Sei2BKrFe2QYbGRi
+    title: >-
+      Why AI community stay stable for 2 years? "AI" means passion in Japanese
+      language.
+    title_ja: >-
+      Why AI community stay stable for 2 years? "AI" means passion in Japanese
+      language.
+    description_en: >-
+      Why does the AI developers community stay stable for two years? Why can
+      meetups be held monthly though the operating funds were short from the
+      software vendor? I'll share my experience of making the AI community
+      (mainly IBM Watson) attractive in Japan.
+
+
+      We launched developers community in Japan for Managed AI platform (mainly
+      IBM Watson API). Meetups held regularly every month. attendees are around
+      40 to 80. I will share my experience as an IBM Developer Advocate.
+
+
+      [https://co-ba.net/shibuya/posts/watson_vol5/]
+      (https://co-ba.net/shibuya/posts/watson_vol5/)
+
+      ![alt
+      text](https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image6.jpg"meetup")
+
+      ![alt
+      text](https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image5.jpg"meetup2")
+    description_ja: >-
+      Why does the AI developers community stay stable for two years? Why can
+      meetups be held monthly though the operating funds were short from the
+      software vendor? I'll share my experience of making the AI community
+      (mainly IBM Watson) attractive in Japan.
+
+
+      We launched developers community in Japan for Managed AI platform (mainly
+      IBM Watson API). Meetups held regularly every month. attendees are around
+      40 to 80. I will share my experience as an IBM Developer Advocate.
+
+
+      [https://co-ba.net/shibuya/posts/watson_vol5/]
+      (https://co-ba.net/shibuya/posts/watson_vol5/)
+
+      ![alt
+      text](https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image6.jpg"meetup")
+
+      ![alt
+      text](https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image5.jpg"meetup2")
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: ec2IlVDxjbGiORhl
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -704,14 +1446,96 @@
   blog: 'http://www.oppkey.com'
   page: /speakers/jesse/
   image: /img/speakers/jesse.jpg
-  needhotel: ''
+  needhotel: true
   money: ''
   hotel: ''
   preparty: ''
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: YL9jnrrsViKQAjYM
+    title: Why Japan Is Naturally Great at DevRel Internationally (US case study)
+    title_ja: Why Japan Is Naturally Great at DevRel Internationally (US case study)
+    description_en: >-
+      RICOH THETA, the world's best selling VR camera, has a vibrant and large
+      developer ecosystem in the US with thousands of registered developers
+      opening up new markets in real estate, architecture, construction, law
+      enforcement, used car sales and more.
+
+
+      How did a seemingly conservative Japanese hardware maker get this far?
+
+
+      Looking closely at the case study of RICOH THETA, I will show how Japanese
+      companies can excel in DevRel. Japanese companies are famous for the
+      Galapagos Syndrome where they are too focused on the domestic market and
+      build products best suited for Japan only. However, Japan has natural
+      advantages when trying to build developer communities in the US (and
+      probably worldwide, though that is not covered in this case study).
+
+
+      Oppkey worked closely with RICOH THETA over the past three years building
+      a developer community that has helped RICOH identify new markets for the
+      camera and radically extended the flexibility of the camera itself. RICOH
+      started with excellent hardware but then went on to leverage their
+      commitment to long term planning that helped them try techniques in 1-to-1
+      and 1-to-many outreach and measure growth over several quarters instead of
+      several months. They also relied on a culture of longer term partnerships,
+      that allows for sharing of early information and extended support, once a
+      good relationship is established. And they made a strong bet on local US
+      talent - my company, Oppkey - in order to connect more closely with US
+      developers.
+
+
+      The case of RICOH THETA shows how Japanese companies have strong natural
+      advantages for leveraging DevRel to succeed in the US - and worldwide.
+    description_ja: >-
+      RICOH THETA, the world's best selling VR camera, has a vibrant and large
+      developer ecosystem in the US with thousands of registered developers
+      opening up new markets in real estate, architecture, construction, law
+      enforcement, used car sales and more.
+
+
+      How did a seemingly conservative Japanese hardware maker get this far?
+
+
+      Looking closely at the case study of RICOH THETA, I will show how Japanese
+      companies can excel in DevRel. Japanese companies are famous for the
+      Galapagos Syndrome where they are too focused on the domestic market and
+      build products best suited for Japan only. However, Japan has natural
+      advantages when trying to build developer communities in the US (and
+      probably worldwide, though that is not covered in this case study).
+
+
+      Oppkey worked closely with RICOH THETA over the past three years building
+      a developer community that has helped RICOH identify new markets for the
+      camera and radically extended the flexibility of the camera itself. RICOH
+      started with excellent hardware but then went on to leverage their
+      commitment to long term planning that helped them try techniques in 1-to-1
+      and 1-to-many outreach and measure growth over several quarters instead of
+      several months. They also relied on a culture of longer term partnerships,
+      that allows for sharing of early information and extended support, once a
+      good relationship is established. And they made a strong bet on local US
+      talent - my company, Oppkey - in order to connect more closely with US
+      developers.
+
+
+      The case of RICOH THETA shows how Japanese companies have strong natural
+      advantages for leveraging DevRel to succeed in the US - and worldwide.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: QTnuwrmVkkLD5cwC
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -766,14 +1590,90 @@
   blog: 'https://www.linkedin.com/in/nauman-ali/'
   page: /speakers/nauman/
   image: /img/speakers/nauman.jpg
-  needhotel: ''
+  needhotel: true
   money: ''
   hotel: ''
   preparty: ''
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: IbHceUE2ccY9mPxF
+    title: An API Spec driven Developer Experience journey
+    title_ja: An API Spec driven Developer Experience journey
+    description_en: >-
+      # An API Spec driven Developer Experience journey
+
+
+      ----
+
+
+      Developer Experience has taken center stage for a lot of API providers,
+      with others following suit. In spite of it being an important part of the
+      API lifecycle, it has been a tough nut to crack for a lot of API
+      providers. The effort, time and cost required to achieve top-notch
+      Developer Experience tend to be a big obstacle, while the various
+      components getting out of sync just adds to the woes.
+
+      With the wide adoption of the API Specification as the single source of
+      truth and the center stage of most API endeavors, it is only fitting for
+      it to be the engine behind fixing the Developer Experience woes of API
+      providers.
+
+      I will walk you through the journey of achieving top-notch Developer
+      Experience by maximizing the use of the API Specifications. First, I will
+      talk about the components that make a Developer Experience great. I'll
+      then walk through the improvements and additions that can be made to API
+      Specifications that leads to great Developer Experience components.
+      Following that, I’ll dive into using the specification to generate Guides,
+      Documentation, SDKs and Code samples, and will compare the different
+      tooling out there that can help you achieve that. Finally, I'll highlight
+      the advantages of automatic generation of these components over manually
+      creating them and will present an internal case study on how we've used
+      that at APIMatic.
+    description_ja: >-
+      # An API Spec driven Developer Experience journey
+
+
+      ----
+
+
+      Developer Experience has taken center stage for a lot of API providers,
+      with others following suit. In spite of it being an important part of the
+      API lifecycle, it has been a tough nut to crack for a lot of API
+      providers. The effort, time and cost required to achieve top-notch
+      Developer Experience tend to be a big obstacle, while the various
+      components getting out of sync just adds to the woes.
+
+      With the wide adoption of the API Specification as the single source of
+      truth and the center stage of most API endeavors, it is only fitting for
+      it to be the engine behind fixing the Developer Experience woes of API
+      providers.
+
+      I will walk you through the journey of achieving top-notch Developer
+      Experience by maximizing the use of the API Specifications. First, I will
+      talk about the components that make a Developer Experience great. I'll
+      then walk through the improvements and additions that can be made to API
+      Specifications that leads to great Developer Experience components.
+      Following that, I’ll dive into using the specification to generate Guides,
+      Documentation, SDKs and Code samples, and will compare the different
+      tooling out there that can help you achieve that. Finally, I'll highlight
+      the advantages of automatic generation of these components over manually
+      creating them and will present an internal case study on how we've used
+      that at APIMatic.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: U1y9YU3tDATEF1K9
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: nauman-ali
   youtube: ''
@@ -810,14 +1710,160 @@
   blog: 'https://1ft-seabass.jp/'
   page: /speakers/seigo/
   image: /img/speakers/seigo.jpg
-  needhotel: ''
+  needhotel: false
   money: ''
   hotel: ''
   preparty: ''
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: yumIEA5xtPMwDICP
+    title: Effective real-time mashup performance for DevRel!
+    title_ja: Effective real-time mashup performance for DevRel!
+    description_en: >-
+      ## What is "real-time mashup performance" ?
+
+
+      Attraction of products to tell at DevRel. Its function is not only inside.
+      The outside is also important. In other words, connecting with other
+      technologies will also create a form of charm. It is important in the
+      place of IoT and Cloud where I participate.
+
+
+      ### Mashup
+
+
+      I present possibilities to understand the product and connect with other
+      technologies. That's "mashup"!
+
+
+      For example,
+
+
+      * IoT device to connect various data of WEB. Make you feel familiar use
+      case with data and devices.
+
+      * Collaborate the cloud with new hardware. Make you feel exploring to new
+      uses.
+
+      * Combine technologies a little away such as AI. Make you feel the future.
+
+
+      ## Realtime
+
+
+      However, only the mashup concept is weak. So add. I demonstrate it in
+      front of your eyes.
+
+
+      real time! Then a strong message is born!
+
+
+      I will show the actual case on the day. Tips are also included to
+      communicate the secret of success.
+
+
+      ## Benefits
+
+
+      "Mash up real time performance" It is very difficult. However, its success
+      is great.
+
+
+      Developers feel,
+
+
+      * "It's really moving! Follow the idea!"
+
+      * "I also want to try it!"
+
+      * "Feel the possibility of this product!"
+
+
+      Such a strong message is transmitted. We can evoke the interest of
+      developers!
+
+
+      Tell this kind of benefits on the day! Based on a case study.
+    description_ja: >-
+      ## What is "real-time mashup performance" ?
+
+
+      Attraction of products to tell at DevRel. Its function is not only inside.
+      The outside is also important. In other words, connecting with other
+      technologies will also create a form of charm. It is important in the
+      place of IoT and Cloud where I participate.
+
+
+      ### Mashup
+
+
+      I present possibilities to understand the product and connect with other
+      technologies. That's "mashup"!
+
+
+      For example,
+
+
+      * IoT device to connect various data of WEB. Make you feel familiar use
+      case with data and devices.
+
+      * Collaborate the cloud with new hardware. Make you feel exploring to new
+      uses.
+
+      * Combine technologies a little away such as AI. Make you feel the future.
+
+
+      ## Realtime
+
+
+      However, only the mashup concept is weak. So add. I demonstrate it in
+      front of your eyes.
+
+
+      real time! Then a strong message is born!
+
+
+      I will show the actual case on the day. Tips are also included to
+      communicate the secret of success.
+
+
+      ## Benefits
+
+
+      "Mash up real time performance" It is very difficult. However, its success
+      is great.
+
+
+      Developers feel,
+
+
+      * "It's really moving! Follow the idea!"
+
+      * "I also want to try it!"
+
+      * "Feel the possibility of this product!"
+
+
+      Such a strong message is transmitted. We can evoke the interest of
+      developers!
+
+
+      Tell this kind of benefits on the day! Based on a case study.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Both
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: AXlgHFqeQC3LtCCc
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''
@@ -852,14 +1898,62 @@
   blog: 'http://briandouglas.me'
   page: /speakers/brian/
   image: /img/speakers/brian.jpg
-  needhotel: ''
+  needhotel: true
   money: ''
   hotel: ''
   preparty: ''
   discount: ''
   facebook: ''
   github: ''
-  session: ''
+  session:
+    objectId: 4c34kFkWX86yn2xo
+    title: Optimizing for Developer Happiness
+    title_ja: Optimizing for Developer Happiness
+    description_en: >-
+      You can’t throw a party if the front door is blocked. More than 60% of
+      users sign up for a service, bounce during onboarding, and never return.
+      If your company depends on developers, then how they get started, use, and
+      contribute to your communities, libraries, tools, and APIs should be more
+      than just painless. Your onboarding design should be elegant.
+
+
+      In this Talk, you will learn:
+
+      - Best practices in designing a stellar first user experience
+
+      - Tools, content, and tactics to maintain user momentum
+
+      - How GitHub solved their own problems using this strategy with GitHub
+      Apps.
+    description_ja: >-
+      You can’t throw a party if the front door is blocked. More than 60% of
+      users sign up for a service, bounce during onboarding, and never return.
+      If your company depends on developers, then how they get started, use, and
+      contribute to your communities, libraries, tools, and APIs should be more
+      than just painless. Your onboarding design should be elegant.
+
+
+      In this Talk, you will learn:
+
+      - Best practices in designing a stellar first user experience
+
+      - Tools, content, and tactics to maintain user momentum
+
+      - How GitHub solved their own problems using this strategy with GitHub
+      Apps.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Both
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: 0KXHfOp3FWagSWNZ
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
   google: ''
   linkedin: ''
   youtube: ''

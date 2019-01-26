@@ -1,1 +1,450 @@
-{}
+'':
+  Both:
+    objectId: 4c34kFkWX86yn2xo
+    title: Optimizing for Developer Happiness
+    title_ja: Optimizing for Developer Happiness
+    description_en: >-
+      You can’t throw a party if the front door is blocked. More than 60% of
+      users sign up for a service, bounce during onboarding, and never return.
+      If your company depends on developers, then how they get started, use, and
+      contribute to your communities, libraries, tools, and APIs should be more
+      than just painless. Your onboarding design should be elegant.
+
+
+      In this Talk, you will learn:
+
+      - Best practices in designing a stellar first user experience
+
+      - Tools, content, and tactics to maintain user momentum
+
+      - How GitHub solved their own problems using this strategy with GitHub
+      Apps.
+    description_ja: >-
+      You can’t throw a party if the front door is blocked. More than 60% of
+      users sign up for a service, bounce during onboarding, and never return.
+      If your company depends on developers, then how they get started, use, and
+      contribute to your communities, libraries, tools, and APIs should be more
+      than just painless. Your onboarding design should be elegant.
+
+
+      In this Talk, you will learn:
+
+      - Best practices in designing a stellar first user experience
+
+      - Tools, content, and tactics to maintain user momentum
+
+      - How GitHub solved their own problems using this strategy with GitHub
+      Apps.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: 0KXHfOp3FWagSWNZ
+      number: ''
+      name: Brian Douglas
+      name_ja: Brian Douglas
+      company: GitHub
+      company_ja: GitHub
+      twitter: bdougieYO
+      profile: >-
+        Brian Douglas is a Developer Advocate at GitHub where he works on the
+        increasing use of the GitHub API by iterating on the onboarding process
+        and helping users with evergreen technical content. In the past he’s
+        lead Developer Advocacy at Netlify, where he built a deep well of
+        technical content, spearheaded efforts towards a public GraphQL API, and
+        delivered over 40 talks and workshops across the US.
+      profile_ja: >-
+        Brian Douglas is a Developer Advocate at GitHub where he works on the
+        increasing use of the GitHub API by iterating on the onboarding process
+        and helping users with evergreen technical content. In the past he’s
+        lead Developer Advocacy at Netlify, where he built a deep well of
+        technical content, spearheaded efforts towards a public GraphQL API, and
+        delivered over 40 talks and workshops across the US.
+      title: ''
+      title_ja: ''
+      blog: 'http://briandouglas.me'
+      page: /speakers/brian/
+      image: /img/speakers/brian.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: 4c34kFkWX86yn2xo
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: ''
+      key: brian
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+  Fuji:
+    objectId: K6NhbQTh3xdpFrvk
+    title: Hackathons as an internal advocacy tool
+    title_ja: Hackathons as an internal advocacy tool
+    description_en: >-
+      In DevRel we speak a lot about external advocacy. But are we also giving
+      our internal community the love it needs? In this talk we’ll explore
+      strategies and go through practical tips for running impactful internal
+      hackathons. No previous experience necessary. Whether you work for a
+      startup or multi-thousand people company, and whatever your budget is,
+      we’ll go through solutions for all.
+    description_ja: >-
+      In DevRel we speak a lot about external advocacy. But are we also giving
+      our internal community the love it needs? In this talk we’ll explore
+      strategies and go through practical tips for running impactful internal
+      hackathons. No previous experience necessary. Whether you work for a
+      startup or multi-thousand people company, and whatever your budget is,
+      we’ll go through solutions for all.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      objectId: GgqJvFKfp6Jc6xTL
+      number: ''
+      name: Myrsini Koukiasa
+      name_ja: Myrsini Koukiasa
+      company: Nexmo
+      company_ja: Nexmo
+      twitter: myrsiningos
+      profile: >-
+        Myrsini is a Community Manager at Nexmo. In the past, she’s run
+        hackathons and developer programs for PayPal, Braintree and Major League
+        Hacking. She loves running events and project management as much as
+        creating content. A keen coffee drinker and expert devourer of new
+        Netflix shows, you’ll never run our of things to discuss.
+      profile_ja: >-
+        Myrsini is a Community Manager at Nexmo. In the past, she’s run
+        hackathons and developer programs for PayPal, Braintree and Major League
+        Hacking. She loves running events and project management as much as
+        creating content. A keen coffee drinker and expert devourer of new
+        Netflix shows, you’ll never run our of things to discuss.
+      title: ''
+      title_ja: ''
+      blog: 'https://developer.nexmo.com/'
+      page: /speakers/myrsini
+      image: /img/speakers/myrsini.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: K6NhbQTh3xdpFrvk
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: ''
+      key: myrsini
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+  Sakura:
+    objectId: y4iiGhYiTGpRiGjH
+    title: The Art of Talk Design
+    title_ja: The Art of Talk Design
+    description_en: >-
+      The Art of Talk Design
+
+
+      Everywhere you look, stories surround us, and everyone has something
+      that’s worth sharing with others. As evangelists, we need to understand
+      how to structure our talks so they can have the best effect on the
+      audiences we are trying to reach. How do you discover the right angle and
+      the right story for a talk? How do you frame your story?
+
+
+      Within tech we know how to approach building a new product: we research
+      our user base, we figure out what and for who we’re trying to create
+      something for and we make sure we constantly iterate on what we’ve come up
+      with. So why aren’t we taking the same approach for our talks?
+
+
+      This talk will examine how to get in the right mindset of examining your
+      talk ideas, and will introduce a framework of how to design and iterate on
+      your talk. It will focus on several exercises and questions to help you
+      create the best talk for the story you’re trying to tell.
+    description_ja: >-
+      The Art of Talk Design
+
+
+      Everywhere you look, stories surround us, and everyone has something
+      that’s worth sharing with others. As evangelists, we need to understand
+      how to structure our talks so they can have the best effect on the
+      audiences we are trying to reach. How do you discover the right angle and
+      the right story for a talk? How do you frame your story?
+
+
+      Within tech we know how to approach building a new product: we research
+      our user base, we figure out what and for who we’re trying to create
+      something for and we make sure we constantly iterate on what we’ve come up
+      with. So why aren’t we taking the same approach for our talks?
+
+
+      This talk will examine how to get in the right mindset of examining your
+      talk ideas, and will introduce a framework of how to design and iterate on
+      your talk. It will focus on several exercises and questions to help you
+      create the best talk for the story you’re trying to tell.
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      objectId: w1bOVXZhPv2DaW7O
+      number: ''
+      name: Melinda Seckington
+      name_ja: Melinda Seckington
+      company: FutureLearn
+      company_ja: FutureLearn
+      twitter: mseckington
+      profile: >-
+        Melinda is a Ruby developer at FutureLearn, a social learning platform.
+        She loves attending BarCamps, Hackdays and other tech meet ups, and
+        since 2009 has been organising them at Geeks of London. She also writes
+        at MissGeeky, a blog about all things geeky and girly.
+      profile_ja: >-
+        Melinda is a Ruby developer at FutureLearn, a social learning platform.
+        She loves attending BarCamps, Hackdays and other tech meet ups, and
+        since 2009 has been organising them at Geeks of London. She also writes
+        at MissGeeky, a blog about all things geeky and girly.
+      title: ''
+      title_ja: ''
+      blog: 'http://missgeeky.com/'
+      page: /speakers/melinda
+      image: /img/speakers/melinda.jpg
+      needhotel: false
+      money: 0
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: y4iiGhYiTGpRiGjH
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: ''
+      key: melinda
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+'08:15':
+  Both:
+    objectId: YJumQ3s3R8Pvy3XR
+    title: Registration and light breakfast
+    title_ja: ''
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ''
+    number: ''
+    time: '08:15'
+    room: Both
+    SpeakerName: ''
+    speaker: ''
+    speaker2: ''
+    color: grey
+    language: en
+'08:55':
+  Both:
+    objectId: 8izmSilXBYOPKMUN
+    title: Welcome to DevRelCon Tokyo 2019!
+    title_ja: ''
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ようこそ DevRelCon Tokyo 2019へ！
+    number: ''
+    time: '08:55'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: OQKbZdChO2Tep7EU
+      number: ''
+      name: Yukihiro Matsumoto
+      name_ja: まつもとゆきひろ
+      company: Network Applied Communication Laboratory Ltd.
+      company_ja: 株式会社ネットワーク応用通信研究所
+      twitter: yukihiro_matz
+      profile: >-
+        The creator of the programming language named "Ruby". He started
+        developing Ruby from 1993, and released as free software in 1995. NPO
+        corporate lightweight Ruby Forum president, Fellow of Network Applied
+        Communication Laboratory Inc., General Association "Ruby Association"
+        chairman, Heroku Chief Architect, US, etc. He is father of three girls,
+        a body and a dog. He likes hot SPA(Onsen). He was born in Tottori
+        Prefecture, and he is living in Shimane prefecture. Taurus and Blood
+        type is O.
+      profile_ja: >-
+        プログラミング言語「Ruby」の生みの親。 1993年頃からRubyの開発に着手し、1995年にフリーソフトとして公開。
+        NPO法人軽量Rubyフォーラム理事長をはじめ、株式会社ネットワーク応用通信研究所フェロー、一般社団法人「Rubyアソシ エーション」理事長、
+        米 Heroku Chief  Architectなど、肩書多数。三女一男犬一匹の父である。 温泉好き。鳥取県出身、島根県在住。牡牛座。O型
+      title: ''
+      title_ja: ''
+      blog: ''
+      page: /speakers/matz
+      image: /img/speakers/matz.jpg
+      needhotel: false
+      money: 0
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: matz
+      session:
+        __type: Pointer
+        objectId: wVSrIWkRRCJ8OnD9
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: ''
+      key: matz
+      __type: Object
+    speaker2: ''
+    color: grey
+    language: en
+'11:00':
+  Both:
+    objectId: KY5cTTX2cKqUU9Yn
+    title: Break
+    title_ja: ''
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: 休憩
+    number: ''
+    time: '11:00'
+    room: Both
+    SpeakerName: ''
+    speaker: ''
+    speaker2: ''
+    color: grey
+    language: en
+'12:45':
+  Both:
+    objectId: 4crtfmbxb9Wnakc9
+    title: Lunch
+    title_ja: ''
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ランチ
+    number: ''
+    time: '12:45'
+    room: Both
+    SpeakerName: ''
+    speaker: ''
+    speaker2: ''
+    color: grey
+    language: en
+'18:10':
+  Both:
+    objectId: uQqBAI44ZIzqZzR2
+    title: Goodbye & Thanks!
+    title_ja: ''
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ''
+    number: ''
+    time: '18:10'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: OQKbZdChO2Tep7EU
+      number: ''
+      name: Yukihiro Matsumoto
+      name_ja: まつもとゆきひろ
+      company: Network Applied Communication Laboratory Ltd.
+      company_ja: 株式会社ネットワーク応用通信研究所
+      twitter: yukihiro_matz
+      profile: >-
+        The creator of the programming language named "Ruby". He started
+        developing Ruby from 1993, and released as free software in 1995. NPO
+        corporate lightweight Ruby Forum president, Fellow of Network Applied
+        Communication Laboratory Inc., General Association "Ruby Association"
+        chairman, Heroku Chief Architect, US, etc. He is father of three girls,
+        a body and a dog. He likes hot SPA(Onsen). He was born in Tottori
+        Prefecture, and he is living in Shimane prefecture. Taurus and Blood
+        type is O.
+      profile_ja: >-
+        プログラミング言語「Ruby」の生みの親。 1993年頃からRubyの開発に着手し、1995年にフリーソフトとして公開。
+        NPO法人軽量Rubyフォーラム理事長をはじめ、株式会社ネットワーク応用通信研究所フェロー、一般社団法人「Rubyアソシ エーション」理事長、
+        米 Heroku Chief  Architectなど、肩書多数。三女一男犬一匹の父である。 温泉好き。鳥取県出身、島根県在住。牡牛座。O型
+      title: ''
+      title_ja: ''
+      blog: ''
+      page: /speakers/matz
+      image: /img/speakers/matz.jpg
+      needhotel: false
+      money: 0
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: matz
+      session:
+        __type: Pointer
+        objectId: wVSrIWkRRCJ8OnD9
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: ''
+      key: matz
+      __type: Object
+    speaker2: ''
+    color: grey
+    language: en
+'18:30':
+  Both:
+    objectId: GsmVHHUIFd6UgXkn
+    title: Drink up
+    title_ja: ''
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ''
+    number: ''
+    time: '18:30'
+    room: Both
+    SpeakerName: ''
+    speaker: ''
+    speaker2: ''
+    color: grey
+    language: en

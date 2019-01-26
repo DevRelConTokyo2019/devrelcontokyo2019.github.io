@@ -1902,3 +1902,11 @@ img.intro-bg {
     width: 200px;
     height: auto;
 }
+
+.description {
+  text-align: left;
+}
+
+.description li {
+  text-align: left;
+}

@@ -85,11 +85,8 @@
   session:
     objectId: y4iiGhYiTGpRiGjH
     title: The Art of Talk Design
-    title_ja: The Art of Talk Design
+    title_ja: トークデザインの世界
     description_en: >-
-      The Art of Talk Design
-
-
       Everywhere you look, stories surround us, and everyone has something
       that’s worth sharing with others. As evangelists, we need to understand
       how to structure our talks so they can have the best effect on the
@@ -108,26 +105,13 @@
       your talk. It will focus on several exercises and questions to help you
       create the best talk for the story you’re trying to tell.
     description_ja: >-
-      The Art of Talk Design
+      どこにいてもストーリーは存在し、そして誰もが他人と共有すべき価値がある何かを持っています。エバンジェリストとして、私たちはどのように話を構成すべきか理解しなければなりません。あなたはどのようにしてトークのための正しい方向性とストーリーを見つけ出しますか。ストーリーをどのように組み立てれば良いのでしょうか。
 
 
-      Everywhere you look, stories surround us, and everyone has something
-      that’s worth sharing with others. As evangelists, we need to understand
-      how to structure our talks so they can have the best effect on the
-      audiences we are trying to reach. How do you discover the right angle and
-      the right story for a talk? How do you frame your story?
+      開発において、私たちはユーザを研究し、何を誰のために提供するのか考えます。そして、そのフローを繰り返し続けるでしょう。なぜ私たちはトークに同じアプローチを取らないでしょうか。
 
 
-      Within tech we know how to approach building a new product: we research
-      our user base, we figure out what and for who we’re trying to create
-      something for and we make sure we constantly iterate on what we’ve come up
-      with. So why aren’t we taking the same approach for our talks?
-
-
-      This talk will examine how to get in the right mindset of examining your
-      talk ideas, and will introduce a framework of how to design and iterate on
-      your talk. It will focus on several exercises and questions to help you
-      create the best talk for the story you’re trying to tell.
+      このセッションでは、トークのアイデアを検討する際の正しい方法にどのように取り組むかを検討し、どのようにしてトークをデザインして磨き上げるためのフレームワークを紹介します。それはあなたが伝えようとしているストーリーのために、あなたが最も良いトークを作るのを助けるために複数の演習と質問にフォーカスします。
     people: ''
     translate: ''
     number: ''
@@ -187,7 +171,7 @@
   session:
     objectId: Sak5wJqerRD0jpU3
     title: Public Relations 101 for Developer Advocates
-    title_ja: Public Relations 101 for Developer Advocates
+    title_ja: デベロッパーアドボケイト向けパブリックリレーションズの基本
     description_en: >-
       Have you ever sent a tweet or email that you regretted sending
       immediately? Have you ever paused before sending a tweet thinking "What
@@ -259,11 +243,8 @@
     keen coffee drinker and expert devourer of new Netflix shows, you’ll never
     run our of things to discuss.
   profile_ja: >-
-    Myrsini is a Community Manager at Nexmo. In the past, she’s run hackathons
-    and developer programs for PayPal, Braintree and Major League Hacking. She
-    loves running events and project management as much as creating content. A
-    keen coffee drinker and expert devourer of new Netflix shows, you’ll never
-    run our of things to discuss.
+    ミルシニはNexmoのコミュニティマネージャーです。これまでPayPal、Braintree、Major League
+    Hackingのためにハッカソンや開発者プログラムの運営を行ってきました。コンテンツを作成するのと同じくらい、イベントやプロジェクト管理を行うのが好きです。良くコーヒーを飲んだり、Netflixの番組が好きならば彼女との話題に困らないでしょう。
   title: ''
   title_ja: ''
   blog: 'https://developer.nexmo.com/'
@@ -279,7 +260,7 @@
   session:
     objectId: K6NhbQTh3xdpFrvk
     title: Hackathons as an internal advocacy tool
-    title_ja: Hackathons as an internal advocacy tool
+    title_ja: 社内支援ツールとしてのハッカソン
     description_en: >-
       In DevRel we speak a lot about external advocacy. But are we also giving
       our internal community the love it needs? In this talk we’ll explore
@@ -351,7 +332,7 @@
   session:
     objectId: IR2z0vbL1H4vEr8Y
     title: Helping Developers By Podcasting
-    title_ja: Helping Developers By Podcasting
+    title_ja: ポッドキャストを使った開発者サポート
     description_en: >-
       Many developers are by nature quiet introverts, but there’s so much to
       gain from having more conversations — from rubber duck debugging, to
@@ -447,7 +428,7 @@
   session:
     objectId: 80RoS23joe1udN7B
     title: 5 Tips for making a robust DevRel team
-    title_ja: 5 Tips for making a robust DevRel team
+    title_ja: 堅牢なDevRelチームを作るための5つのヒント
     description_en: >-
       It's not easy to have a DevRel team especially for companies which are not
       so big. But there're many things have to do. Then using external resources
@@ -633,7 +614,7 @@
   session:
     objectId: E9gMZ6uWSvY7cWdB
     title: So you want to run a hackathon?
-    title_ja: So you want to run a hackathon?
+    title_ja: ハッカソンを開催したいですか？
     description_en: >-
       Hackathons are the biggest thing at the moment, and it seems that everyone
       wants to hold one. Companies, startups, universities, and even governments
@@ -775,11 +756,8 @@
   session:
     objectId: 2zhefrcGxu7nTQA4
     title: Why you need Ambassador Marketing for your DevRel business
-    title_ja: Why you need Ambassador Marketing for your DevRel business
-    description_en: >-
-      ## English ver.
-
-
+    title_ja: DevRelにアンバサダーマーケティングが必要な理由
+    description_en: >
       In this digital era, people output their opinions easily through internet,
       thus more and more companies are shifting towards ambassador marketing,
       the ultimate form of “word of mouth” marketing, which needs building good
@@ -797,49 +775,7 @@
       Marketing
 
       4. Why you need Ambassador Marketing for your DevRel business
-
-
-      ## Japanese ver.
-
-
-      *
-      昔はマス・マーケティングの時代と言われ、テレビや本を通して企業が『一方的に』大衆に情報を発信するのが一般的な時代でした。しかしデジタル時代と呼ばれる現代、企業と顧客の関係は、SNS
-      やスマートフォンの普及により、がらりと変わりました。SNS
-      を通して、顧客の声が可視化され、また拡散されるようになり、潜在的顧客はその『口コミ』を通して製品の購入や導入、店舗への来店を判断するようになっています。企業主体の情報発信の時代は終わり、顧客主体の情報発信の時代になった、ということです。
-
-      * 「アンバサダー」とは、積極的に企業の製品の口コミを SNS やブログなどに投稿、アウトプットしてくれる『情報発信型 &&
-      熱心なファン』のことを指します。例えば「松屋の新商品のハンバーグ定食めちゃ美味しいよ！」など写真付きツイートしてくれる人を指します。顧客主体の情報発信の現代は、この素晴らしいアンバサダーの方々をいかに確保し、維持するかが非常に大切になってきます。これは一般的な話だけではなく、Developer
-      Relation の分野でも同じことが言えます。
-
-      *
-      私のセッションでは、このアンバサダーマーケティングと、よく聞くインフルエンサーマーケティングとの違い(全く違います)、そしてアンバサダーマーケティングをどう
-      Developer Relation で生かすかについてお話いたします。
     description_ja: >-
-      ## English ver.
-
-
-      In this digital era, people output their opinions easily through internet,
-      thus more and more companies are shifting towards ambassador marketing,
-      the ultimate form of “word of mouth” marketing, which needs building good
-      relationship between company and customer.
-
-
-      I'll talk about these following things:
-
-
-      1. What is a brand ambassador (corporate ambassador)?
-
-      2. Traditional one-way marketing V.S. Ambassador marketing
-
-      3. What is the deference between Influencer Marketing and Ambassador
-      Marketing
-
-      4. Why you need Ambassador Marketing for your DevRel business
-
-
-      ## Japanese ver.
-
-
       *
       昔はマス・マーケティングの時代と言われ、テレビや本を通して企業が『一方的に』大衆に情報を発信するのが一般的な時代でした。しかしデジタル時代と呼ばれる現代、企業と顧客の関係は、SNS
       やスマートフォンの普及により、がらりと変わりました。SNS
@@ -901,7 +837,7 @@
   session:
     objectId: 8skAqn8mvD383LhZ
     title: Sustainable developer relations
-    title_ja: Sustainable developer relations
+    title_ja: 持続可能なDevRel
     description_en: >-
       We have a problem. Developer relations, as many people practice it today,
       is unsustainable.
@@ -1091,8 +1027,8 @@
   number: ''
   name: Jessica Rose
   name_ja: Jessica Rose
-  company: ''
-  company_ja: ''
+  company: Mozilla
+  company_ja: Mozilla
   twitter: jesslynnrose
   profile: >-
     Jessica Rose is a self taught technologist obsessed with fostering more
@@ -1125,7 +1061,7 @@
   session:
     objectId: A7CdXbs2cFJGzxs5
     title: Devrel Tools Tour
-    title_ja: Devrel Tools Tour
+    title_ja: DevRelツールツアー
     description_en: >-
       You're meeting new people, attending events, solving hard technical
       problems and bringing feedback home to the team. You’re all over the map,
@@ -1213,9 +1149,7 @@
     title: >-
       Understanding Change; or, Adapt & Survive: a personal tale of a changing
       career in DevRel
-    title_ja: >-
-      Understanding Change; or, Adapt & Survive: a personal tale of a changing
-      career in DevRel
+    title_ja: 変化を受け入れるか適応するか：DevRelでのキャリア変更に関する個人的な話
     description_en: >-
       At previous DevRelCon events around the world, we've heard some fantastic
       talks about handling burnout, avoiding burnout, how to deal with burnout
@@ -1387,8 +1321,8 @@
   number: ''
   name: Jesse Casman
   name_ja: Jesse Casman
-  company: ''
-  company_ja: ''
+  company: 'Oppkey, Inc.'
+  company_ja: 'Oppkey, Inc.'
   twitter: jcasman
   profile: >-
     I am a software marketing executive with extensive experience in early-stage
@@ -1539,8 +1473,8 @@
   number: ''
   name: Nauman Ali
   name_ja: Nauman Ali
-  company: ''
-  company_ja: ''
+  company: APIMATIC
+  company_ja: APIMATIC
   twitter: mnaumanali94
   profile: >-
     Nauman Ali is an API enthusiast who dived into the API world early into his
@@ -1591,7 +1525,7 @@
   session:
     objectId: IbHceUE2ccY9mPxF
     title: An API Spec driven Developer Experience journey
-    title_ja: An API Spec driven Developer Experience journey
+    title_ja: APIスペック駆動な開発者体験の旅
     description_en: >-
       # An API Spec driven Developer Experience journey
 
@@ -1711,7 +1645,7 @@
   session:
     objectId: yumIEA5xtPMwDICP
     title: Effective real-time mashup performance for DevRel!
-    title_ja: Effective real-time mashup performance for DevRel!
+    title_ja: DevRelのための効果的なリアルタイムマッシュアップパフォーマンス！
     description_en: >-
       ## What is "real-time mashup performance" ?
 
@@ -1899,7 +1833,7 @@
   session:
     objectId: 4c34kFkWX86yn2xo
     title: Optimizing for Developer Happiness
-    title_ja: Optimizing for Developer Happiness
+    title_ja: 開発者の喜びを最適化する
     description_en: >-
       You can’t throw a party if the front door is blocked. More than 60% of
       users sign up for a service, bounce during onboarding, and never return.

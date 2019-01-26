@@ -2,7 +2,7 @@
   Both:
     objectId: 4c34kFkWX86yn2xo
     title: Optimizing for Developer Happiness
-    title_ja: Optimizing for Developer Happiness
+    title_ja: 開発者の喜びを最適化する
     description_en: >-
       You can’t throw a party if the front door is blocked. More than 60% of
       users sign up for a service, bounce during onboarding, and never return.
@@ -93,7 +93,7 @@
   Fuji:
     objectId: K6NhbQTh3xdpFrvk
     title: Hackathons as an internal advocacy tool
-    title_ja: Hackathons as an internal advocacy tool
+    title_ja: 社内支援ツールとしてのハッカソン
     description_en: >-
       In DevRel we speak a lot about external advocacy. But are we also giving
       our internal community the love it needs? In this talk we’ll explore
@@ -129,11 +129,8 @@
         creating content. A keen coffee drinker and expert devourer of new
         Netflix shows, you’ll never run our of things to discuss.
       profile_ja: >-
-        Myrsini is a Community Manager at Nexmo. In the past, she’s run
-        hackathons and developer programs for PayPal, Braintree and Major League
-        Hacking. She loves running events and project management as much as
-        creating content. A keen coffee drinker and expert devourer of new
-        Netflix shows, you’ll never run our of things to discuss.
+        ミルシニはNexmoのコミュニティマネージャーです。これまでPayPal、Braintree、Major League
+        Hackingのためにハッカソンや開発者プログラムの運営を行ってきました。コンテンツを作成するのと同じくらい、イベントやプロジェクト管理を行うのが好きです。良くコーヒーを飲んだり、Netflixの番組が好きならば彼女との話題に困らないでしょう。
       title: ''
       title_ja: ''
       blog: 'https://developer.nexmo.com/'
@@ -164,11 +161,8 @@
   Sakura:
     objectId: y4iiGhYiTGpRiGjH
     title: The Art of Talk Design
-    title_ja: The Art of Talk Design
+    title_ja: トークデザインの世界
     description_en: >-
-      The Art of Talk Design
-
-
       Everywhere you look, stories surround us, and everyone has something
       that’s worth sharing with others. As evangelists, we need to understand
       how to structure our talks so they can have the best effect on the
@@ -187,26 +181,13 @@
       your talk. It will focus on several exercises and questions to help you
       create the best talk for the story you’re trying to tell.
     description_ja: >-
-      The Art of Talk Design
+      どこにいてもストーリーは存在し、そして誰もが他人と共有すべき価値がある何かを持っています。エバンジェリストとして、私たちはどのように話を構成すべきか理解しなければなりません。あなたはどのようにしてトークのための正しい方向性とストーリーを見つけ出しますか。ストーリーをどのように組み立てれば良いのでしょうか。
 
 
-      Everywhere you look, stories surround us, and everyone has something
-      that’s worth sharing with others. As evangelists, we need to understand
-      how to structure our talks so they can have the best effect on the
-      audiences we are trying to reach. How do you discover the right angle and
-      the right story for a talk? How do you frame your story?
+      開発において、私たちはユーザを研究し、何を誰のために提供するのか考えます。そして、そのフローを繰り返し続けるでしょう。なぜ私たちはトークに同じアプローチを取らないでしょうか。
 
 
-      Within tech we know how to approach building a new product: we research
-      our user base, we figure out what and for who we’re trying to create
-      something for and we make sure we constantly iterate on what we’ve come up
-      with. So why aren’t we taking the same approach for our talks?
-
-
-      This talk will examine how to get in the right mindset of examining your
-      talk ideas, and will introduce a framework of how to design and iterate on
-      your talk. It will focus on several exercises and questions to help you
-      create the best talk for the story you’re trying to tell.
+      このセッションでは、トークのアイデアを検討する際の正しい方法にどのように取り組むかを検討し、どのようにしてトークをデザインして磨き上げるためのフレームワークを紹介します。それはあなたが伝えようとしているストーリーのために、あなたが最も良いトークを作るのを助けるために複数の演習と質問にフォーカスします。
     people: ''
     translate: ''
     number: ''
@@ -276,7 +257,7 @@
   Both:
     objectId: 8izmSilXBYOPKMUN
     title: Welcome to DevRelCon Tokyo 2019!
-    title_ja: ''
+    title_ja: ようこそ DevRelCon Tokyo 2019へ！
     description_en: ''
     description_ja: ''
     people: ''

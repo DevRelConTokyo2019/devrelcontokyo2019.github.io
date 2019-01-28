@@ -34,6 +34,15 @@
   size: 33
   type: sponsor
   column: 3
+- objectId: i4Mj1glUXwVGtBGF
+  name: Studyplus
+  picture: /img/sponsors/studyplus.png
+  url: 'https://info.studyplus.co.jp/'
+  rank: 7
+  title: Bronze sponsor
+  size: 33
+  type: sponsor
+  column: 3
 - objectId: QVKypRaHEydjEc18
   name: CodeZine
   picture: /img/sponsors/codezine.png

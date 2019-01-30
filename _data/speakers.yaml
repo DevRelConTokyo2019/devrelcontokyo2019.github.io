@@ -191,23 +191,10 @@
       this talk, you will be a bit more paranoid, yet more sure than ever before
       you hit that "send" button.
     description_ja: >-
-      Have you ever sent a tweet or email that you regretted sending
-      immediately? Have you ever paused before sending a tweet thinking "What
-      would my CEO thing of this?". Have you ever had to put out a fire because
-      your private email was accidentally forwarded to someone it was not
-      intended for?
+      今までに送信したことを後悔したつぶやきやメールがありますか。「CEOは何を考えてるんだ」と思ってツイートする直前に止めた経験がありますか。プライベートなメールが誰かに送られてしまって火消しに躍起になったことがありますか。
 
 
-      Online, things we say live on forever yet still we often post tweets, blog
-      posts, emails without giving them a second thought. When one of these
-      backfires on us is when we need the insights of the field of Public
-      Relations. In this talk, Cristiano Betta, developer advocate at *** will
-      try to give you a set of basic questions that you can ask yourself to
-      prevent you from making the most basic mistakes. Additionally, he will
-      take you through the common practices in dealing with bad actors - those
-      trying to have you make a mistake or say the wrong thing. At the end of
-      this talk, you will be a bit more paranoid, yet more sure than ever before
-      you hit that "send" button.
+      オンラインでは私たちの行動は永遠に残りますが、それでも私たちはツイートしたり、ブログの投稿やメールを熟考することなく投稿しています。問題を起こさないためには広報分野における洞察力が必要になります。この講演ではデベロッパーアドボケイトのクリスチャーノが最も基本的で、ミスしないために自分でできる質問をします。さらに失敗を誘うような人たちをどう扱うかについて解説します。この講演の後、あなたはきっと“送信”ボタンを押す前に思慮できる人になっていることでしょう。
     people: ''
     translate: ''
     number: ''
@@ -269,12 +256,7 @@
       startup or multi-thousand people company, and whatever your budget is,
       we’ll go through solutions for all.
     description_ja: >-
-      In DevRel we speak a lot about external advocacy. But are we also giving
-      our internal community the love it needs? In this talk we’ll explore
-      strategies and go through practical tips for running impactful internal
-      hackathons. No previous experience necessary. Whether you work for a
-      startup or multi-thousand people company, and whatever your budget is,
-      we’ll go through solutions for all.
+      DevRelでは社外でのアドボカシーについてよく話されます。しかし内部コミュニティに対しても同様に行動すべきではないでしょうか。この講演ではインパクトある社内ハッカソンを実施するための戦略、実用的なヒントを紹介します。ハッカソン経験は不要です。あなたがエンタープライズまたはスタートアップであろうと、さらに予算がどうあろうと解決策を見つけられるはずです。
     people: ''
     translate: ''
     number: ''
@@ -527,11 +509,9 @@
   session:
     objectId: UPQaTFnot3VrDs6h
     title: >-
-      From Zero to Hero in 7 ~~hours~~ years (and counting). Tales of DevRel
+      From Zero to Hero in 7 <s>hours</s> years (and counting). Tales of DevRel
       Practitioner.
-    title_ja: >-
-      From Zero to Hero in 7 ~~hours~~ years (and counting). Tales of DevRel
-      Practitioner.
+    title_ja: 7<s>時間</s>年でゼロからヒーローに（継続中）。DevRel実施者の歩み
     description_en: >-
       After 7 years in DevRel in JFrog, Baruch knows one thing: in DevRel
       learning never stops. In this talk, he will talk about what he learned
@@ -942,7 +922,7 @@
   session:
     objectId: wXlw8OIrwwI7H47c
     title: Anatomy of a great Developer Portal
-    title_ja: Anatomy of a great Developer Portal
+    title_ja: 優れた開発者ポータルの解体新書
     description_en: >-
       In 2016 Stack Overflow’s Developer Survey had "poor documentation” as the
       2nd largest challenge at work, with only 0.2% less votes than "unrealistic
@@ -1229,9 +1209,7 @@
     title: >-
       Why AI community stay stable for 2 years? "AI" means passion in Japanese
       language.
-    title_ja: >-
-      Why AI community stay stable for 2 years? "AI" means passion in Japanese
-      language.
+    title_ja: なぜAIコミュニティが2年間安定しているのか。「AI」は日本語で愛だからです！
     description_en: >-
       Why does the AI developers community stay stable for two years? Why can
       meetups be held monthly though the operating funds were short from the
@@ -1351,7 +1329,7 @@
   session:
     objectId: YL9jnrrsViKQAjYM
     title: Why Japan Is Naturally Great at DevRel Internationally (US case study)
-    title_ja: Why Japan Is Naturally Great at DevRel Internationally (US case study)
+    title_ja: なぜ日本は国際的にDevRelを得意とするのか（米国のケーススタディより）
     description_en: >-
       RICOH THETA, the world's best selling VR camera, has a vibrant and large
       developer ecosystem in the US with thousands of registered developers
@@ -1485,12 +1463,6 @@
     title: An API Spec driven Developer Experience journey
     title_ja: APIスペック駆動な開発者体験の旅
     description_en: >-
-      # An API Spec driven Developer Experience journey
-
-
-      ----
-
-
       Developer Experience has taken center stage for a lot of API providers,
       with others following suit. In spite of it being an important part of the
       API lifecycle, it has been a tough nut to crack for a lot of API
@@ -1515,35 +1487,13 @@
       creating them and will present an internal case study on how we've used
       that at APIMatic.
     description_ja: >-
-      # An API Spec driven Developer Experience journey
+      DX（開発者体験）は多くのAPIプロバイダにおいて中心に据えられた考えになっています。APIライフサイクルの重要な役割にあるにも関わらず、なかなかうまく実施できていないのも事実です。素晴らしいDXを提供するのに必要な工数、時間およびコストは大きな障害になりますが、各APIが統一されていないのは悩みのタネです。
 
 
-      ----
-
-
-      Developer Experience has taken center stage for a lot of API providers,
-      with others following suit. In spite of it being an important part of the
-      API lifecycle, it has been a tough nut to crack for a lot of API
-      providers. The effort, time and cost required to achieve top-notch
-      Developer Experience tend to be a big obstacle, while the various
-      components getting out of sync just adds to the woes.
-
-      With the wide adoption of the API Specification as the single source of
-      truth and the center stage of most API endeavors, it is only fitting for
-      it to be the engine behind fixing the Developer Experience woes of API
-      providers.
-
-      I will walk you through the journey of achieving top-notch Developer
-      Experience by maximizing the use of the API Specifications. First, I will
-      talk about the components that make a Developer Experience great. I'll
-      then walk through the improvements and additions that can be made to API
-      Specifications that leads to great Developer Experience components.
-      Following that, I’ll dive into using the specification to generate Guides,
-      Documentation, SDKs and Code samples, and will compare the different
-      tooling out there that can help you achieve that. Finally, I'll highlight
-      the advantages of automatic generation of these components over manually
-      creating them and will present an internal case study on how we've used
-      that at APIMatic.
+      一つの事実として、API
+      Specificationは広く知れ渡っており、殆どのAPIで採用されているのでAPIを使う上での開発者体験を改善するのに役立つでしょう。API
+      Specificationを活用し、素晴らしいDXを提供するための方法を解説します。まずDXを素晴らしいものにする要素について説明します。そしてDXを優れたものに対するためにAPI
+      Specificationの改善と追加を紹介します。さらにその仕様を使ってガイド、ドキュメント、SDKそしてサンプルコードを生成するためのツールを比較します。最後に、手動で作成するよりも、これらのコンポーネントを自動生成することのメリットについてよく知ってもらった上で、APIMaticでどのように使用しているかケーススタディとして紹介します。
     people: ''
     translate: ''
     number: ''
@@ -1799,21 +1749,17 @@
       - How GitHub solved their own problems using this strategy with GitHub
       Apps.
     description_ja: >-
-      You can’t throw a party if the front door is blocked. More than 60% of
-      users sign up for a service, bounce during onboarding, and never return.
-      If your company depends on developers, then how they get started, use, and
-      contribute to your communities, libraries, tools, and APIs should be more
-      than just painless. Your onboarding design should be elegant.
+      正面玄関が閉じていたらパーティーは開けません。ユーザの60％以上がサービスに登録後、途中で離脱すると帰ってきません。あなたのサービスが開発者に依存しているならば、彼らがどのようにしてはじめ、使用し、そしてあなたのコミュニティやライブラリ、ツールおよびAPIに貢献するまで苦痛があってはいけません。あなたのユーザ誘導策はエレガントに作られていなければなりません。
 
 
-      In this Talk, you will learn:
+      このトークでの学び：
 
-      - Best practices in designing a stellar first user experience
 
-      - Tools, content, and tactics to maintain user momentum
+      - 優れた開発者体験をデザインするためのベストプラクティス
 
-      - How GitHub solved their own problems using this strategy with GitHub
-      Apps.
+      - ユーザの勢いを維持するためのツール、コンテンツおよび戦術
+
+      - GitHubがGitHub Appsにおいてこの戦略をどう使用して、独自の問題をどう解決したか
     people: ''
     translate: ''
     number: ''

@@ -20,21 +20,17 @@
       - How GitHub solved their own problems using this strategy with GitHub
       Apps.
     description_ja: >-
-      You can’t throw a party if the front door is blocked. More than 60% of
-      users sign up for a service, bounce during onboarding, and never return.
-      If your company depends on developers, then how they get started, use, and
-      contribute to your communities, libraries, tools, and APIs should be more
-      than just painless. Your onboarding design should be elegant.
+      正面玄関が閉じていたらパーティーは開けません。ユーザの60％以上がサービスに登録後、途中で離脱すると帰ってきません。あなたのサービスが開発者に依存しているならば、彼らがどのようにしてはじめ、使用し、そしてあなたのコミュニティやライブラリ、ツールおよびAPIに貢献するまで苦痛があってはいけません。あなたのユーザ誘導策はエレガントに作られていなければなりません。
 
 
-      In this Talk, you will learn:
+      このトークでの学び：
 
-      - Best practices in designing a stellar first user experience
 
-      - Tools, content, and tactics to maintain user momentum
+      - 優れた開発者体験をデザインするためのベストプラクティス
 
-      - How GitHub solved their own problems using this strategy with GitHub
-      Apps.
+      - ユーザの勢いを維持するためのツール、コンテンツおよび戦術
+
+      - GitHubがGitHub Appsにおいてこの戦略をどう使用して、独自の問題をどう解決したか
     people: ''
     translate: ''
     number: ''
@@ -99,12 +95,7 @@
       startup or multi-thousand people company, and whatever your budget is,
       we’ll go through solutions for all.
     description_ja: >-
-      In DevRel we speak a lot about external advocacy. But are we also giving
-      our internal community the love it needs? In this talk we’ll explore
-      strategies and go through practical tips for running impactful internal
-      hackathons. No previous experience necessary. Whether you work for a
-      startup or multi-thousand people company, and whatever your budget is,
-      we’ll go through solutions for all.
+      DevRelでは社外でのアドボカシーについてよく話されます。しかし内部コミュニティに対しても同様に行動すべきではないでしょうか。この講演ではインパクトある社内ハッカソンを実施するための戦略、実用的なヒントを紹介します。ハッカソン経験は不要です。あなたがエンタープライズまたはスタートアップであろうと、さらに予算がどうあろうと解決策を見つけられるはずです。
     people: ''
     translate: ''
     number: ''

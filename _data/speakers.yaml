@@ -1204,7 +1204,7 @@
       Why AI community stay stable for 2 years? "AI" means passion in Japanese
       language.
     title_ja: なぜAIコミュニティが2年間安定しているのか。「AI」は日本語で愛だからです！
-    description_en: >-
+    description_en: >
       Why does the AI developers community stay stable for two years? Why can
       meetups be held monthly though the operating funds were short from the
       software vendor? I'll share my experience of making the AI community
@@ -1216,34 +1216,40 @@
       40 to 80. I will share my experience as an IBM Developer Advocate.
 
 
-      [https://co-ba.net/shibuya/posts/watson_vol5/]
-      (https://co-ba.net/shibuya/posts/watson_vol5/)
-
-      ![alt
-      text](https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image6.jpg"meetup")
-
-      ![alt
-      text](https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image5.jpg"meetup2")
-    description_ja: >-
-      Why does the AI developers community stay stable for two years? Why can
-      meetups be held monthly though the operating funds were short from the
-      software vendor? I'll share my experience of making the AI community
-      (mainly IBM Watson) attractive in Japan.
+      <a href="https://co-ba.net/shibuya/posts/watson_vol5/"
+      target="_blank">https://co-ba.net/shibuya/posts/watson_vol5/</a>
 
 
-      We launched developers community in Japan for Managed AI platform (mainly
-      IBM Watson API). Meetups held regularly every month. attendees are around
-      40 to 80. I will share my experience as an IBM Developer Advocate.
+      <img
+      src="https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image6.jpg"
+      />
 
 
-      [https://co-ba.net/shibuya/posts/watson_vol5/]
-      (https://co-ba.net/shibuya/posts/watson_vol5/)
+      <img
+      src="https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image5.jpg"
+      />
+    description_ja: >+
+      なぜAI開発者コミュニティが2年間、安定して運営できているのか。ソフトウェアベンダーからの運用資金をもらう訳でもないのに。このセッションでは私がコミュニティ（主にIBM
+      Watson）を魅力的にした経験を共有します。
 
-      ![alt
-      text](https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image6.jpg"meetup")
 
-      ![alt
-      text](https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image5.jpg"meetup2")
+      マネージドAIプラットフォーム（主にIBM Watson
+      API）のために日本で開発者コミュニティを立ち上げました。ミートアップは毎月定期的に開催されており、毎回40〜80名の参加者となっています。私のIBMデベロッパーアドボケイトとしての経験を共有します。
+
+
+      <a href="https://co-ba.net/shibuya/posts/watson_vol5/"
+      target="_blank">https://co-ba.net/shibuya/posts/watson_vol5/</a>
+
+
+      <img
+      src="https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image6.jpg"
+      />
+
+
+      <img
+      src="https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image5.jpg"
+      />
+
     people: ''
     translate: ''
     number: ''

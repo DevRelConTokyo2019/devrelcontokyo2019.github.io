@@ -327,17 +327,11 @@
       person tech blogger, how can talking about development and code make the
       developer community better?
     description_ja: >-
-      Many developers are by nature quiet introverts, but there’s so much to
-      gain from having more conversations — from rubber duck debugging, to
-      arguing about spaces vs tabs, to speaking at conferences, and podcasting
-      to the entire world!
+      多くの開発者は本質的に静かで内向的な傾向がありますが、ゴム製のアヒルをデバッグしたり、スペースとタブについて議論する、カンファレンスでの講演そして全世界に向けたポッドキャスティングまで、たくさんの対話の中から得られるものがたくさんあります。
 
 
-      In this session, More Than Just Code host Jaime will talk about his
-      experience with a tech podcast and helping developers in their technical
-      careers. Wherever you are on the scale from hermit to world-class famous
-      person tech blogger, how can talking about development and code make the
-      developer community better?
+      このセッションではMore Than Just
+      CodeのホストであるJaimeが、そのポッドキャストでの経験と技術キャリアにおけるDevRelをお話しします。あなたが一人で黙々と開発するタイプであろうと一流のブロガーであろうとも、開発とコードについて話すことが開発者コミュニティにとってどれだけ価値があるか分かりますか。
     people: ''
     translate: ''
     number: ''
@@ -1364,38 +1358,22 @@
       The case of RICOH THETA shows how Japanese companies have strong natural
       advantages for leveraging DevRel to succeed in the US - and worldwide.
     description_ja: >-
-      RICOH THETA, the world's best selling VR camera, has a vibrant and large
-      developer ecosystem in the US with thousands of registered developers
-      opening up new markets in real estate, architecture, construction, law
-      enforcement, used car sales and more.
+      世界で最も売れているVRカメラであるRICOH
+      THETAは、活気にあふれた大規模な開発者エコシステムを持ち、不動産や建築、建設、警察、中古車販売などの分野で新たな市場を開拓しています。
 
 
-      How did a seemingly conservative Japanese hardware maker get this far?
+      一見保守的な日本のハードウェアメーカーは、どのようにしてこれだけの結果を出したのでしょうか。
 
 
-      Looking closely at the case study of RICOH THETA, I will show how Japanese
-      companies can excel in DevRel. Japanese companies are famous for the
-      Galapagos Syndrome where they are too focused on the domestic market and
-      build products best suited for Japan only. However, Japan has natural
-      advantages when trying to build developer communities in the US (and
-      probably worldwide, though that is not covered in this case study).
+      RICOH
+      THETAのケーススタディをよく見ながら、日本企業がいかにDevRelに優れているかを紹介します。日本企業のガラパゴス症候群で有名で、国内市場に焦点を絞りすぎて日本だけに適した製品を作っています。とは言え、米国で開発者コミュニティを構築しようとすると（そして恐らくこのケーススタディではカバーされていませんが）日本には日本の利点があります。
 
 
-      Oppkey worked closely with RICOH THETA over the past three years building
-      a developer community that has helped RICOH identify new markets for the
-      camera and radically extended the flexibility of the camera itself. RICOH
-      started with excellent hardware but then went on to leverage their
-      commitment to long term planning that helped them try techniques in 1-to-1
-      and 1-to-many outreach and measure growth over several quarters instead of
-      several months. They also relied on a culture of longer term partnerships,
-      that allows for sharing of early information and extended support, once a
-      good relationship is established. And they made a strong bet on local US
-      talent - my company, Oppkey - in order to connect more closely with US
-      developers.
+      Oppkeyは過去3年間RICOH
+      THETAと密接に協力して開発者コミュニティを構築し、カメラの新しい市場を創造し、カメラ自体の可能性を劇的に拡大しました。RICOHは優れたハードウェアから始めましたが、その後アウトリーチでテクニックを試し、数四半期にわたって成長を測定できる長期計画への取り組みを実施しました。彼らはまた、長期的なパートナーシップ文化も活用します。それは良い関係が確立されれば、早期の情報の共有とサポートの延長を可能にします。米国の開発者とより密接に結びつくために私の会社、Oppkeyに賭けてくれました。
 
 
-      The case of RICOH THETA shows how Japanese companies have strong natural
-      advantages for leveraging DevRel to succeed in the US - and worldwide.
+      RICOH THETAの事例は、DevRelを活用して米国および世界で成功するために、日本企業がいかに強力な武器を持っているかを示しています。
     people: ''
     translate: ''
     number: ''

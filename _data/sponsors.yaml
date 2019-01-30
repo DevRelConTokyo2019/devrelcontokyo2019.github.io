@@ -7,6 +7,15 @@
   size: 50
   type: sponsor
   column: 3
+- objectId: QRMV0hInBMWuhUpD
+  name: IBM
+  picture: /img/sponsors/ibm.png
+  url: 'http://www-07.ibm.com/ibm/jp/bluehub/'
+  rank: 1
+  title: Gold sponsor
+  size: 50
+  type: sponsor
+  column: 3
 - objectId: MXuHJWL1dKoqeANg
   name: Casareal
   picture: /img/sponsors/casareal.png

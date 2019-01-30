@@ -8,6 +8,7 @@
   twitter: moongift
   facebook: moongift
   company: MOONGIFT
+  github: ''
 - objectId: pkf4oHsIFMARuidk
   type: group
   name: DevRel Meetup in Tokyo
@@ -17,6 +18,8 @@
   url: 'https://devrel.tokyo/'
   twitter: devrelTokyo
   facebook: devreltokyo
+  github: ''
+  company: ''
 - objectId: nEeCx1Hs2vzXVaBM
   type: group
   name: Hoopy
@@ -27,6 +30,7 @@
   twitter: hoopyio
   facebook: hoopyio
   company: Hoopy
+  github: ''
 - objectId: 1ByOyMAoAW6nfiEL
   type: member
   name: Atsushi
@@ -37,6 +41,7 @@
   github: goofmint
   facebook: goofmint
   company: MOONGIFT
+  url: ''
 - objectId: JcveZWfOFwbScsGC
   type: member
   name: Taiji
@@ -69,6 +74,7 @@
   github: suzukin
   facebook: szkn27
   company: Impress Corporation
+  url: ''
 - objectId: F7NftxrRQNVnT7bT
   type: member
   name: Yuko Kondo
@@ -79,6 +85,7 @@
   github: kondoyuko
   facebook: kondoyuko516
   company: SHOEISHA
+  url: ''
 - objectId: HkEfIrYnjPdRqAWh
   type: member
   name: Kiko Ando
@@ -88,6 +95,8 @@
   github: kikoando112
   facebook: kikoando112
   company: Mercari
+  title: ''
+  url: ''
 - objectId: VBb9ri1JjN6B6RtR
   type: member
   name: Aritomo Matsutani
@@ -97,12 +106,19 @@
   facebook: aritomo.matsutani
   company: ForesightSystem
   github: antmatsu2000
+  title: ''
+  url: ''
 - objectId: z61A2HPiigNScR6f
   type: member
   name: Masako Sato
   name_ja: 佐藤 雅子
   image: /img/members/msato.jpg
   company: Val Laboratory Corporation
+  twitter: ''
+  github: ''
+  facebook: ''
+  title: ''
+  url: ''
 - objectId: zma1EbC0ImtHKiZX
   type: member
   name: Taro Kawashita
@@ -112,6 +128,8 @@
   github: cafedeaqua
   facebook: taro.kawashita.9
   company: Sony
+  title: ''
+  url: ''
 - objectId: j12h6vimzeS4LcXN
   type: member
   name: Takeki Oizumi
@@ -129,6 +147,11 @@
   name_ja: 木原 康智
   facebook: ysnrkr
   company: Amazing Day
+  image: ''
+  twitter: ''
+  github: ''
+  title: ''
+  url: ''
 - objectId: 8idi7m6zVrNnf0ML
   type: member
   name: Ai Naito
@@ -137,6 +160,9 @@
   facebook: ai.naito.7
   company: Twilio for KWC
   image: /img/members/ai.jpg
+  github: ''
+  title: ''
+  url: ''
 - objectId: szESHAU8BQpwzTO8
   type: member
   name: Tomonori Watanabe

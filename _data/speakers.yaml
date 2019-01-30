@@ -311,12 +311,11 @@
     also a co-host of the More Than Just Code podcast. Jaime often enjoys a nice
     cup of coffee and conversation on various topics.
   profile_ja: >-
-    Jaime is an experienced software developer with a focus on iOS development.
-    He led the iOS development team at OfferUp where he helped make the buying
-    and selling experience simpler, faster, and safer. Jaime is currently an iOS
-    developer at Simple, where he helps make personal banking delightful. He is
-    also a co-host of the More Than Just Code podcast. Jaime often enjoys a nice
-    cup of coffee and conversation on various topics.
+    ハイメは、iOS開発を中心とした経験豊富なソフトウェア開発者です。
+
+    OfferUpのiOS開発チームを率いて、売買をより簡単に、より速く、そしてより安全にする手助けをしました。
+    現在はSimpleのiOS開発者であり、そこではパーソナルバンキングを楽しいものにしています。彼は、More Than Just Code
+    ポッドキャストの共催者でもあります。コーヒーを飲みながら、様々なトピックについての会話を楽しんでいます。
   title: ''
   title_ja: ''
   blog: 'http://www.devwiththehair.com/'
@@ -400,19 +399,15 @@
     admin. member, he joins “DevRelJp English” and “DevRel/Community”
     communities.
   profile_ja: >-
-    Wataru Yamazaki is a General Manager and the team lead of “enebular” product
-    marketing team, Uhuru Corporation based in Tokyo, Japan.
+    株式会社ウフルのIoT開発・運用サービス、「enebular」のプロダクトマーケティングチームでジェネラルマネージャーとチーム・リードを担います。
 
+    彼は製品マーケティングチームを運営しながら、製品のDevRel活動も行なっています。
 
-    He runs a product marketing team and also acts as a developer relation of
-    the product - organises meetups, a user community, tech contents - demos,
-    hands-on labs, and communicate with users via SNS.
+    例えばミートアップ、ユーザーコミュニティ、製品デモ、ハンズオンなどの技術コンテンツ、SNSを通してのユーザとのコミュニケーション、などです。
 
-
-    He is a community member of “DevRelJp”, “Community-Marketing Community”,
-    “Node-RED User Group”, “IoTLT”, “Cloud Developer Circle”, and so on. As an
-    admin. member, he joins “DevRelJp English” and “DevRel/Community”
-    communities.
+    彼は、 "DevRelJp"、 "Community-Marketing Community"、 "Node-RED User Group"、
+    "IoTLT"、 "Cloud Developer Circle"などのコミュニティメンバーです。“ DevRelJp English”、“
+    DevRel / Community”コミュニティは管理者としてコミュニティ運営に携わっています。
   title: ''
   title_ja: ''
   blog: 'https://about.me/wyamazak'
@@ -508,19 +503,15 @@
     Days, OSCON, Qcon and many others. Follow him on Twitter (as he’s a very
     entertaining guy!) at @jbaruch.
   profile_ja: >-
-    Baruch’s passion is speaking about technology. Well, speaking in general,
-    but doing it about technology makes him look smart, and 17 years of hi-tech
-    experience sure helps. When he’s not on stage (or on a plane to get there),
-    he learns about technology, people and how they work, or more precisely,
-    don’t work together.
+    バルクの情熱は技術を語ることに注がれます。
 
+    一般的に言えば、テクノロジーを知る男は頭が良く見えますが、実際に17年間の経験は非常に助けになります。
 
-    Baruch is a Head of DevRel and a Developer Advocate at JFrog, a CNCF
-    Ambassador, a passionate conference speaker on DevOps, Java and Groovy
-    topics, and is a regular at the industry’s most prestigious events including
-    JavaOne (where he was awarded a Rock Star award), DockerCon, Devoxx, DevOps
-    Days, OSCON, Qcon and many others. Follow him on Twitter (as he’s a very
-    entertaining guy!) at @jbaruch.
+    ステージにいないとき（または飛行機の中にいるとき）、彼はテクノロジー、人々、そして彼らがどのように働くかについて学びます。
+
+    JFrogではデベロッパーアドボケイトとしてDevRel部門をまとながら、CNCFのアンバサダーや、DevOps、JavaそしてGroovyのカンファレンススピーカーとしての顔を持ちます。
+
+    また、（彼がロックスターアワードを受賞した）JavaOne、DockerCon、Devoxx、DevOpsDays、ISCON、Qconなど、業界で最も権威のあるイベントに定期的に参加しています。ぜひTwitterで@jbaruchをフォローしてください。
   title: ''
   title_ja: ''
   blog: 'http://www.jfrog.com'
@@ -593,12 +584,10 @@
     First started in 2014, it has quickly become one of the country’s premier
     hackathons with events in Melbourne and Sydney. He is also a full-stack
     software engineer at Localz, a Melbourne-based startup.
-  profile_ja: >-
-    Terence Huynh is the founder and one of the organisers of
-    [UNIHACK](https://unihack.net/), Australia’s largest student hackathon.
-    First started in 2014, it has quickly become one of the country’s premier
-    hackathons with events in Melbourne and Sydney. He is also a full-stack
-    software engineer at Localz, a Melbourne-based startup.
+  profile_ja: |-
+    テレンスは、オーストラリア最大の学生ハッカソンであるUNIHACKの創設者であり運営の1人です。
+    2014年に初めて開催され、すぐにメルボルンとシドニーでのイベントで国内最高のハッカソンになりました。
+    また、彼はメルボルンを拠点とするスタートアップ、Localzのフルスタックソフトウェアエンジニアでもあります。
   title: ''
   title_ja: ''
   blog: 'https://terencehuynh.com'
@@ -676,17 +665,11 @@
     events world wide, and is the co-author of two books: The Definitive Guide
     to HTML5 WebSocket and the Oracle WebCenter 11g Handbook.
   profile_ja: >-
-    Peter leads IBM’s world-wide developer advocacy teams raising awareness of a
-    wide range of IBM’s technologies (Watson AI, blockchain, containers,
-    serverless, IoT) in San Francisco, New York, Sao Paulo, London, Berlin,
-    Amsterdam, Tel Aviv, Dubai, Bangalore, and Tokyo.
+    ピーターはサンフランシスコ、ニューヨーク、サンパウロ、ロンドン、ベルリン、アムステルダム、テルアビブ、ドバイ、バンガロール、そして東京でIBMの世界規模のデベロッパーアドボケイトチームを率いています。幅広いIBMのテクノロジー（Watson
+    AI、ブロックチェーン、コンテナー、サーバーレス、IoT）の認知度を向上させています。
 
-    Before joining IBM, Peter was Head of Real-Time Solutions at Kaazing, a
-    startup that pioneered the WebSocket standard. Prior to that, Peter was
-    Director of Product Management at Oracle, responsible for Oracle’s portal
-    product strategy. Peter is a frequent speaker at conferences and industry
-    events world wide, and is the co-author of two books: The Definitive Guide
-    to HTML5 WebSocket and the Oracle WebCenter 11g Handbook.
+    IBMに入社する前は、WebSocketの先駆者であるKaazingのリアルタイムソリューション責任者でした。それ前はOracleの製品管理部長を務め、ポータル製品戦略を担当していました。ピーターは世界中の会議や業界イベントで頻繁に講演しています。また『HTML5
+    WebSocket決定ガイド』と『Oracle WebCenter 11gハンドブック』の本の共著者でもあります。
   title: 'Program Director, World-wide Developer Advocacy'
   title_ja: 'Program Director, World-wide Developer Advocacy'
   blog: 'https://developer.ibm.com/'
@@ -737,10 +720,9 @@
     I’m a Cloud Developer Advocate, a DevRel role at Microsoft. I’m not only an
     engineer but also a manga artist, and I have more than 50k followers on
     Twitter (@chomado).
-  profile_ja: >-
-    I’m a Cloud Developer Advocate, a DevRel role at Microsoft. I’m not only an
-    engineer but also a manga artist, and I have more than 50k followers on
-    Twitter (@chomado).
+  profile_ja: |-
+    私はMicrosoftのDevRelロールに属するCloud Developer Advocateです。
+    私はエンジニアであるだけでなく漫画家でもあり、Twitter（@chomado）には5万人以上のフォロワーがいます。
   title: Cloud Developer Advocate
   title_ja: Cloud Developer Advocate
   blog: 'https://github.com/chomado'
@@ -820,8 +802,8 @@
     Matthew runs Hoopy, the developer relations consultancy, working with
     clients around the world and in 2015 he founded the DevRelCon series.
   profile_ja: >-
-    Matthew runs Hoopy, the developer relations consultancy, working with
-    clients around the world and in 2015 he founded the DevRelCon series.
+    マシューはDeveloper
+    Relationsのコンサルタント会社Hoopyを運営し、世界中のクライアントと協力して2015年にDevRelConを設立しました。
   title: ''
   title_ja: ''
   blog: 'https://devrel.net'
@@ -940,12 +922,11 @@
     documentation systems in Drupal. He’s got a degree in bioengineering and is
     a regular speaker at technology conferences. For a few years now he’s been
     building bridges between the documentation, API and Drupal communities.
-  profile_ja: >-
-    Kristof Van Tomme is an open source strategist and architect. He is the CEO
-    and co-founder of Pronovix, a company that builds developer portals and
-    documentation systems in Drupal. He’s got a degree in bioengineering and is
-    a regular speaker at technology conferences. For a few years now he’s been
-    building bridges between the documentation, API and Drupal communities.
+  profile_ja: |-
+    クリストフは、オープンソースのストラテジスト兼アーキテクトです。
+    彼は、Drupalで開発者ポータルとドキュメントシステムを構築しているPronovixのCEO兼共同創設者です。
+    彼はバイオエンジニアリングの学位を取得しており、テクノロジーカンファレンスで定期的に講演しています。
+    ここ数年、彼はドキュメンテーション、APIそしてDrupalコミュニティの間に架け橋を築いています。
   title: ''
   title_ja: ''
   blog: 'https://pronovix.com/articles'
@@ -1039,13 +1020,12 @@
     series. She’s always excited to hear about what your working on, come say
     hello!
   profile_ja: >-
-    Jessica Rose is a self taught technologist obsessed with fostering more
-    equal access to technical education and meaningful work in tech. She’s
-    working with Mozilla on strategy and helping their TechSpeakers program turn
-    out the next generation of folks you’ll see on this stage. She’s the host of
-    the Pursuit Podcast, co-founded Trans*Code and founded the Open Code meetup
-    series. She’s always excited to hear about what your working on, come say
-    hello!
+    技術教育を誰でも平等に受けられるように活動する、独学で技術を学ぶテクノロジスト。
+
+    活動の中で、Mozillaと協業し、戦略の策定やMozilla社のTechSpeakersプログラムの次世代の人材を発掘に貢献。Trans*Codeを共同設立、また、Open
+    Code Meetupのシリーズを立ち上げ、Pursuit Podcastの責任者を務める。
+
+    仕事の聞くのが好きで、気軽に話かけてくださいとのこと。
   title: ''
   title_ja: ''
   blog: 'http://jessica.tech'
@@ -1127,11 +1107,10 @@
 
     Andy is an enabler, a synthesiser, a connector, and a community-builder.
   profile_ja: >-
-    Lead Developer Advocate, and Public Speaker in London, United Kingdom A
-    widely-known Social Bridgebuilder, LEGO fanatic, technologist, and speaker.
+    Lead Developer
+    Advocateとしてロンドンを拠点にイベントやカンファレンスなどに多数登壇している。英国では、様々なコミュニティの架け橋を行い、イベント、カンファレンスのスピーカーやテクノロジストとして活動。レゴが趣味。 
 
-
-    Andy is an enabler, a synthesiser, a connector, and a community-builder.
+    周囲と協力しながらコミュニティ形成を実現することを得意とする。
   title: ''
   title_ja: ''
   blog: 'https://andypiper.co.uk'
@@ -1228,14 +1207,11 @@
     conference. My main sessions contents are about AI, Virtual Reality, Cloud
     Serverless platform, Quantum computing and Blockchain. also give a speech as
     a guest speaker at educational institutions such as university.
-  profile_ja: >-
-    IBM Software Developer (ex IBM Developer Advocate)
+  profile_ja: |-
+    IBMのソフトウェア開発者（IBMの元Developer Adovocate)
 
-
-    Engage with developers through workshops and as session speaker at tech
-    conference. My main sessions contents are about AI, Virtual Reality, Cloud
-    Serverless platform, Quantum computing and Blockchain. also give a speech as
-    a guest speaker at educational institutions such as university.
+    ワークショップやカンファレンスへの登壇をメインに、開発者とのリレーション構築に従事。
+    AI、VR、クラウドサーバーレスプラットフォーム、量子コンピュータやブロックチェーンを専門とする。大学などの教育機関でもゲスト登壇をしている。
   title: ''
   title_ja: ''
   blog: ''
@@ -1345,27 +1321,21 @@
     positioning development, competitive analysis, content development (writing
     and graphics), developer-focused tech PR, US market entry for non-US
     companies, Japanese language fluency.
-  profile_ja: >-
-    I am a software marketing executive with extensive experience in early-stage
-    startups in Silicon Valley and Japan. I focus on building developer
-    communities. Developer Relations is a key component to reaching customers
-    and building awareness. I work with great companies like IBM, RICOH, and
-    Renesas to leverage open source, open communities and open APIs to build
-    strong developer communities that benefit community members and companies
-    alike.
+  profile_ja: >
+    ソフトウェアのマーケティングエグゼクティブ。主に、シリコンバレーと日本のアーリーステージのスタートアップのマーケティングに従事。
+
+    開発者コミュニティの構築にも注力している。DevRelは、顧客へのリーチを広げ、認知度を高めるために必要な活動だという信念のもとにDevRelに携わる。
+
+    IBM、RICO、Renesasといった大企業と共に、オープンソース、オープンソースのコミュニティ、オープンAPIを活用しながら、コミュニティの参加者、企業双方向に利益をもたらせるコミュニティの構築を目指す。
 
 
-    DevRel doesn’t just happen, it requires planning, effort and insight. I have
-    more than 15 years experience developing smart, high impact marketing and
-    developer relations campaigns. I have been deeply involved in open source,
-    networking, software development, enterprise software and high-performance
-    computing (HPC).
+    DevRelはただ施策をやればいいというわけではなく、計画や考察、地道な努力も必要である。そうした中で15年以上、マーケティングやDevRelの施策を実行し成果をあげる。
 
-    I act as the face of companies and communities and have a wide range of
-    specialties around communications: marketing strategy, messaging and
-    positioning development, competitive analysis, content development (writing
-    and graphics), developer-focused tech PR, US market entry for non-US
-    companies, Japanese language fluency.
+    オープンソース、ネットワーキング、ソフトウェア開発、エンタープライズソフトウェア、そしてハイパフォーマンスコンピューティング（HPC）に携わる。
+
+    企業やコミュニティを代表し、マーケティング戦略、メッセージングおよびポジショニング開発、競合分析、ライティングおよびグラフィックなどのコンテンツ作成、
+
+    開発者向けの技術PR、米系の会社の海外への新規市場への参入、日本語への理解等、コミュニケーション分野を専門とする。
   title: ''
   title_ja: ''
   blog: 'http://www.oppkey.com'
@@ -1494,22 +1464,10 @@
     is currently really sad about Ronaldo leaving his favorite club, Real
     Madrid.
   profile_ja: >-
-    Nauman Ali is an API enthusiast who dived into the API world early into his
-    career. Ever since his days at college, he was deeply interested in how
-    systems interact and how the interactions between them can be optimized to
-    produce better connections between digital entities. Working on a similar
-    project he realized how hard it gets for developers to work with unfamiliar
-    systems when working on these integrations and this opened him up to the
-    world of Developer Experience and making APIs easy to consume. Since then he
-    took off his journey with APIMatic, a New Zealand based startup set out to
-    do the same. Nauman currently is leading the Developer Experience Portal and
-    the CodeGen project at APIMatic and in his quest has met API Evangelists
-    from around the world and has spoken at a number of conferences. He has
-    developed a considerable insight into problems faced by both API Developers
-    and consumer and can feel their pain and is set out on a mission to make
-    life easy for both of them. In his free time, he loves watching football and
-    is currently really sad about Ronaldo leaving his favorite club, Real
-    Madrid.
+    Nauman
+    Aliは、黎明期からAPIを活用してきた、API愛好家。学生時代から、システム同士の連携方法や統合を最適化しながら最適な開発方法に興味をもち、模索している。そうしたプロジェクトに多数従事した結果、開発者がなじみのないシステムで開発する難しさを発見。開発者としても経験を重ね、数々のAPIを使いやすくする技術を習得。ニュージーランドを拠点とするスタートアップ、APIMaticでのキャリアをスタートし、現在は、Developer
+    Experience
+    PortalとCodeGenプロジェクトを率いており、世界中のAPIエバンジェリストと出会いながら、数多くのカンファレンスで講演。API開発者とユーザの両方が直面する問題を究明し、両者の課題を理解しながら、開発者にもユーザにもフレンドリーなAPIを提供する、というミッションの元、活動中。趣味は、フットボール鑑賞。お気に入りのクラブはレアルマドリードだが、ロナウドが移籍してしまうのが悲しいとのこと。
   title: ''
   title_ja: ''
   blog: 'https://www.linkedin.com/in/nauman-ali/'
@@ -1622,14 +1580,7 @@
 
     Additionally I got 2018-2020 IBM Champion and 2018-2019 Microsoft MVP (
     Windows Development ). I’m in the position connecting DevRel from outside.
-  profile_ja: >-
-    I worked front-end Engineer from 2004. Then I maked interactive contents
-    using Adobe FLASH.Recently, I base on front-end technology.I am related to
-    infomation and user-interface gradually. ex. IoT , Mixed Reality and AI…
-
-
-    Additionally I got 2018-2020 IBM Champion and 2018-2019 Microsoft MVP (
-    Windows Development ). I’m in the position connecting DevRel from outside.
+  profile_ja: "2004年からフロントエンジニアとして活動。Adobe Flashを活用したウェブコンテンツの開発、制作に従事し、近年は、主にIoT\b、MR、AIといったフロントエンド全般のテクノロジーを活用した開発に従事。 IBM Champion（2018-2020）、Microsoft MVP for Windows Development （2018-2019) を受賞し、DevRel活動にも携わる。"
   title: ''
   title_ja: ''
   blog: 'https://1ft-seabass.jp/'
@@ -1812,12 +1763,9 @@
     content, spearheaded efforts towards a public GraphQL API, and delivered
     over 40 talks and workshops across the US.
   profile_ja: >-
-    Brian Douglas is a Developer Advocate at GitHub where he works on the
-    increasing use of the GitHub API by iterating on the onboarding process and
-    helping users with evergreen technical content. In the past he’s lead
-    Developer Advocacy at Netlify, where he built a deep well of technical
-    content, spearheaded efforts towards a public GraphQL API, and delivered
-    over 40 talks and workshops across the US.
+    Brian DouglasはGitHubのデベロッパーアドボケイトで、卓越した技術的内容を持つユーザを支援し、GitHub
+    API利用者増に取り組んでいます。一環として技術的コンテンツの構築、GraphQL
+    API構築の向けた取り組み、40以上の講演とワークショップを全米で展開しています。
   title: ''
   title_ja: ''
   blog: 'http://briandouglas.me'

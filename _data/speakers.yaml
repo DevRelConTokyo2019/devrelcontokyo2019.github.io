@@ -419,23 +419,13 @@
       I am still on the way of the journey, but I can show you real examples of
       my failures and success.
     description_ja: >-
-      It's not easy to have a DevRel team especially for companies which are not
-      so big. But there're many things have to do. Then using external resources
-      is required, and it's not easy as well. From my real experience, I'll
-      share five tips on how to create a team to get a result!
+      それほど大きくない会社がDevRelチームを持つのは簡単ではありません。しかし、やるべきことはたくさんあります。そのため外部のリソースを使うことが必要です。そしてそれも容易ではありません。実際の経験から、結果を出すチームの作成方法に関する5つのヒントを紹介します。
 
 
-      There might be many tips we can try, but for the first twelve months, how
-      about trying only **FIVE** tips I always keep in mind. These are from my
-      experiences and **SIMPLE** though the effectiveness is not small. My goal
-      as a DevRel person is to acquire more users and create a user community of
-      our IoT application development service, since I've started this role from
-      March 2018. After nine months challenge, I could acquire hundreds of users
-      and about 150 members of the community.
+      試せる多くのヒントがあるかもしれません。しかし最初の12ヶ月間は5つのヒントについてだけ試すのはいかがでしょう。この5つのヒントは私の経験とシンプルさに由来しますが、効果は決して小さくありません。私は2018年3月からこのロールになり、目標はより多くのユーザーを獲得し、IoTアプリケーション開発サービスのユーザーコミュニティを作成することです。
 
 
-      I am still on the way of the journey, but I can show you real examples of
-      my failures and success.
+      まだ途中過程ではありますが、経験に基づく失敗と成功を示すことができるでしょう。
     people: ''
     translate: ''
     number: ''
@@ -516,14 +506,7 @@
       last, but not least, KPIs and metrics. But remember, learning never stops!
       What are the changes we'll learn he's wrong about everything?!
     description_ja: >-
-      After 7 years in DevRel in JFrog, Baruch knows one thing: in DevRel
-      learning never stops. In this talk, he will talk about what he learned
-      over his career and will share his experience on the most important topics
-      in DevRel: First of all, of course, KPIs and metrics, but also, where (and
-      how) the money comes from, hiring, management (since it's not only
-      self-management now), some other important stuff like too much travel, and
-      last, but not least, KPIs and metrics. But remember, learning never stops!
-      What are the changes we'll learn he's wrong about everything?!
+      JFrogのDevRelで7年間働いた経験上、私は1つのことを学びました。DevRelでは、学習は止まることはありません。このセッションでは、自身の経歴から学んだことについて話し、DevRelの最も重要なトピックについての経験を共有します。まず第一にKPIとメトリックス、そしてどこから（そしてどのように）予算ができるのか、です。しかし、覚えておいてください、学習は決して終わりません。私の経験から皆さんが学べることはなんでしょうか。
     people: ''
     translate: ''
     number: ''
@@ -589,15 +572,7 @@
       audience (for example, an internal corporate hackathon versus a
       public-facing hackathon).
     description_ja: >-
-      Hackathons are the biggest thing at the moment, and it seems that everyone
-      wants to hold one. Companies, startups, universities, and even governments
-      all want to do a hackathon. But where do you begin? How do you get others
-      to come and attend? And what is _even_ a mentor? This talk would go
-      through what you need to do to hold a successful kick-ass hackathon - and
-      if you really need to host your own hackathon in the first place. In
-      addition, it will go through how to tailor your hackathon to a different
-      audience (for example, an internal corporate hackathon versus a
-      public-facing hackathon).
+      現在ハッカソンが大きなトレンドであり、企業、スタートアップ、大学、さらには政府でさえもハッカソンを開催したいと考えています。しかし、何から手を付ければ良いでしょう。他の人にどうやって参加してもらいますか。メンターとは何でしょう。このセッションでは、kick-assハッカソンを成功させた経験から、必要なものを紹介します。自分でハッカソンをホストする場合、またはハッカソンを別のユーザに合わせて調整する方法についても説明します。
     people: ''
     translate: ''
     number: ''
@@ -829,39 +804,34 @@
       that enables us to have a work-life balance, get great results for our
       employers, and build rewarding developer communities.
     description_ja: >-
-      We have a problem. Developer relations, as many people practice it today,
-      is unsustainable.
+      DevRelは継続が非常に難しいです。世界中を飛び回ったり、1時間単位で仕事をしたりするべきではありません。このセッションではこの背景にある4つの課題を調べます。
 
 
-      We shouldn't be flying half way around the globe each year or working
-      every hour in the day. In this talk, I'll look at the four causes behind
-      this:
+      * 継続的なROIの追求
 
 
-      * The ongoing hunt for ROI: developer relation programmes are expensive
-      and it’s tempting to feel you have to be everywhere at once to show just
-      how hard you’re working.
+      DevRelプログラムは高価であり、それは世界中どこにでもいなければならないという事実が示しています。
 
 
-      * Fear that the opportunity window will close: the investment will run out
-      or the competition will win the market if you don’t speak at that
-      conference 3,000 miles away on your dog’s birthday.
+      * 機会損失の恐れ
 
 
-      * Peer pressure: we might not mean to, but we’ve created a culture where
-      airport pictures and tweets about jet lag have normalised burn-out and
-      also shown our non dev rel colleagues that this is what is expected.
+      投資機会の損失か競合に負けるのを恐れて、飼い犬の誕生日に3,000マイル離れたカンファレンスで登壇しなければなりません。
 
 
-      * Dev rel still isn’t well understood: mostly, though, it’s that there
-      isn’t a common playbook for dev rel (maybe we need several) and so dev rel
-      professionals don’t always know what to do and management/colleagues have
-      outsized expectations of what dev rel can achieve.
+      * ライバルの圧力
 
 
-      I'll then talk about how we can make a better developer relations plan
-      that enables us to have a work-life balance, get great results for our
-      employers, and build rewarding developer communities.
+      意図したものではないかもしれませんが、空港の写真や時差ぼけについてのつぶやきが燃え尽き症候群につながります。
+
+
+      * DevRelの認知度不足
+
+
+      DevRelに関する共通の枠組みがないために起きる問題です。DevRelに関わる人は、何をすべきかが分かっていません。DevRelが何を達成でき、期待以上の成果をあげられるかが不明です。
+
+
+      このセッションではワークライフバランスをとり、ボスにとって素晴らしい結果を提供し、そして有益な開発者コミュニティを構築することを可能にする、より良いDevRel計画を立てる方法について紹介します。
     people: ''
     translate: ''
     number: ''
@@ -938,25 +908,20 @@
       Join me, to find out and to see how you could apply these patterns to
       improve your DX and your developer product's adoption.
     description_ja: >-
-      In 2016 Stack Overflow’s Developer Survey had "poor documentation” as the
-      2nd largest challenge at work, with only 0.2% less votes than "unrealistic
-      expectations".
+      2016年に行われたStack
+      Overflowの開発者アンケートは数多くの投票が得られ、仕事における課題として「ダメなドキュメント」を二番目に挙げていました。
 
 
-      So good documentation is a prerequisite for a great Developer Experience.
-      But what documentation do you really need on your developer portal?
+      素晴らしいドキュメントは優れたDXの前提条件と言えます。しかし、開発者ポータルで本当に必要なドキュメントは何でしょう。
 
 
-      In this talk I want to analyse some of the web’s best Developer Portals to
-      answer that question.
+      このセッションでは、その質問に答えるためにWebで最も優れた開発者ポータルのいくつかを分析したいと思います。
 
 
-      What are the jobs that we need a Developer Portal to fulfil? What are the
-      best practices, and design patterns? How can these be implemented?
+      開発者ポータルが果たすべき仕事は何か。ベストプラクティスとデザインパターンは何か。これらはどのように実装できるのか。
 
 
-      Join me, to find out and to see how you could apply these patterns to
-      improve your DX and your developer product's adoption.
+      開発者向け製品を採用してもらうための改善パターンをどう調べて、どう適用できるか確認するためにもぜひ当セッションを聞いてください。
     people: ''
     translate: ''
     number: ''
@@ -1031,21 +996,12 @@
       you, for your team and for your future self. We'll also take time to look
       at how to test out new tooling, how to share it with your teams and how to
       best pitch the tools that didn't work for you.
-    description_ja: >-
-      You're meeting new people, attending events, solving hard technical
-      problems and bringing feedback home to the team. You’re all over the map,
-      both literally and figuratively!
+    description_ja: >+
+      あなたは新しい人との出会い、イベントへの参加、難しい技術的問題の解決、そしてチームへのフィードバックをもたらしています。文字通りでも比喩的でも、あなたは達成できているでしょう。
 
 
-      To do all this well, without running yourself ragged, you'll need help.
-      We'll be taking a quick look at some common tools devrels are using today,
-      alongside some more unusual helpers. Expect a fast paced, demo heavy dash
-      starting at travel apps, through personal and team CRM use, personal
-      automation, social media tools and more. Together we'll look at how tools
-      like Monica, Alfred, TripIt, Trello and others can make life easier for
-      you, for your team and for your future self. We'll also take time to look
-      at how to test out new tooling, how to share it with your teams and how to
-      best pitch the tools that didn't work for you.
+      これらをすべて上手に達成するにはヘルプが必要です。今日、開発者が使用している一般的なツールと、いくつかの珍しいサービスを見ていきましょう。個人用およびチーム用のCRM、自動化ツール、ソーシャルメディアツールなどなど。Monica、Alfred、TripIt、Trelloなどのツールがあなたやチームにとって、そして将来に渡ってどれくらい楽になるのかを紹介します。また新しいツールのテスト法、チーム内での共有方法、うまくいかなかったツールの最適化方法についても検討します。
+
     people: ''
     translate: ''
     number: ''
@@ -1124,27 +1080,20 @@
 
       This is a story of lessons learned across nearly 10 years in community
       leadership and developer relations.
-    description_ja: >-
-      At previous DevRelCon events around the world, we've heard some fantastic
-      talks about handling burnout, avoiding burnout, how to deal with burnout
-      when it hits you (take. some. time. OFF.). This time, let's talk about
-      something that _contributes_ to burnout, but that is constant in our
-      industry and profession as much as any others - the changing landscape we
-      work in.
+    description_ja: >
+      前回のDevRelConで、バーンアウト（燃え尽き症候群）の処理との回避、そしてバーンアウトが発生したときの対処方法について、いくつかの素晴らしいセッションがありました。
+
+      今回は、バーンアウトに寄与する話になりますが、それは私たちの業界や職業において他のものと同じくらい変わらない - 私たちが取り組むべき課題です。
 
 
-      Technologies change. Your company's APIs _will_ change. The communities
-      you work with may change.
-
-      Your team may grow, shrink, be reorganized. In time, you may move into
-      more senior leadership or management positions.
+      技術は変わります。
+      あなたの会社のAPIも変わります。コミュニティだって変化するかも知れません。あなたのチームは成長し、または縮小したり、再編成されるかもしれません。
+      やがて、あなたはマネージャや経営層になるかもしれません。
 
 
-      Understanding that change is constant, and many of the dimensions where it
-      may occur, can help us to navigate our paths ahead.
+      変化は一定であり、変化が起こる可能性がある多くの側面を理解することは、私たちが前進する道を進むのに役立ちます。
 
-      This is a story of lessons learned across nearly 10 years in community
-      leadership and developer relations.
+      これは、コミュニティのリーダーシップとDevRelにおいて10年近くにわたって学んだ教訓のストーリーです。
     people: ''
     translate: ''
     number: ''
@@ -1596,71 +1545,61 @@
 
 
       Tell this kind of benefits on the day! Based on a case study.
-    description_ja: >-
-      ## What is "real-time mashup performance" ?
+    description_ja: >
+      ## 「リアルタイムマッシュアップパフォーマンス」とは
 
 
-      Attraction of products to tell at DevRel. Its function is not only inside.
-      The outside is also important. In other words, connecting with other
-      technologies will also create a form of charm. It is important in the
-      place of IoT and Cloud where I participate.
+      DevRelで伝える製品の魅力。その機能は内部的なものだけではなく、外側も重要です。他の技術とのつながりによって魅力を生み出すこともできます。IoTやクラウドの文脈では特にです。
 
 
-      ### Mashup
+      ### マッシュアップ
 
 
-      I present possibilities to understand the product and connect with other
-      technologies. That's "mashup"!
+      サービスを理解し、他の技術とつながる可能性として「マッシュアップ」を提案します。
 
 
-      For example,
+      例えば、
 
 
-      * IoT device to connect various data of WEB. Make you feel familiar use
-      case with data and devices.
+      - Webの各種データをつなぐIoT機器。データや機器に関する慣れ親しんだユースケースを感じられるでしょう。
 
-      * Collaborate the cloud with new hardware. Make you feel exploring to new
-      uses.
+      - クラウドとハードウェアのコラボレーション。新しい用途を模索する時に使えます。
 
-      * Combine technologies a little away such as AI. Make you feel the future.
+      - AIのように少し離れたテクノロジの組み合わせ。未来を感じさせます。
 
 
-      ## Realtime
+      ## リアルタイム
 
 
-      However, only the mashup concept is weak. So add. I demonstrate it in
-      front of your eyes.
+      ただし、マッシュアップの概念だけでは弱いです。だから目の前で実演するところに価値が出ます。
 
 
-      real time! Then a strong message is born!
+      リアルタイムによって強いメッセージが生まれるのです！
 
 
-      I will show the actual case on the day. Tips are also included to
-      communicate the secret of success.
+      当日、実例をお見せします。成功の秘訣を伝えるためのヒントも含まれています。
 
 
-      ## Benefits
+      ## 利点
 
 
-      "Mash up real time performance" It is very difficult. However, its success
-      is great.
+      "リアルタイムでマッシュアップ" は非常に難しいです。しかし、成功の価値は大きいです。
 
 
-      Developers feel,
+      開発者は以下のように感じるでしょう。
 
 
-      * "It's really moving! Follow the idea!"
+      - 本当に感動的。アイデアを刺激されました。
 
-      * "I also want to try it!"
+      - 試してみたい！ 
 
-      * "Feel the possibility of this product!"
-
-
-      Such a strong message is transmitted. We can evoke the interest of
-      developers!
+      - 製品の可能性を強く感じた。
 
 
-      Tell this kind of benefits on the day! Based on a case study.
+      このような強いメッセージが発信されます。そして開発者の興味を呼び起こせるでしょう。
+
+
+      これらはケーススタディに基づいています。
     people: ''
     translate: ''
     number: ''

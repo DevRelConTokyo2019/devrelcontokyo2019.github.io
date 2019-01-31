@@ -1350,6 +1350,78 @@
   stackoverflow: ''
   Slack: ''
   key: jesse
+- objectId: 0Qwzp7B80Y1QJkD8
+  number: ''
+  name: Avital Tzubeli
+  name_ja: Avital Tzubeli
+  company: Kaltura
+  company_ja: Kaltura
+  twitter: ''
+  profile: >-
+    After four years of backend development (python and java), I decided to
+    actualize my passion of meeting new people and inspiring them to build cool
+    stuff. As a developer evangelist, I get to meet smart people in different
+    countries, create fun turorial videos about our API, and write insightful
+    blog posts with the developers.
+  profile_ja: >-
+    PythonとJavaを中心としたバックエンド開発に4年間従事後、新しい人々との出会いや新しいものを開発する情熱を職業に活かすことを決める。
+    その後、開発者エバンジェリストとして、様々な国の開発者と交流しながら、KalturaのAPIのチュートリアルビデオを作成、開発者と共に、APIを解説するブログ記事を執筆。
+  title: ''
+  title_ja: ''
+  blog: ''
+  page: /speakers/avital/
+  image: /img/speakers/avital.jpg
+  needhotel: true
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session:
+    objectId: gXXkyBjzzOPEoAG
+    title: 'Automate Everything: Attract Developers With A Killer Dev Portal'
+    title_ja: 全自動化：最高の開発者ポータルでデベロッパーを魅了する
+    description_en: >-
+      A developer who considers solving a problem with your API but then finds
+      that the client libraries don't include his favorite language, or that
+      they haven't been updated in months, will probably leave. A developer who
+      finds your Dev Portal and sees that she can play around with the API and
+      then copy paste the relevant code, will probably stay. So how do you solve
+      the challenge of having client libraries in multiple languages that are
+      always kept up to date? How do you efficiently provide a Developer Portal
+      that allows playing around with the latest version of the API? In this
+      session I’ll discuss the importance of client libraries, and the impact
+      they have on the attractiveness of your API. I’ll show how Kaltura handled
+      the challenge of keeping them up-to-date, how it also produced an
+      interactive Developer Portal, and how you can do the same easily and with
+      very low overhead.
+    description_ja: >-
+      APIを利用しようとした開発者が、ライブラリに自分の使っているプログラミング言語が含まれていないこと、さらに数ヶ月更新されていないことを知ってしまったら、もう使おうとは思わないでしょう。逆に開発者ポータルを見つけ、そのAPIを使ってコードもコピペで使えるのであれば、その開発者は使い続けてくれるはずです。では、常に最新の状態に保たれているクライアントライブラリを複数言語に渡って作るという問題はどうすれば解決できるでしょうか。最新のAPIを試せる開発者ポータルをどう提供すれば良いでしょうか。
+
+
+      このセッションではクライアントライブラリの重要性と、それらがAPIの魅力にどう影響するのかを紹介します。Kalturaがどのように課題に対処しているのか、インタラクティブな開発者ポータルをどう開発したのか、そしてそれを少ない工数で実現できるのかを紹介します。
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: 0Qwzp7B80Y1QJkD8
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
+  key: avital
 - objectId: U1y9YU3tDATEF1K9
   number: ''
   name: Nauman Ali

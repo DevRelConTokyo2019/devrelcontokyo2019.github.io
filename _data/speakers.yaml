@@ -1776,3 +1776,80 @@
   stackoverflow: ''
   Slack: ''
   key: brian
+- objectId: 2rfRMHFkYXW70Oda
+  number: ''
+  name: Matt Rose
+  name_ja: Matt Rose
+  company: GitHub
+  company_ja: GitHub
+  twitter: mrjesslynnrose
+  profile: >-
+    Matt Rose is a Supportocat at GitHub and runs the Birmingham chapter of
+    codebar.io. Most of his professional life has involved working in Learning &
+    Development, including teaching English in Japan, but in 2017 he graduated
+    from the CodeClan software development bootcamp in Edinburgh and moved into
+    tech. After working for Substrakt, a Birmingham based web design agency
+    serving theatres, operas and other cultural organisations, he joined GitHub
+    to provide other developers with technical support.
+  profile_ja: >-
+    Matt
+    RoseはGitHubのサポート担当者で、codebar.ioのバーミンガム担当者です。彼は長い間、日本で英語を教えたり、教育&開発分野に携わってきました。2017年にエジンバラのCodeClanソフトウェア開発のブートキャンプを卒業し、技術サイドに移りました。
+    バーミンガムを拠点とするウェブデザイン会社Substraktに勤め、劇場やオペラ、その他の文化団体に関わった後、GitHubに入社して開発者サポートを提供しています。
+  title: ''
+  title_ja: ''
+  blog: 'http://mr.jessica.tech'
+  page: /speakers/matt/
+  key: matt
+  image: /img/speakers/matt.jpg
+  needhotel: true
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session:
+    objectId: A7CdXbs2cFJGzxs5
+    title: Devrel Tools Tour
+    title_ja: DevRelツールツアー
+    description_en: >-
+      You're meeting new people, attending events, solving hard technical
+      problems and bringing feedback home to the team. You’re all over the map,
+      both literally and figuratively!
+
+
+      To do all this well, without running yourself ragged, you'll need help.
+      We'll be taking a quick look at some common tools devrels are using today,
+      alongside some more unusual helpers. Expect a fast paced, demo heavy dash
+      starting at travel apps, through personal and team CRM use, personal
+      automation, social media tools and more. Together we'll look at how tools
+      like Monica, Alfred, TripIt, Trello and others can make life easier for
+      you, for your team and for your future self. We'll also take time to look
+      at how to test out new tooling, how to share it with your teams and how to
+      best pitch the tools that didn't work for you.
+    description_ja: >+
+      あなたは新しい人との出会い、イベントへの参加、難しい技術的問題の解決、そしてチームへのフィードバックをもたらしています。文字通りでも比喩的でも、あなたは達成できているでしょう。
+
+
+      これらをすべて上手に達成するにはヘルプが必要です。今日、開発者が使用している一般的なツールと、いくつかの珍しいサービスを見ていきましょう。個人用およびチーム用のCRM、自動化ツール、ソーシャルメディアツールなどなど。Monica、Alfred、TripIt、Trelloなどのツールがあなたやチームにとって、そして将来に渡ってどれくらい楽になるのかを紹介します。また新しいツールのテスト法、チーム内での共有方法、うまくいかなかったツールの最適化方法についても検討します。
+
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: y658abM6sJAVPCWU
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''

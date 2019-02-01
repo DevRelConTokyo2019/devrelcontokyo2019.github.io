@@ -86,17 +86,6 @@
   facebook: kondoyuko516
   company: SHOEISHA
   url: ''
-- objectId: HkEfIrYnjPdRqAWh
-  type: member
-  name: Kiko Ando
-  name_ja: 安藤 喜子
-  image: /img/members/kiko.jpg
-  twitter: kiko_tw
-  github: kikoando112
-  facebook: kikoando112
-  company: Mercari
-  title: ''
-  url: ''
 - objectId: VBb9ri1JjN6B6RtR
   type: member
   name: Aritomo Matsutani
@@ -141,6 +130,17 @@
   github: beajourneyman
   facebook: beajourneyman
   company: 'SAISON INFORMATION SYSTEMS CO.,LTD.'
+- objectId: vu99KYi8hvaCey3N
+  type: member
+  name: Yasunori Kihara
+  name_ja: 木原 康智
+  facebook: ysnrkr
+  company: Amazing Day
+  image: ''
+  twitter: ''
+  github: ''
+  title: ''
+  url: ''
 - objectId: 8idi7m6zVrNnf0ML
   type: member
   name: Ai Naito

@@ -1350,6 +1350,76 @@
   stackoverflow: ''
   Slack: ''
   key: jesse
+- objectId: cZnw5KBpTEzCK6TM
+  number: ''
+  name: Sydney Lai
+  name_ja: Sydney Lai
+  company: ''
+  company_ja: ''
+  twitter: sydneylai
+  profile: >-
+    Sydney Lai has passionately volunteered for the dev community since 2013,
+    with Techstars and Google Developers Group. She started programming at 11
+    years old at a summer coding camp being sassy and thinking I would never
+    need to know this again. She spent her professional career building
+    products, attending hackathons, and building tech communities. Through her
+    work, Sydney has been named an LGBT Technology Leader by The White House,
+    Office of Science and Technology Policy. Her real-life struggle right now is
+    optimizing her Pokemon card collection.
+  profile_ja: >-
+    2013年から、TechstarsとGoogle Developers Groupをはじめとした、開発者コミュニティに参画。
+    11歳の夏のコーディングキャンプからプログラミングを始める（僭越ながら、当時、もうこれ以上学ぶものはない、と悟る）。
+    プロダクト開発、ハッカソンへの参加、技術コミュニティの構築に従事。その功績から、ホワイトハウス科学技術政策局（OSTP）のLGBTテクノロジーリーダーに選出。趣味は、自身のポケモンカードコレクションを最適化すること。
+  title: ''
+  title_ja: ''
+  blog: ''
+  page: /speakers/sydney/
+  image: /img/speakers/sydney.jpg
+  needhotel: true
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session:
+    objectId: svKjRW13CSLW0MVg
+    title: Your First 100 Developers
+    title_ja: 最初の100人の開発者
+    description_en: >-
+      “Your First 100 Developers” is a talk that is especially for developer
+      evangelists, early startups and projects that are looking to bring in
+      their first 100 users or community members. Building community is a
+      combination of math and networking skills. Sydney Lai is a TEDx Speaker
+      that will coach devs through how to grow their community. The audience
+      will learn where their community lives, how to bring them over, and
+      acquire their first 100 users. Hear first-hand experience on Sydney's case
+      studies, how she grew dev communities for aerospace mission operations
+      platforms, VR startups or Unity developers, and now solidity developers.
+    description_ja: >-
+      「最初の100人の開発者」は特にスタートアップや立ち上がったばかりのプロジェクトにおいて、最初の100人のユーザまたはコミュニティにユーザを巻き込もうとしているケースで役に立つでしょう。コミュニティを構築するのは数学とネットワーキングスキルの組み合わせが大事です。Sydney
+      LaiはTEDxスピーカーであり、コミュニティを成長させる方法について開発者を指導しています。聴衆は自分たちのコミュニティがどこにあり、それらをどうハンドリングするかを学び、そして最初の100人のユーザを獲得します。シドニーでのケーススタディ、航空宇宙ミッション運用プラットフォーム、VRのスタートアップ、Unity…これらのケースがどのように開発者コミュニティを成長させてきたかを共有します。
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: cZnw5KBpTEzCK6TM
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
+  key: sydney
 - objectId: 0Qwzp7B80Y1QJkD8
   number: ''
   name: Avital Tzubeli

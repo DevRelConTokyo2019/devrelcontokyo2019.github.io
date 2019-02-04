@@ -126,7 +126,7 @@
   title: Social Media & Contents Marketer
   image: /img/members/oizumi.jpg
   url: 'https://www.facebook.com/stores.saison.co.jp/'
-  twitter: '2018-11-25T15:00:00.000Z'
+  twitter: beajourneyman
   github: beajourneyman
   facebook: beajourneyman
   company: 'SAISON INFORMATION SYSTEMS CO.,LTD.'
@@ -174,3 +174,14 @@
   github: tokotantan
   facebook: tokotantan
   company: Works Mobile Japan
+- objectId: sLcpz0jm1KiHkzBL
+  type: member
+  name: Hikaru Maruyama
+  name_ja: 丸山 ひかる
+  title: Developer Advocate
+  image: /img/members/hikaru.jpg
+  url: ''
+  twitter: maruyamahiakru
+  github: hmaruyama
+  facebook: hikaru.maruyama.54
+  company: 'Mobingi, inc.'

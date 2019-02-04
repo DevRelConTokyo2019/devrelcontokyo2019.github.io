@@ -1846,6 +1846,78 @@
   stackoverflow: ''
   Slack: ''
   key: brian
+- objectId: 6F1ltw52RncDFZN
+  number: ''
+  name: Ali Spivak
+  name_ja: Ali Spivak
+  company: Mozilla
+  company_ja: Mozilla
+  twitter: alispivak
+  profile: >-
+    Ali Spivak is the Director of Developer Ecosystem at Mozilla, and oversees
+    Mozilla’s developer documentation, content, events, and community
+    participation. She has managed MDN for 5+ years, chairs the MDN Product
+    Advisory Board and believes in an interoperable, cross platform web. Prior
+    to Mozilla, she managed web production at Cisco, Edmunds.com, and numerous
+    startups.
+  profile_ja: >-
+    Ali
+    SpivakはMozillaのデベロッパーエコシステムディレクターです。また、Mozillaの開発者ドキュメント、コンテンツ、イベント、コミュニティにも関わっています。MDNを5年以上も管理し、MDNプロダクトアドバイザリー委員会の議長を務めています。彼女はWebの相互運用可能なクロスプラットフォームを信じています。以前はCisco、Edmunds.comおよび多数のスタートアップでWeb制作を行ってきました。
+  title: ''
+  title_ja: ''
+  blog: ''
+  page: /speakers/ali/
+  key: ali
+  image: /img/speakers/ali.jpg
+  needhotel: true
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session:
+    objectId: SwRenS3gqt6Py1Nl
+    title: Fueling Growth through Diversity
+    title_ja: 多様性が成長を促進する
+    description_en: >-
+      It can be difficult to measure the impact of developer relations. We too
+      often end up focusing on the most easily measured numbers – like
+      downloads, views & attendees. While these are important, it can lead to
+      things like diversity and inclusion being treated as side projects or
+      "secondary" objectives. At Mozilla, we are thinking about diversity,
+      broadly, as a strategy for growth.
+
+
+      In this talk, I'll show how we measure the impact of our work, set
+      strategy, and use things like cross-industry representation, adapting to
+      different learning styles, and regional representation to reach and
+      include a more diverse global audience.
+    description_ja: >-
+      DevRelの効果測定を行うのは難しいかも知れません。ダウンロードや閲覧数、出席者など簡単に計測される数字に注目しがちです。これらは確かに重要ですが、多様性や包含性といった要素が二次的な目的になってしまう可能性があります。Mozillaでは成長戦略としてダイバーシティを重視しています。
+
+
+      このセッションではタスクの影響を測定し、戦略の設定や業界を超えた表現、様々な学習スタイルへの適応、地域に合わせた表現を使用して、より多様なグローバルユーザを獲得する方法について解説します。
+    people: ''
+    translate: ''
+    number: ''
+    time: ''
+    room: Both
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: 6F1ltw52RncDFZN
+    speaker2: ''
+    color: ''
+    language: ''
+    __type: Object
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
 - objectId: 2rfRMHFkYXW70Oda
   number: ''
   name: Matt Rose

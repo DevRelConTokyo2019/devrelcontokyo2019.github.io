@@ -43,6 +43,15 @@
   size: 33
   type: sponsor
   column: 3
+- objectId: wrXZwYarOvaoHd59
+  name: GrapeCity
+  picture: /img/sponsors/grapecity.png
+  url: 'https://www.grapecity.co.jp/developer/'
+  rank: 6
+  title: Silver sponsor
+  size: 33
+  type: sponsor
+  column: 3
 - objectId: orZgo6GA5LrC2Rn
   name: Nexmo
   picture: /img/sponsors/nexmo.png
@@ -56,15 +65,6 @@
   name: Studyplus
   picture: /img/sponsors/studyplus.png
   url: 'https://info.studyplus.co.jp/'
-  rank: 7
-  title: Bronze sponsor
-  size: 33
-  type: sponsor
-  column: 3
-- objectId: wrXZwYarOvaoHd59
-  name: GrapeCity
-  picture: /img/sponsors/grapecity.png
-  url: 'https://www.grapecity.co.jp/developer/'
   rank: 7
   title: Bronze sponsor
   size: 33

@@ -16,6 +16,15 @@
   size: 50
   type: sponsor
   column: 3
+- objectId: 0arzuIFgqEBC8HFo
+  name: Microsoft
+  picture: /img/sponsors/microsoft.png
+  url: 'https://azure.microsoft.com/'
+  rank: 1
+  title: Gold sponsor
+  size: 50
+  type: sponsor
+  column: 3
 - objectId: MXuHJWL1dKoqeANg
   name: Casareal
   picture: /img/sponsors/casareal.png

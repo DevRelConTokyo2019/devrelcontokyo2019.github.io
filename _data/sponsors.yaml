@@ -25,6 +25,15 @@
   size: 50
   type: sponsor
   column: 3
+- objectId: GoKTPySMLqxLy2lm
+  name: Auth0
+  picture: /img/sponsors/auth0.png
+  url: 'https://auth0.com/jp/'
+  rank: 1
+  title: Gold sponsor
+  size: 50
+  type: sponsor
+  column: 3
 - objectId: MXuHJWL1dKoqeANg
   name: Casareal
   picture: /img/sponsors/casareal.png

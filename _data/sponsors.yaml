@@ -43,12 +43,12 @@
   size: 33
   type: sponsor
   column: 3
-- objectId: aoj7wW6dCBnV2fIF
-  name: Cybozu
-  picture: /img/sponsors/cybozu.png
-  url: 'https://cybozu.co.jp/'
-  rank: 6
-  title: Venue sponsor
+- objectId: ATbnqKyrellLNlmo
+  name: Twilio
+  picture: /img/sponsors/twilio.png
+  url: 'https://go.twilio.com/devrelcon'
+  rank: 5
+  title: Speech sponsor
   size: 33
   type: sponsor
   column: 3
@@ -88,11 +88,20 @@
   size: 33
   type: sponsor
   column: 3
+- objectId: aoj7wW6dCBnV2fIF
+  name: Cybozu
+  picture: /img/sponsors/cybozu.png
+  url: 'https://cybozu.co.jp/'
+  rank: 8
+  title: Venue sponsor
+  size: 33
+  type: sponsor
+  column: 3
 - objectId: QVKypRaHEydjEc18
   name: CodeZine
   picture: /img/sponsors/codezine.png
   url: 'https://codezine.jp'
-  rank: 8
+  rank: 9
   title: Media
   size: 33
   type: sponsor
@@ -101,7 +110,7 @@
   name: Think IT
   picture: /img/sponsors/thinkit.png
   url: 'https://thinkit.co.jp'
-  rank: 8
+  rank: 9
   title: Media
   size: 33
   type: sponsor
@@ -110,7 +119,7 @@
   name: Gihyo
   picture: /img/sponsors/gihyo.png
   url: 'http://gihyo.jp'
-  rank: 8
+  rank: 9
   title: Media
   size: 33
   type: sponsor

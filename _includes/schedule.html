@@ -46,20 +46,155 @@ Schedule
             </tr>
           </tbody>
         </table>
-        <table class="the_schedule">
-          <tbody>
-            <tr>
-              <th class="sub_header choose-track lang ja" colspan="2">3月9日</th>
-              <th class="sub_header choose-track lang en" colspan="2">March 9th</th>
-            </tr>
-            <tr>
-              <td class="time">8.15 - 18:30</td>
-              <td>
-                <p>DevRelCon Tokyo 2019. Schedule will be announced!</p>
-              </td>
-            </tr>
-          </tbody>
-        </table>
+      </div>
+    </div>
+  </div>
+
+  <div id="section9" class="sponsor" style="margin-bottom: 1em;">
+    <div class="row">
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-12" style="background-color:red; color:white;font-weight:bold;">
+              <h1 class="lang en speaker-title">March 9th</h1>
+              <h1 class="lang ja speaker-title">3月9日</h1>
+            </div>
+        </div>
+        <div class="row" style="background-color: black; color: white;text-align: center; font-weight: bold;">
+          <div class="col-sm-2">Time</div>
+          <div class="col-sm-5">Fuji</div>
+          <div class="col-sm-5">Sakura</div>
+        </div>
+        {% for session in site.data.sessions %}
+          <div class="row" style="background-color: #eee; margin-bottom: 2px; padding: 1.2em 0">
+            <div class="col-sm-2"><strong>{{ session[0] }}</strong></div> 
+            {% if session[1]['Both'] %}
+              <div class="col-sm-10">
+                <div style="font-size: 1.1em;">
+                  {% if session[1]['Both'].speaker == "" %}
+                    {{ session[1]['Both'].title }}
+                  {% else %}
+                    {% if session[1]['Both'].speaker.page != "" %}
+                    <a href="{{ session[1]['Both'].speaker.page }}" class="lang en">
+                      {{ session[1]['Both'].title }}
+                    </a>
+                    <a href="{{ session[1]['Both'].speaker.page }}" class="lang ja">
+                      {{ session[1]['Both'].title_ja }}
+                    </a>
+                    {% else %}
+                      {{ session[1]['Both'].title }}
+                    {% endif %}
+                  {% endif %}
+                </div>
+                {% if session[1]['Both'].speaker != "" %}
+                  <div>
+                    <img src="{{ session[1]['Both'].speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                  </div>
+                {% endif %}
+                {% if session[1]['Both'].speaker == "" %}
+                  {{ session[1]['Both'].speaker.name }}
+                {% else %}
+                  {% if session[1]['Both'].speaker.page != "" %}
+                    <a href="{{ session[1]['Both'].speaker.page }}" class="lang en">
+                      {{ session[1]['Both'].speaker.name }}
+                    </a>
+                    <a href="{{ session[1]['Both'].speaker.page }}" class="lang ja">
+                      {{ session[1]['Both'].speaker.name_ja }}
+                    </a>
+                  {% else %}
+                    {{ session[1]['Both'].speaker.name }}
+                  {% endif %}
+                {% endif %}
+                {% if session[1]['Both'].youtube %}
+                <div class="movie-wrap">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{session[1]['Both'].youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                {% endif %}
+                {% if session[1]['Both'].speaker.company %}
+                , {{ session[1]['Both'].speaker.company }}
+                {% endif %}<br />
+                {% if session[1]['Both'].english %}
+                  <a href="https://paper.dropbox.com/doc/{{ session[1]['Both'].english }}" target="_blank">英語</a>
+                {% endif %}
+                {% if session[1]['Both'].japanese %}
+                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Both'].japanese }}" target="_blank">日本語</a>
+                {% endif %}
+                {% if session[1]['Both'].both %}
+                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Both'].both }}" target="_blank">日英</a>
+                {% endif %}
+              </div>
+            {% else %}
+              <div class="col-sm-5">
+                <div style="font-size: 1.1em;">
+                  <a href="{{ session[1]['Fuji'].speaker.page }}">
+                    {{ session[1]['Fuji'].title }}
+                  </a>
+                </div>
+                <img src="{{ session[1]['Fuji'].speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                <a href="{{ session[1]['Fuji'].speaker.page }}">{{ session[1]['Fuji'].speaker.name }}</a>
+                {% if session[1]['Fuji'].speaker.company %}
+                , {{ session[1]['Fuji'].speaker.company }}
+                {% endif %}
+                {% if session[1]['Fuji'].speaker2 != "" %}
+                  <br />
+                  {% assign objectId = session[1]['Fuji'].speaker2.objectId %}
+                  {% assign speaker2 = site.data.speakers | where: "objectId", objectId %}
+                  <img src="{{ speaker2[0].image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                  <a href="{{ speaker2[0].page }}">{{ speaker2[0].name }}</a>
+                  {% if speaker2[0].company %}
+                  , {{ speaker2[0].company }}
+                  {% endif %}
+                {% endif %}<br />
+                {% if session[1]['Fuji'].youtube %}
+                <div class="movie-wrap">
+                  <iframe width="280" height="165" src="https://www.youtube.com/embed/{{session[1]['Fuji'].youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                {% endif %}
+                {% if session[1]['Fuji'].english %}
+                  <a href="https://paper.dropbox.com/doc/{{ session[1]['Fuji'].english }}" target="_blank">英語</a>
+                {% endif %}
+                {% if session[1]['Fuji'].japanese %}
+                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Fuji'].japanese }}" target="_blank">日本語</a>
+                {% endif %}
+                {% if session[1]['Fuji'].both %}
+                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Fuji'].both }}" target="_blank">日英</a>
+                {% endif %}
+              </div>
+              <div class="col-sm-5">
+                <div style="font-size: 1.1em;">
+                  <a href="{{ session[1]['Sakura'].speaker.page }}">
+                    {{ session[1]['Sakura'].title }}
+                  </a>
+                </div>
+                <img src="{{ session[1]['Sakura'].speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                <a href="{{ session[1]['Sakura'].speaker.page }}">{{ session[1]['Sakura'].speaker.name }}</a>
+                {% if session[1]['Sakura'].speaker.company %}
+                , {{ session[1]['Sakura'].speaker.company }}
+                {% endif %}
+                {% if session[1]['Sakura'].speaker2 %}
+                  <img src="{{ session[1]['Sakura'].speaker2.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                  <a href="{{ session[1]['Sakura'].speaker2.page }}">{{ session[1]['Sakura'].speaker2.name }}</a>
+                  {% if session[1]['Sakura'].speaker2.company %}
+                  , {{ session[1]['Sakura'].speaker2.company }}
+                  {% endif %}
+                {% endif %}<br />
+                {% if session[1]['Sakura'].youtube %}
+                <div class="movie-wrap">
+                  <iframe width="280" height="165" src="https://www.youtube.com/embed/{{session[1]['Sakura'].youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                {% endif %}
+                {% if session[1]['Sakura'].english %}
+                  <a href="https://paper.dropbox.com/doc/{{ session[1]['Sakura'].english }}" target="_blank">英語</a>
+                {% endif %}
+                {% if session[1]['Sakura'].japanese %}
+                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Sakura'].japanese }}" target="_blank">日本語</a>
+                {% endif %}
+                {% if session[1]['Sakura'].both %}
+                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Sakura'].both }}" target="_blank">日英</a>
+                {% endif %}
+              </div>
+            {% endif %}
+          </div>
+        {% endfor %}
       </div>
     </div>
   </div>

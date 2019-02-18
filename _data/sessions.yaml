@@ -1,4 +1,214 @@
-'':
+'08:15':
+  Both:
+    objectId: YJumQ3s3R8Pvy3XR
+    title: Registration and light breakfast
+    title_ja: 開場 & 受付開始
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ''
+    number: ''
+    time: '08:15'
+    room: Both
+    SpeakerName: ''
+    speaker: ''
+    speaker2: ''
+    color: grey
+    language: en
+    category: その他
+'08:55':
+  Both:
+    objectId: 8izmSilXBYOPKMUN
+    title: Welcome to DevRelCon Tokyo 2019!
+    title_ja: ようこそ DevRelCon Tokyo 2019へ！
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ようこそ DevRelCon Tokyo 2019へ！
+    number: ''
+    time: '08:55'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: S6tTMcUowzWffalP
+      number: ''
+      name: Atsushi Nakatsugawa
+      name_ja: アツシ
+      company: MOONGIFT
+      company_ja: MOONGIFT
+      twitter: ''
+      profile: ''
+      profile_ja: ''
+      title: ''
+      title_ja: ''
+      blog: ''
+      page: ''
+      key: ''
+      image: /img/members/atsushi.jpg
+      needhotel: false
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session: ''
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: false
+      instagram: ''
+      stackoverflow: ''
+      Slack: ''
+      __type: Object
+    speaker2: ''
+    color: grey
+    language: en
+    category: その他
+'09:10':
+  Both:
+    objectId: mcwbIBfLMsMPJUtK
+    title: TDB
+    title_ja: TDB
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ''
+    number: ''
+    time: '09:10'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: Qhazhg5LDpemyRdg
+      number: ''
+      name: Peter Moskovits
+      name_ja: Peter Moskovits
+      company: IBM
+      company_ja: IBM
+      twitter: ''
+      profile: >-
+        Peter leads IBM’s world-wide developer advocacy teams raising awareness
+        of a wide range of IBM’s technologies (Watson AI, blockchain,
+        containers, serverless, IoT) in San Francisco, New York, Sao Paulo,
+        London, Berlin, Amsterdam, Tel Aviv, Dubai, Bangalore, and Tokyo.
+
+        Before joining IBM, Peter was Head of Real-Time Solutions at Kaazing, a
+        startup that pioneered the WebSocket standard. Prior to that, Peter was
+        Director of Product Management at Oracle, responsible for Oracle’s
+        portal product strategy. Peter is a frequent speaker at conferences and
+        industry events world wide, and is the co-author of two books: The
+        Definitive Guide to HTML5 WebSocket and the Oracle WebCenter 11g
+        Handbook.
+      profile_ja: >-
+        ピーターはサンフランシスコ、ニューヨーク、サンパウロ、ロンドン、ベルリン、アムステルダム、テルアビブ、ドバイ、バンガロール、そして東京でIBMの世界規模のデベロッパーアドボケイトチームを率いています。幅広いIBMのテクノロジー（Watson
+        AI、ブロックチェーン、コンテナー、サーバーレス、IoT）の認知度を向上させています。
+
+        IBMに入社する前は、WebSocketの先駆者であるKaazingのリアルタイムソリューション責任者でした。それ前はOracleの製品管理部長を務め、ポータル製品戦略を担当していました。ピーターは世界中の会議や業界イベントで頻繁に講演しています。また『HTML5
+        WebSocket決定ガイド』と『Oracle WebCenter 11gハンドブック』の本の共著者でもあります。
+      title: 'Program Director, World-wide Developer Advocacy'
+      title_ja: 'Program Director, World-wide Developer Advocacy'
+      blog: 'https://developer.ibm.com/'
+      page: /speakers/peter
+      image: /img/speakers/peter.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: mcwbIBfLMsMPJUtK
+      google: ''
+      linkedin: petermoskovits
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: peter
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: ''
+'09:45':
+  Both:
+    objectId: SwRenS3gqt6Py1Nl
+    title: Fueling Growth through Diversity
+    title_ja: 多様性が成長を促進する
+    description_en: >-
+      It can be difficult to measure the impact of developer relations. We too
+      often end up focusing on the most easily measured numbers – like
+      downloads, views & attendees. While these are important, it can lead to
+      things like diversity and inclusion being treated as side projects or
+      "secondary" objectives. At Mozilla, we are thinking about diversity,
+      broadly, as a strategy for growth.
+
+
+      In this talk, I'll show how we measure the impact of our work, set
+      strategy, and use things like cross-industry representation, adapting to
+      different learning styles, and regional representation to reach and
+      include a more diverse global audience.
+    description_ja: >-
+      DevRelの効果測定を行うのは難しいかも知れません。ダウンロードや閲覧数、出席者など簡単に計測される数字に注目しがちです。これらは確かに重要ですが、多様性や包含性といった要素が二次的な目的になってしまう可能性があります。Mozillaでは成長戦略としてダイバーシティを重視しています。
+
+
+      このセッションではタスクの影響を測定し、戦略の設定や業界を超えた表現、様々な学習スタイルへの適応、地域に合わせた表現を使用して、より多様なグローバルユーザを獲得する方法について解説します。
+    people: ''
+    translate: ''
+    number: ''
+    time: '09:45'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: 6F1ltw52RncDFZN
+      number: ''
+      name: Ali Spivak
+      name_ja: Ali Spivak
+      company: Mozilla
+      company_ja: Mozilla
+      twitter: alispivak
+      profile: >-
+        Ali Spivak is the Director of Developer Ecosystem at Mozilla, and
+        oversees Mozilla’s developer documentation, content, events, and
+        community participation. She has managed MDN for 5+ years, chairs the
+        MDN Product Advisory Board and believes in an interoperable, cross
+        platform web. Prior to Mozilla, she managed web production at Cisco,
+        Edmunds.com, and numerous startups.
+      profile_ja: >-
+        Ali
+        SpivakはMozillaのデベロッパーエコシステムディレクターです。また、Mozillaの開発者ドキュメント、コンテンツ、イベント、コミュニティにも関わっています。MDNを5年以上も管理し、MDNプロダクトアドバイザリー委員会の議長を務めています。彼女はWebの相互運用可能なクロスプラットフォームを信じています。以前はCisco、Edmunds.comおよび多数のスタートアップでWeb制作を行ってきました。
+      title: ''
+      title_ja: ''
+      blog: ''
+      page: /speakers/ali/
+      key: ali
+      image: /img/speakers/ali.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: SwRenS3gqt6Py1Nl
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: マーケティング
+'10:10':
   Both:
     objectId: 4c34kFkWX86yn2xo
     title: Optimizing for Developer Happiness
@@ -34,7 +244,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '10:10'
     room: Both
     SpeakerName: ''
     speaker:
@@ -77,13 +287,642 @@
       list: true
       instagram: ''
       stackoverflow: ''
-      Slack: ''
+      Slack: true
       key: brian
       __type: Object
     speaker2: ''
     color: ''
     language: ''
+    category: テクニック
+'10:40':
+  Both:
+    objectId: MNLzl5b6PL7MemTA
+    title_ja: 休憩
+    description_ja: ''
+    category: ''
+    title: Break
+    description_en: ''
+    number: ''
+    time: '10:40'
+    room: Both
+    SpeakerName: ''
+    speaker: ''
+'11:10':
   Fuji:
+    objectId: yumIEA5xtPMwDICP
+    title: Effective real-time mashup performance for DevRel!
+    title_ja: DevRelのための効果的なリアルタイムマッシュアップパフォーマンス！
+    description_en: >-
+      ## What is "real-time mashup performance" ?
+
+
+      Attraction of products to tell at DevRel. Its function is not only inside.
+      The outside is also important. In other words, connecting with other
+      technologies will also create a form of charm. It is important in the
+      place of IoT and Cloud where I participate.
+
+
+      ### Mashup
+
+
+      I present possibilities to understand the product and connect with other
+      technologies. That's "mashup"!
+
+
+      For example,
+
+
+      * IoT device to connect various data of WEB. Make you feel familiar use
+      case with data and devices.
+
+      * Collaborate the cloud with new hardware. Make you feel exploring to new
+      uses.
+
+      * Combine technologies a little away such as AI. Make you feel the future.
+
+
+      ## Realtime
+
+
+      However, only the mashup concept is weak. So add. I demonstrate it in
+      front of your eyes.
+
+
+      real time! Then a strong message is born!
+
+
+      I will show the actual case on the day. Tips are also included to
+      communicate the secret of success.
+
+
+      ## Benefits
+
+
+      "Mash up real time performance" It is very difficult. However, its success
+      is great.
+
+
+      Developers feel,
+
+
+      * "It's really moving! Follow the idea!"
+
+      * "I also want to try it!"
+
+      * "Feel the possibility of this product!"
+
+
+      Such a strong message is transmitted. We can evoke the interest of
+      developers!
+
+
+      Tell this kind of benefits on the day! Based on a case study.
+    description_ja: >
+      ## 「リアルタイムマッシュアップパフォーマンス」とは
+
+
+      DevRelで伝える製品の魅力。その機能は内部的なものだけではなく、外側も重要です。他の技術とのつながりによって魅力を生み出すこともできます。IoTやクラウドの文脈では特にです。
+
+
+      ### マッシュアップ
+
+
+      サービスを理解し、他の技術とつながる可能性として「マッシュアップ」を提案します。
+
+
+      例えば、
+
+
+      - Webの各種データをつなぐIoT機器。データや機器に関する慣れ親しんだユースケースを感じられるでしょう。
+
+      - クラウドとハードウェアのコラボレーション。新しい用途を模索する時に使えます。
+
+      - AIのように少し離れたテクノロジの組み合わせ。未来を感じさせます。
+
+
+      ## リアルタイム
+
+
+      ただし、マッシュアップの概念だけでは弱いです。だから目の前で実演するところに価値が出ます。
+
+
+      リアルタイムによって強いメッセージが生まれるのです！
+
+
+      当日、実例をお見せします。成功の秘訣を伝えるためのヒントも含まれています。
+
+
+      ## 利点
+
+
+      "リアルタイムでマッシュアップ" は非常に難しいです。しかし、成功の価値は大きいです。
+
+
+      開発者は以下のように感じるでしょう。
+
+
+      - 本当に感動的。アイデアを刺激されました。
+
+      - 試してみたい！ 
+
+      - 製品の可能性を強く感じた。
+
+
+      このような強いメッセージが発信されます。そして開発者の興味を呼び起こせるでしょう。
+
+
+      これらはケーススタディに基づいています。
+    people: ''
+    translate: ''
+    number: ''
+    time: '11:10'
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      objectId: AXlgHFqeQC3LtCCc
+      number: ''
+      name: Seigo Tanaka
+      name_ja: 田中 正吾
+      company: 1ft-seabass
+      company_ja: 1ft-seabass
+      twitter: 1ft_seabass
+      profile: >-
+        I worked front-end Engineer from 2004. Then I maked interactive contents
+        using Adobe FLASH.Recently, I base on front-end technology.I am related
+        to infomation and user-interface gradually. ex. IoT , Mixed Reality and
+        AI…
+
+
+        Additionally I got 2018-2020 IBM Champion and 2018-2019 Microsoft MVP (
+        Windows Development ). I’m in the position connecting DevRel from
+        outside.
+      profile_ja: "2004年からフロントエンジニアとして活動。Adobe Flashを活用したウェブコンテンツの開発、制作に従事し、近年は、主にIoT\b、MR、AIといったフロントエンド全般のテクノロジーを活用した開発に従事。 IBM Champion（2018-2020）、Microsoft MVP for Windows Development （2018-2019) を受賞し、DevRel活動にも携わる。"
+      title: ''
+      title_ja: ''
+      blog: 'https://1ft-seabass.jp/'
+      page: /speakers/seigo/
+      image: /img/speakers/seigo.jpg
+      needhotel: false
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: yumIEA5xtPMwDICP
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: seigo
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: テクニック
+  Sakura:
+    objectId: E9gMZ6uWSvY7cWdB
+    title: So you want to run a hackathon?
+    title_ja: ハッカソンを開催したいですか？
+    description_en: >-
+      Hackathons are the biggest thing at the moment, and it seems that everyone
+      wants to hold one. Companies, startups, universities, and even governments
+      all want to do a hackathon. But where do you begin? How do you get others
+      to come and attend? And what is _even_ a mentor? This talk would go
+      through what you need to do to hold a successful kick-ass hackathon - and
+      if you really need to host your own hackathon in the first place. In
+      addition, it will go through how to tailor your hackathon to a different
+      audience (for example, an internal corporate hackathon versus a
+      public-facing hackathon).
+    description_ja: >-
+      現在ハッカソンが大きなトレンドであり、企業、スタートアップ、大学、さらには政府でさえもハッカソンを開催したいと考えています。しかし、何から手を付ければ良いでしょう。他の人にどうやって参加してもらいますか。メンターとは何でしょう。このセッションでは、kick-assハッカソンを成功させた経験から、必要なものを紹介します。自分でハッカソンをホストする場合、またはハッカソンを別のユーザに合わせて調整する方法についても説明します。
+    people: ''
+    translate: ''
+    number: ''
+    time: '11:10'
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      objectId: MtHmDxVi5wZUNETi
+      number: ''
+      name: Terence Huynh
+      name_ja: Terence Huynh
+      company: UNIHACK
+      company_ja: UNIHACK
+      twitter: terencehuynh
+      profile: >-
+        Terence Huynh is the founder and one of the organisers of
+        [UNIHACK](https://unihack.net/), Australia’s largest student hackathon.
+        First started in 2014, it has quickly become one of the country’s
+        premier hackathons with events in Melbourne and Sydney. He is also a
+        full-stack software engineer at Localz, a Melbourne-based startup.
+      profile_ja: |-
+        テレンスは、オーストラリア最大の学生ハッカソンであるUNIHACKの創設者であり運営の1人です。
+        2014年に初めて開催され、すぐにメルボルンとシドニーでのイベントで国内最高のハッカソンになりました。
+        また、彼はメルボルンを拠点とするスタートアップ、Localzのフルスタックソフトウェアエンジニアでもあります。
+      title: ''
+      title_ja: ''
+      blog: 'https://terencehuynh.com'
+      page: /speakers/terence
+      image: /img/speakers/terence.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: E9gMZ6uWSvY7cWdB
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: terence
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: コミュニティ/ハッカソン
+'11:35':
+  Fuji:
+    objectId: A7CdXbs2cFJGzxs5
+    title: Devrel Tools Tour
+    title_ja: DevRelツールツアー
+    description_en: >-
+      You're meeting new people, attending events, solving hard technical
+      problems and bringing feedback home to the team. You’re all over the map,
+      both literally and figuratively!
+
+
+      To do all this well, without running yourself ragged, you'll need help.
+      We'll be taking a quick look at some common tools devrels are using today,
+      alongside some more unusual helpers. Expect a fast paced, demo heavy dash
+      starting at travel apps, through personal and team CRM use, personal
+      automation, social media tools and more. Together we'll look at how tools
+      like Monica, Alfred, TripIt, Trello and others can make life easier for
+      you, for your team and for your future self. We'll also take time to look
+      at how to test out new tooling, how to share it with your teams and how to
+      best pitch the tools that didn't work for you.
+    description_ja: >+
+      あなたは新しい人との出会い、イベントへの参加、難しい技術的問題の解決、そしてチームへのフィードバックをもたらしています。文字通りでも比喩的でも、あなたは達成できているでしょう。
+
+
+      これらをすべて上手に達成するにはヘルプが必要です。今日、開発者が使用している一般的なツールと、いくつかの珍しいサービスを見ていきましょう。個人用およびチーム用のCRM、自動化ツール、ソーシャルメディアツールなどなど。Monica、Alfred、TripIt、Trelloなどのツールがあなたやチームにとって、そして将来に渡ってどれくらい楽になるのかを紹介します。また新しいツールのテスト法、チーム内での共有方法、うまくいかなかったツールの最適化方法についても検討します。
+
+    people: ''
+    translate: ''
+    number: ''
+    time: '11:35'
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      objectId: y658abM6sJAVPCWU
+      number: ''
+      name: Jessica Rose
+      name_ja: Jessica Rose
+      company: Mozilla
+      company_ja: Mozilla
+      twitter: jesslynnrose
+      profile: >-
+        Jessica Rose is a self taught technologist obsessed with fostering more
+        equal access to technical education and meaningful work in tech. She’s
+        working with Mozilla on strategy and helping their TechSpeakers program
+        turn out the next generation of folks you’ll see on this stage. She’s
+        the host of the Pursuit Podcast, co-founded Trans*Code and founded the
+        Open Code meetup series. She’s always excited to hear about what your
+        working on, come say hello!
+      profile_ja: >-
+        技術教育を誰でも平等に受けられるように活動する、独学で技術を学ぶテクノロジスト。
+
+        活動の中で、Mozillaと協業し、戦略の策定やMozilla社のTechSpeakersプログラムの次世代の人材を発掘に貢献。Trans*Codeを共同設立、また、Open
+        Code Meetupのシリーズを立ち上げ、Pursuit Podcastの責任者を務める。
+
+        仕事の聞くのが好きで、気軽に話かけてくださいとのこと。
+      title: ''
+      title_ja: ''
+      blog: 'http://jessica.tech'
+      page: /speakers/jessica/
+      image: /img/speakers/jessica.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: A7CdXbs2cFJGzxs5
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: jessica
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: テクニック
+  Sakura:
+    objectId: svKjRW13CSLW0MVg
+    title: Your First 100 Developers
+    title_ja: 最初の100人の開発者
+    description_en: >-
+      “Your First 100 Developers” is a talk that is especially for developer
+      evangelists, early startups and projects that are looking to bring in
+      their first 100 users or community members. Building community is a
+      combination of math and networking skills. Sydney Lai is a TEDx Speaker
+      that will coach devs through how to grow their community. The audience
+      will learn where their community lives, how to bring them over, and
+      acquire their first 100 users. Hear first-hand experience on Sydney's case
+      studies, how she grew dev communities for aerospace mission operations
+      platforms, VR startups or Unity developers, and now solidity developers.
+    description_ja: >-
+      「最初の100人の開発者」は特にスタートアップや立ち上がったばかりのプロジェクトにおいて、最初の100人のユーザまたはコミュニティにユーザを巻き込もうとしているケースで役に立つでしょう。コミュニティを構築するのは数学とネットワーキングスキルの組み合わせが大事です。Sydney
+      LaiはTEDxスピーカーであり、コミュニティを成長させる方法について開発者を指導しています。聴衆は自分たちのコミュニティがどこにあり、それらをどうハンドリングするかを学び、そして最初の100人のユーザを獲得します。シドニーでのケーススタディ、航空宇宙ミッション運用プラットフォーム、VRのスタートアップ、Unity…これらのケースがどのように開発者コミュニティを成長させてきたかを共有します。
+    people: ''
+    translate: ''
+    number: ''
+    time: '11:35'
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      objectId: cZnw5KBpTEzCK6TM
+      number: ''
+      name: Sydney Lai
+      name_ja: Sydney Lai
+      company: ''
+      company_ja: ''
+      twitter: sydneylai
+      profile: >-
+        Sydney Lai has passionately volunteered for the dev community since
+        2013, with Techstars and Google Developers Group. She started
+        programming at 11 years old at a summer coding camp being sassy and
+        thinking I would never need to know this again. She spent her
+        professional career building products, attending hackathons, and
+        building tech communities. Through her work, Sydney has been named an
+        LGBT Technology Leader by The White House, Office of Science and
+        Technology Policy. Her real-life struggle right now is optimizing her
+        Pokemon card collection.
+      profile_ja: >-
+        2013年から、TechstarsとGoogle Developers Groupをはじめとした、開発者コミュニティに参画。
+        11歳の夏のコーディングキャンプからプログラミングを始める（僭越ながら、当時、もうこれ以上学ぶものはない、と悟る）。
+        プロダクト開発、ハッカソンへの参加、技術コミュニティの構築に従事。その功績から、ホワイトハウス科学技術政策局（OSTP）のLGBTテクノロジーリーダーに選出。趣味は、自身のポケモンカードコレクションを最適化すること。
+      title: ''
+      title_ja: ''
+      blog: ''
+      page: /speakers/sydney/
+      image: /img/speakers/sydney.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: svKjRW13CSLW0MVg
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: false
+      key: sydney
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: コミュニティ/ハッカソン
+'12:00':
+  Sakura:
+    objectId: YL9jnrrsViKQAjYM
+    title: Why Japan Is Naturally Great at DevRel Internationally (US case study)
+    title_ja: なぜ日本は国際的にDevRelを得意とするのか（米国のケーススタディより）
+    description_en: >-
+      RICOH THETA, the world's best selling VR camera, has a vibrant and large
+      developer ecosystem in the US with thousands of registered developers
+      opening up new markets in real estate, architecture, construction, law
+      enforcement, used car sales and more.
+
+
+      How did a seemingly conservative Japanese hardware maker get this far?
+
+
+      Looking closely at the case study of RICOH THETA, I will show how Japanese
+      companies can excel in DevRel. Japanese companies are famous for the
+      Galapagos Syndrome where they are too focused on the domestic market and
+      build products best suited for Japan only. However, Japan has natural
+      advantages when trying to build developer communities in the US (and
+      probably worldwide, though that is not covered in this case study).
+
+
+      Oppkey worked closely with RICOH THETA over the past three years building
+      a developer community that has helped RICOH identify new markets for the
+      camera and radically extended the flexibility of the camera itself. RICOH
+      started with excellent hardware but then went on to leverage their
+      commitment to long term planning that helped them try techniques in 1-to-1
+      and 1-to-many outreach and measure growth over several quarters instead of
+      several months. They also relied on a culture of longer term partnerships,
+      that allows for sharing of early information and extended support, once a
+      good relationship is established. And they made a strong bet on local US
+      talent - my company, Oppkey - in order to connect more closely with US
+      developers.
+
+
+      The case of RICOH THETA shows how Japanese companies have strong natural
+      advantages for leveraging DevRel to succeed in the US - and worldwide.
+    description_ja: >-
+      世界で最も売れているVRカメラであるRICOH
+      THETAは、活気にあふれた大規模な開発者エコシステムを持ち、不動産や建築、建設、警察、中古車販売などの分野で新たな市場を開拓しています。
+
+
+      一見保守的な日本のハードウェアメーカーは、どのようにしてこれだけの結果を出したのでしょうか。
+
+
+      RICOH
+      THETAのケーススタディをよく見ながら、日本企業がいかにDevRelに優れているかを紹介します。日本企業のガラパゴス症候群で有名で、国内市場に焦点を絞りすぎて日本だけに適した製品を作っています。とは言え、米国で開発者コミュニティを構築しようとすると（そして恐らくこのケーススタディではカバーされていませんが）日本には日本の利点があります。
+
+
+      Oppkeyは過去3年間RICOH
+      THETAと密接に協力して開発者コミュニティを構築し、カメラの新しい市場を創造し、カメラ自体の可能性を劇的に拡大しました。RICOHは優れたハードウェアから始めましたが、その後アウトリーチでテクニックを試し、数四半期にわたって成長を測定できる長期計画への取り組みを実施しました。彼らはまた、長期的なパートナーシップ文化も活用します。それは良い関係が確立されれば、早期の情報の共有とサポートの延長を可能にします。米国の開発者とより密接に結びつくために私の会社、Oppkeyに賭けてくれました。
+
+
+      RICOH THETAの事例は、DevRelを活用して米国および世界で成功するために、日本企業がいかに強力な武器を持っているかを示しています。
+    people: ''
+    translate: ''
+    number: ''
+    time: '12:00'
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      objectId: QTnuwrmVkkLD5cwC
+      number: ''
+      name: Jesse Casman
+      name_ja: Jesse Casman
+      company: 'Oppkey, Inc.'
+      company_ja: 'Oppkey, Inc.'
+      twitter: jcasman
+      profile: >-
+        I am a software marketing executive with extensive experience in
+        early-stage startups in Silicon Valley and Japan. I focus on building
+        developer communities. Developer Relations is a key component to
+        reaching customers and building awareness. I work with great companies
+        like IBM, RICOH, and Renesas to leverage open source, open communities
+        and open APIs to build strong developer communities that benefit
+        community members and companies alike.
+
+
+        DevRel doesn’t just happen, it requires planning, effort and insight. I
+        have more than 15 years experience developing smart, high impact
+        marketing and developer relations campaigns. I have been deeply involved
+        in open source, networking, software development, enterprise software
+        and high-performance computing (HPC).
+
+        I act as the face of companies and communities and have a wide range of
+        specialties around communications: marketing strategy, messaging and
+        positioning development, competitive analysis, content development
+        (writing and graphics), developer-focused tech PR, US market entry for
+        non-US companies, Japanese language fluency.
+      profile_ja: >
+        ソフトウェアのマーケティングエグゼクティブ。主に、シリコンバレーと日本のアーリーステージのスタートアップのマーケティングに従事。
+
+        開発者コミュニティの構築にも注力している。DevRelは、顧客へのリーチを広げ、認知度を高めるために必要な活動だという信念のもとにDevRelに携わる。
+
+        IBM、RICO、Renesasといった大企業と共に、オープンソース、オープンソースのコミュニティ、オープンAPIを活用しながら、コミュニティの参加者、企業双方向に利益をもたらせるコミュニティの構築を目指す。
+
+
+        DevRelはただ施策をやればいいというわけではなく、計画や考察、地道な努力も必要である。そうした中で15年以上、マーケティングやDevRelの施策を実行し成果をあげる。
+
+        オープンソース、ネットワーキング、ソフトウェア開発、エンタープライズソフトウェア、そしてハイパフォーマンスコンピューティング（HPC）に携わる。
+
+        企業やコミュニティを代表し、マーケティング戦略、メッセージングおよびポジショニング開発、競合分析、ライティングおよびグラフィックなどのコンテンツ作成、
+
+        開発者向けの技術PR、米系の会社の海外への新規市場への参入、日本語への理解等、コミュニケーション分野を専門とする。
+      title: ''
+      title_ja: ''
+      blog: 'http://www.oppkey.com'
+      page: /speakers/jesse/
+      image: /img/speakers/jesse.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: YL9jnrrsViKQAjYM
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: jesse
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: コミュニティ/ハッカソン
+  Fuji:
+    objectId: y4iiGhYiTGpRiGjH
+    title: The Art of Talk Design
+    title_ja: トークデザインの世界
+    description_en: >-
+      Everywhere you look, stories surround us, and everyone has something
+      that’s worth sharing with others. As evangelists, we need to understand
+      how to structure our talks so they can have the best effect on the
+      audiences we are trying to reach. How do you discover the right angle and
+      the right story for a talk? How do you frame your story?
+
+
+      Within tech we know how to approach building a new product: we research
+      our user base, we figure out what and for who we’re trying to create
+      something for and we make sure we constantly iterate on what we’ve come up
+      with. So why aren’t we taking the same approach for our talks?
+
+
+      This talk will examine how to get in the right mindset of examining your
+      talk ideas, and will introduce a framework of how to design and iterate on
+      your talk. It will focus on several exercises and questions to help you
+      create the best talk for the story you’re trying to tell.
+    description_ja: >-
+      どこにいてもストーリーは存在し、そして誰もが他人と共有すべき価値がある何かを持っています。エバンジェリストとして、私たちはどのように話を構成すべきか理解しなければなりません。あなたはどのようにしてトークのための正しい方向性とストーリーを見つけ出しますか。ストーリーをどのように組み立てれば良いのでしょうか。
+
+
+      開発において、私たちはユーザを研究し、何を誰のために提供するのか考えます。そして、そのフローを繰り返し続けるでしょう。なぜ私たちはトークに同じアプローチを取らないでしょうか。
+
+
+      このセッションでは、トークのアイデアを検討する際の正しい方法にどのように取り組むかを検討し、どのようにしてトークをデザインして磨き上げるためのフレームワークを紹介します。それはあなたが伝えようとしているストーリーのために、あなたが最も良いトークを作るのを助けるために複数の演習と質問にフォーカスします。
+    people: ''
+    translate: ''
+    number: ''
+    time: '12:00'
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      objectId: w1bOVXZhPv2DaW7O
+      number: ''
+      name: Melinda Seckington
+      name_ja: Melinda Seckington
+      company: FutureLearn
+      company_ja: FutureLearn
+      twitter: mseckington
+      profile: >-
+        Melinda is a Ruby developer at FutureLearn, a social learning platform.
+        She loves attending BarCamps, Hackdays and other tech meet ups, and
+        since 2009 has been organising them at Geeks of London. She also writes
+        at MissGeeky, a blog about all things geeky and girly.
+      profile_ja: >-
+        メリンダはソーシャルラーニングプラットフォームを提供するFutureLearnのRubyデベロッパーです。彼女はBarCamps、Hackdaysなどのテックミートアップに参加するのが好きで、2009年からロンドンのギークスでそれらを企画しています。彼女は[MissGeeky（オタクな女の子）](https://missgeeky.com)というブログを書いています。
+      title: ''
+      title_ja: ''
+      blog: 'http://missgeeky.com/'
+      page: /speakers/melinda
+      image: /img/speakers/melinda.jpg
+      needhotel: false
+      money: 0
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: y4iiGhYiTGpRiGjH
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: false
+      key: melinda
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: テクニック
+'12:25':
+  Sakura:
     objectId: K6NhbQTh3xdpFrvk
     title: Hackathons as an internal advocacy tool
     title_ja: 社内支援ツールとしてのハッカソン
@@ -99,8 +938,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Fuji
+    time: '12:25'
+    room: Sakura
     SpeakerName: ''
     speaker:
       objectId: GgqJvFKfp6Jc6xTL
@@ -140,68 +979,75 @@
       list: true
       instagram: ''
       stackoverflow: ''
-      Slack: ''
+      Slack: true
       key: myrsini
       __type: Object
     speaker2: ''
     color: ''
     language: ''
-  Sakura:
-    objectId: y4iiGhYiTGpRiGjH
-    title: The Art of Talk Design
-    title_ja: トークデザインの世界
+    category: コミュニティ/ハッカソン
+  Fuji:
+    objectId: Sak5wJqerRD0jpU3
+    title: Public Relations 101 for Developer Advocates
+    title_ja: デベロッパーアドボケイト向けパブリックリレーションズの基本
     description_en: >-
-      Everywhere you look, stories surround us, and everyone has something
-      that’s worth sharing with others. As evangelists, we need to understand
-      how to structure our talks so they can have the best effect on the
-      audiences we are trying to reach. How do you discover the right angle and
-      the right story for a talk? How do you frame your story?
+      Have you ever sent a tweet or email that you regretted sending
+      immediately? Have you ever paused before sending a tweet thinking "What
+      would my CEO thing of this?". Have you ever had to put out a fire because
+      your private email was accidentally forwarded to someone it was not
+      intended for?
 
 
-      Within tech we know how to approach building a new product: we research
-      our user base, we figure out what and for who we’re trying to create
-      something for and we make sure we constantly iterate on what we’ve come up
-      with. So why aren’t we taking the same approach for our talks?
-
-
-      This talk will examine how to get in the right mindset of examining your
-      talk ideas, and will introduce a framework of how to design and iterate on
-      your talk. It will focus on several exercises and questions to help you
-      create the best talk for the story you’re trying to tell.
+      Online, things we say live on forever yet still we often post tweets, blog
+      posts, emails without giving them a second thought. When one of these
+      backfires on us is when we need the insights of the field of Public
+      Relations. In this talk, Cristiano Betta, developer advocate at *** will
+      try to give you a set of basic questions that you can ask yourself to
+      prevent you from making the most basic mistakes. Additionally, he will
+      take you through the common practices in dealing with bad actors - those
+      trying to have you make a mistake or say the wrong thing. At the end of
+      this talk, you will be a bit more paranoid, yet more sure than ever before
+      you hit that "send" button.
     description_ja: >-
-      どこにいてもストーリーは存在し、そして誰もが他人と共有すべき価値がある何かを持っています。エバンジェリストとして、私たちはどのように話を構成すべきか理解しなければなりません。あなたはどのようにしてトークのための正しい方向性とストーリーを見つけ出しますか。ストーリーをどのように組み立てれば良いのでしょうか。
+      今までに送信したことを後悔したつぶやきやメールがありますか。「CEOは何を考えてるんだ」と思ってツイートする直前に止めた経験がありますか。プライベートなメールが誰かに送られてしまって火消しに躍起になったことがありますか。
 
 
-      開発において、私たちはユーザを研究し、何を誰のために提供するのか考えます。そして、そのフローを繰り返し続けるでしょう。なぜ私たちはトークに同じアプローチを取らないでしょうか。
-
-
-      このセッションでは、トークのアイデアを検討する際の正しい方法にどのように取り組むかを検討し、どのようにしてトークをデザインして磨き上げるためのフレームワークを紹介します。それはあなたが伝えようとしているストーリーのために、あなたが最も良いトークを作るのを助けるために複数の演習と質問にフォーカスします。
+      オンラインでは私たちの行動は永遠に残りますが、それでも私たちはツイートしたり、ブログの投稿やメールを熟考することなく投稿しています。問題を起こさないためには広報分野における洞察力が必要になります。この講演ではデベロッパーアドボケイトのクリスチャーノが最も基本的で、ミスしないために自分でできる質問をします。さらに失敗を誘うような人たちをどう扱うかについて解説します。この講演の後、あなたはきっと“送信”ボタンを押す前に思慮できる人になっていることでしょう。
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Sakura
+    time: '12:25'
+    room: Fuji
     SpeakerName: ''
     speaker:
-      objectId: w1bOVXZhPv2DaW7O
+      objectId: 6Fpn7OaIbbVr0DwQ
       number: ''
-      name: Melinda Seckington
-      name_ja: Melinda Seckington
-      company: FutureLearn
-      company_ja: FutureLearn
-      twitter: mseckington
+      name: Cristiano Betta
+      name_ja: Cristiano Betta
+      company: Box
+      company_ja: Box
+      twitter: cbetta
       profile: >-
-        Melinda is a Ruby developer at FutureLearn, a social learning platform.
-        She loves attending BarCamps, Hackdays and other tech meet ups, and
-        since 2009 has been organising them at Geeks of London. She also writes
-        at MissGeeky, a blog about all things geeky and girly.
+        I’m a Developer Advocate and Developer Experience designer at Box. I
+        like to look at great developer onboarding flows, analyzing and
+        documenting the best practices and pitfalls of common design practices.
+        Although I have over 15 years of development experience I believe that
+        at the core we’re all beginners at some things, and documentation and
+        onboarding should reflect that notion.
+
+
+        In the past I’ve worked as a contractor, startup founder, event
+        organizer, and developer advocate at Braintree/PayPal.
       profile_ja: >-
-        メリンダはソーシャルラーニングプラットフォームを提供するFutureLearnのRubyデベロッパーです。彼女はBarCamps、Hackdaysなどのテックミートアップに参加するのが好きで、2009年からロンドンのギークスでそれらを企画しています。彼女は[MissGeeky（オタクな女の子）](https://missgeeky.com)というブログを書いています。
+        クリスチャーノはBoxのデベロッパーアドボケイトおよびDXデザイナーです。優れた開発者の体験フロー、一般的な設計手法におけるベストプラクティスと落とし穴の分析と文書化を行っています。最初はみんな初心者であり、その中心となるのはドキュメントと研修にあると考えています。クリスチャーノは15年以上の開発経験があります。
+
+
+        クリスチャーノはこれまでブレインツリー、PayPal、スタートアップのファウンダー、イベントの主催者、そして開発者として働いてきました。
       title: ''
       title_ja: ''
-      blog: 'http://missgeeky.com/'
-      page: /speakers/melinda
-      image: /img/speakers/melinda.jpg
+      blog: 'http://developer.box.com/'
+      page: /speakers/cristiano
+      image: /img/speakers/cristiano.jpg
       needhotel: false
       money: 0
       hotel: ''
@@ -211,119 +1057,25 @@
       github: ''
       session:
         __type: Pointer
-        objectId: y4iiGhYiTGpRiGjH
+        objectId: Sak5wJqerRD0jpU3
       google: ''
       linkedin: ''
       youtube: ''
       list: true
       instagram: ''
       stackoverflow: ''
-      Slack: ''
-      key: melinda
+      Slack: true
+      key: cristiano
       __type: Object
     speaker2: ''
     color: ''
     language: ''
-'08:15':
-  Both:
-    objectId: YJumQ3s3R8Pvy3XR
-    title: Registration and light breakfast
-    title_ja: ''
-    description_en: ''
-    description_ja: ''
-    people: ''
-    translate: ''
-    number: ''
-    time: '08:15'
-    room: Both
-    SpeakerName: ''
-    speaker: ''
-    speaker2: ''
-    color: grey
-    language: en
-'08:55':
-  Both:
-    objectId: 8izmSilXBYOPKMUN
-    title: Welcome to DevRelCon Tokyo 2019!
-    title_ja: ようこそ DevRelCon Tokyo 2019へ！
-    description_en: ''
-    description_ja: ''
-    people: ''
-    translate: ようこそ DevRelCon Tokyo 2019へ！
-    number: ''
-    time: '08:55'
-    room: Both
-    SpeakerName: ''
-    speaker:
-      objectId: OQKbZdChO2Tep7EU
-      number: ''
-      name: Yukihiro Matsumoto
-      name_ja: まつもとゆきひろ
-      company: Network Applied Communication Laboratory Ltd.
-      company_ja: 株式会社ネットワーク応用通信研究所
-      twitter: yukihiro_matz
-      profile: >-
-        The creator of the programming language named "Ruby". He started
-        developing Ruby from 1993, and released as free software in 1995. NPO
-        corporate lightweight Ruby Forum president, Fellow of Network Applied
-        Communication Laboratory Inc., General Association "Ruby Association"
-        chairman, Heroku Chief Architect, US, etc. He is father of three girls,
-        a body and a dog. He likes hot SPA(Onsen). He was born in Tottori
-        Prefecture, and he is living in Shimane prefecture. Taurus and Blood
-        type is O.
-      profile_ja: >-
-        プログラミング言語「Ruby」の生みの親。 1993年頃からRubyの開発に着手し、1995年にフリーソフトとして公開。
-        NPO法人軽量Rubyフォーラム理事長をはじめ、株式会社ネットワーク応用通信研究所フェロー、一般社団法人「Rubyアソシ エーション」理事長、
-        米 Heroku Chief  Architectなど、肩書多数。三女一男犬一匹の父である。 温泉好き。鳥取県出身、島根県在住。牡牛座。O型
-      title: ''
-      title_ja: ''
-      blog: ''
-      page: /speakers/matz
-      image: /img/speakers/matz.jpg
-      needhotel: false
-      money: 0
-      hotel: ''
-      preparty: ''
-      discount: ''
-      facebook: ''
-      github: matz
-      session:
-        __type: Pointer
-        objectId: wVSrIWkRRCJ8OnD9
-      google: ''
-      linkedin: ''
-      youtube: ''
-      list: true
-      instagram: ''
-      stackoverflow: ''
-      Slack: ''
-      key: matz
-      __type: Object
-    speaker2: ''
-    color: grey
-    language: en
-'11:00':
-  Both:
-    objectId: KY5cTTX2cKqUU9Yn
-    title: Break
-    title_ja: ''
-    description_en: ''
-    description_ja: ''
-    people: ''
-    translate: 休憩
-    number: ''
-    time: '11:00'
-    room: Both
-    SpeakerName: ''
-    speaker: ''
-    speaker2: ''
-    color: grey
-    language: en
+    category: マーケティング
 '12:45':
   Both:
     objectId: 4crtfmbxb9Wnakc9
     title: Lunch
-    title_ja: ''
+    title_ja: ランチ
     description_en: ''
     description_ja: ''
     people: ''
@@ -336,17 +1088,62 @@
     speaker2: ''
     color: grey
     language: en
-'18:10':
+    category: その他
+'13:45':
   Both:
-    objectId: uQqBAI44ZIzqZzR2
-    title: Goodbye & Thanks!
-    title_ja: ''
+    objectId: eClbGUjn59Ac90H9
+    title_ja: おかえりなさい！
+    description_ja: ''
+    category: その他
+    title: Welcome back!
+    description_en: ''
+    number: ''
+    time: '13:45'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: S6tTMcUowzWffalP
+      number: ''
+      name: Atsushi Nakatsugawa
+      name_ja: アツシ
+      company: MOONGIFT
+      company_ja: MOONGIFT
+      twitter: ''
+      profile: ''
+      profile_ja: ''
+      title: ''
+      title_ja: ''
+      blog: ''
+      page: ''
+      key: ''
+      image: /img/members/atsushi.jpg
+      needhotel: false
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session: ''
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: false
+      instagram: ''
+      stackoverflow: ''
+      Slack: ''
+      __type: Object
+'13:55':
+  Both:
+    objectId: wVSrIWkRRCJ8OnD9
+    title: TDB
+    title_ja: TDB
     description_en: ''
     description_ja: ''
     people: ''
     translate: ''
     number: ''
-    time: '18:10'
+    time: '13:55'
     room: Both
     SpeakerName: ''
     speaker:
@@ -391,17 +1188,1050 @@
       list: true
       instagram: ''
       stackoverflow: ''
-      Slack: ''
+      Slack: false
       key: matz
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: コミュニティ/ハッカソン
+'14:30':
+  Both:
+    objectId: 8skAqn8mvD383LhZ
+    title: Sustainable developer relations
+    title_ja: 持続可能なDevRel
+    description_en: >-
+      We have a problem. Developer relations, as many people practice it today,
+      is unsustainable.
+
+
+      We shouldn't be flying half way around the globe each year or working
+      every hour in the day. In this talk, I'll look at the four causes behind
+      this:
+
+
+      * The ongoing hunt for ROI: developer relation programmes are expensive
+      and it’s tempting to feel you have to be everywhere at once to show just
+      how hard you’re working.
+
+
+      * Fear that the opportunity window will close: the investment will run out
+      or the competition will win the market if you don’t speak at that
+      conference 3,000 miles away on your dog’s birthday.
+
+
+      * Peer pressure: we might not mean to, but we’ve created a culture where
+      airport pictures and tweets about jet lag have normalised burn-out and
+      also shown our non dev rel colleagues that this is what is expected.
+
+
+      * Dev rel still isn’t well understood: mostly, though, it’s that there
+      isn’t a common playbook for dev rel (maybe we need several) and so dev rel
+      professionals don’t always know what to do and management/colleagues have
+      outsized expectations of what dev rel can achieve.
+
+
+      I'll then talk about how we can make a better developer relations plan
+      that enables us to have a work-life balance, get great results for our
+      employers, and build rewarding developer communities.
+    description_ja: >-
+      DevRelは継続が非常に難しいです。世界中を飛び回ったり、1時間単位で仕事をしたりするべきではありません。このセッションではこの背景にある4つの課題を調べます。
+
+
+      * 継続的なROIの追求
+
+
+      DevRelプログラムは高価であり、それは世界中どこにでもいなければならないという事実が示しています。
+
+
+      * 機会損失の恐れ
+
+
+      投資機会の損失か競合に負けるのを恐れて、飼い犬の誕生日に3,000マイル離れたカンファレンスで登壇しなければなりません。
+
+
+      * ライバルの圧力
+
+
+      意図したものではないかもしれませんが、空港の写真や時差ぼけについてのつぶやきが燃え尽き症候群につながります。
+
+
+      * DevRelの認知度不足
+
+
+      DevRelに関する共通の枠組みがないために起きる問題です。DevRelに関わる人は、何をすべきかが分かっていません。DevRelが何を達成でき、期待以上の成果をあげられるかが不明です。
+
+
+      このセッションではワークライフバランスをとり、ボスにとって素晴らしい結果を提供し、そして有益な開発者コミュニティを構築することを可能にする、より良いDevRel計画を立てる方法について紹介します。
+    people: ''
+    translate: ''
+    number: ''
+    time: '14:30'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: QRWZza6rmTf8QmUm
+      number: ''
+      name: Matthew Revell
+      name_ja: Matthew Revell
+      company: Hoopy Limited
+      company_ja: Hoopy Limited
+      twitter: matthewrevell
+      profile: >-
+        Matthew runs Hoopy, the developer relations consultancy, working with
+        clients around the world and in 2015 he founded the DevRelCon series.
+      profile_ja: >-
+        マシューはDeveloper
+        Relationsのコンサルタント会社Hoopyを運営し、世界中のクライアントと協力して2015年にDevRelConを設立しました。
+      title: ''
+      title_ja: ''
+      blog: 'https://devrel.net'
+      page: /speakers/matthew/
+      image: /img/speakers/matthew.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: matthewrevell
+      github: ''
+      session:
+        __type: Pointer
+        objectId: 8skAqn8mvD383LhZ
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: matthew
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: マーケティング
+'14:55':
+  Both:
+    objectId: 2zhefrcGxu7nTQA4
+    title: Why you need Ambassador Marketing for your DevRel business
+    title_ja: DevRelにアンバサダーマーケティングが必要な理由
+    description_en: >
+      In this digital era, people output their opinions easily through internet,
+      thus more and more companies are shifting towards ambassador marketing,
+      the ultimate form of “word of mouth” marketing, which needs building good
+      relationship between company and customer.
+
+
+      I'll talk about these following things:
+
+
+      1. What is a brand ambassador (corporate ambassador)?
+
+      2. Traditional one-way marketing V.S. Ambassador marketing
+
+      3. What is the deference between Influencer Marketing and Ambassador
+      Marketing
+
+      4. Why you need Ambassador Marketing for your DevRel business
+    description_ja: >-
+      *
+      昔はマス・マーケティングの時代と言われ、テレビや本を通して企業が『一方的に』大衆に情報を発信するのが一般的な時代でした。しかしデジタル時代と呼ばれる現代、企業と顧客の関係は、SNS
+      やスマートフォンの普及により、がらりと変わりました。SNS
+      を通して、顧客の声が可視化され、また拡散されるようになり、潜在的顧客はその『口コミ』を通して製品の購入や導入、店舗への来店を判断するようになっています。企業主体の情報発信の時代は終わり、顧客主体の情報発信の時代になった、ということです。
+
+      * 「アンバサダー」とは、積極的に企業の製品の口コミを SNS やブログなどに投稿、アウトプットしてくれる『情報発信型 &&
+      熱心なファン』のことを指します。例えば「松屋の新商品のハンバーグ定食めちゃ美味しいよ！」など写真付きツイートしてくれる人を指します。顧客主体の情報発信の現代は、この素晴らしいアンバサダーの方々をいかに確保し、維持するかが非常に大切になってきます。これは一般的な話だけではなく、Developer
+      Relation の分野でも同じことが言えます。
+
+      *
+      私のセッションでは、このアンバサダーマーケティングと、よく聞くインフルエンサーマーケティングとの違い(全く違います)、そしてアンバサダーマーケティングをどう
+      Developer Relation で生かすかについてお話いたします。
+    people: ''
+    translate: ''
+    number: ''
+    time: '14:55'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: qwzBeEx8t7qJDvKX
+      number: ''
+      name: Madoka Chiyoda
+      name_ja: 千代田まどか (ちょまど)
+      company: Microsoft
+      company_ja: Microsoft
+      twitter: chomado
+      profile: >-
+        I’m a Cloud Developer Advocate, a DevRel role at Microsoft. I’m not only
+        an engineer but also a manga artist, and I have more than 50k followers
+        on Twitter (@chomado).
+      profile_ja: |-
+        私はMicrosoftのDevRelロールに属するCloud Developer Advocateです。
+        私はエンジニアであるだけでなく漫画家でもあり、Twitter（@chomado）には5万人以上のフォロワーがいます。
+      title: Cloud Developer Advocate
+      title_ja: Cloud Developer Advocate
+      blog: 'https://github.com/chomado'
+      page: /speakers/chomado
+      image: /img/speakers/chomado.jpg
+      needhotel: false
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: chomado
+      session:
+        __type: Pointer
+        objectId: 2zhefrcGxu7nTQA4
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: false
+      key: chomado
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: マーケティング
+'15:20':
+  Both:
+    objectId: KY5cTTX2cKqUU9Yn
+    title: Break
+    title_ja: 休憩
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: 休憩
+    number: ''
+    time: '15:20'
+    room: Both
+    SpeakerName: ''
+    speaker: ''
+    speaker2: ''
+    color: grey
+    language: en
+    category: その他
+'15:50':
+  Fuji:
+    objectId: wXlw8OIrwwI7H47c
+    title: Anatomy of a great Developer Portal
+    title_ja: 優れた開発者ポータルの解体新書
+    description_en: >-
+      In 2016 Stack Overflow’s Developer Survey had "poor documentation” as the
+      2nd largest challenge at work, with only 0.2% less votes than "unrealistic
+      expectations".
+
+
+      So good documentation is a prerequisite for a great Developer Experience.
+      But what documentation do you really need on your developer portal?
+
+
+      In this talk I want to analyse some of the web’s best Developer Portals to
+      answer that question.
+
+
+      What are the jobs that we need a Developer Portal to fulfil? What are the
+      best practices, and design patterns? How can these be implemented?
+
+
+      Join me, to find out and to see how you could apply these patterns to
+      improve your DX and your developer product's adoption.
+    description_ja: >-
+      2016年に行われたStack
+      Overflowの開発者アンケートは数多くの投票が得られ、仕事における課題として「ダメなドキュメント」を二番目に挙げていました。
+
+
+      素晴らしいドキュメントは優れたDXの前提条件と言えます。しかし、開発者ポータルで本当に必要なドキュメントは何でしょう。
+
+
+      このセッションでは、その質問に答えるためにWebで最も優れた開発者ポータルのいくつかを分析したいと思います。
+
+
+      開発者ポータルが果たすべき仕事は何か。ベストプラクティスとデザインパターンは何か。これらはどのように実装できるのか。
+
+
+      開発者向け製品を採用してもらうための改善パターンをどう調べて、どう適用できるか確認するためにもぜひ当セッションを聞いてください。
+    people: ''
+    translate: ''
+    number: ''
+    time: '15:50'
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      objectId: kDqmS26gmCrBX4mH
+      number: ''
+      name: Kristof Van Tomme
+      name_ja: Kristof Van Tomme
+      company: PRONOVIX GROUP BVBA
+      company_ja: PRONOVIX GROUP BVBA
+      twitter: kvantomme
+      profile: >-
+        Kristof Van Tomme is an open source strategist and architect. He is the
+        CEO and co-founder of Pronovix, a company that builds developer portals
+        and documentation systems in Drupal. He’s got a degree in bioengineering
+        and is a regular speaker at technology conferences. For a few years now
+        he’s been building bridges between the documentation, API and Drupal
+        communities.
+      profile_ja: |-
+        クリストフは、オープンソースのストラテジスト兼アーキテクトです。
+        彼は、Drupalで開発者ポータルとドキュメントシステムを構築しているPronovixのCEO兼共同創設者です。
+        彼はバイオエンジニアリングの学位を取得しており、テクノロジーカンファレンスで定期的に講演しています。
+        ここ数年、彼はドキュメンテーション、APIそしてDrupalコミュニティの間に架け橋を築いています。
+      title: ''
+      title_ja: ''
+      blog: 'https://pronovix.com/articles'
+      page: /speakers/kristof/
+      image: /img/speakers/kristof.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: wXlw8OIrwwI7H47c
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: kristof
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: API
+  Sakura:
+    objectId: UPQaTFnot3VrDs6h
+    title: >-
+      From Zero to Hero in 7 <s>hours</s> years (and counting). Tales of DevRel
+      Practitioner.
+    title_ja: 7<s>時間</s>年でゼロからヒーローに（継続中）。DevRel実施者の歩み
+    description_en: >-
+      After 7 years in DevRel in JFrog, Baruch knows one thing: in DevRel
+      learning never stops. In this talk, he will talk about what he learned
+      over his career and will share his experience on the most important topics
+      in DevRel: First of all, of course, KPIs and metrics, but also, where (and
+      how) the money comes from, hiring, management (since it's not only
+      self-management now), some other important stuff like too much travel, and
+      last, but not least, KPIs and metrics. But remember, learning never stops!
+      What are the changes we'll learn he's wrong about everything?!
+    description_ja: >-
+      JFrogのDevRelで7年間働いた経験上、私は1つのことを学びました。DevRelでは、学習は止まることはありません。このセッションでは、自身の経歴から学んだことについて話し、DevRelの最も重要なトピックについての経験を共有します。まず第一にKPIとメトリックス、そしてどこから（そしてどのように）予算ができるのか、です。しかし、覚えておいてください、学習は決して終わりません。私の経験から皆さんが学べることはなんでしょうか。
+    people: ''
+    translate: ''
+    number: ''
+    time: '15:50'
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      objectId: qyUpWCZFBDpE0KKk
+      number: ''
+      name: Baruch Sadogursky
+      name_ja: Baruch Sadogursky
+      company: JFrog
+      company_ja: JFrog
+      twitter: jbaruch
+      profile: >-
+        Baruch’s passion is speaking about technology. Well, speaking in
+        general, but doing it about technology makes him look smart, and 17
+        years of hi-tech experience sure helps. When he’s not on stage (or on a
+        plane to get there), he learns about technology, people and how they
+        work, or more precisely, don’t work together.
+
+
+        Baruch is a Head of DevRel and a Developer Advocate at JFrog, a CNCF
+        Ambassador, a passionate conference speaker on DevOps, Java and Groovy
+        topics, and is a regular at the industry’s most prestigious events
+        including JavaOne (where he was awarded a Rock Star award), DockerCon,
+        Devoxx, DevOps Days, OSCON, Qcon and many others. Follow him on Twitter
+        (as he’s a very entertaining guy!) at @jbaruch.
+      profile_ja: >-
+        バルクの情熱は技術を語ることに注がれます。
+
+        一般的に言えば、テクノロジーを知る男は頭が良く見えますが、実際に17年間の経験は非常に助けになります。
+
+        ステージにいないとき（または飛行機の中にいるとき）、彼はテクノロジー、人々、そして彼らがどのように働くかについて学びます。
+
+        JFrogではデベロッパーアドボケイトとしてDevRel部門をまとながら、CNCFのアンバサダーや、DevOps、JavaそしてGroovyのカンファレンススピーカーとしての顔を持ちます。
+
+        また、（彼がロックスターアワードを受賞した）JavaOne、DockerCon、Devoxx、DevOpsDays、ISCON、Qconなど、業界で最も権威のあるイベントに定期的に参加しています。ぜひTwitterで@jbaruchをフォローしてください。
+      title: ''
+      title_ja: ''
+      blog: 'http://www.jfrog.com'
+      page: /speakers/baruch
+      image: /img/speakers/baruch.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: jbaruch
+      session:
+        __type: Pointer
+        objectId: UPQaTFnot3VrDs6h
+      google: ''
+      linkedin: jbaruch
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: ''
+      key: baruch
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: 経験
+'16:15':
+  Fuji:
+    objectId: gXXkyBjzzOPEoAG
+    title: 'Automate Everything: Attract Developers With A Killer Dev Portal'
+    title_ja: 全自動化：最高の開発者ポータルでデベロッパーを魅了する
+    description_en: >-
+      A developer who considers solving a problem with your API but then finds
+      that the client libraries don't include his favorite language, or that
+      they haven't been updated in months, will probably leave. A developer who
+      finds your Dev Portal and sees that she can play around with the API and
+      then copy paste the relevant code, will probably stay. So how do you solve
+      the challenge of having client libraries in multiple languages that are
+      always kept up to date? How do you efficiently provide a Developer Portal
+      that allows playing around with the latest version of the API? In this
+      session I’ll discuss the importance of client libraries, and the impact
+      they have on the attractiveness of your API. I’ll show how Kaltura handled
+      the challenge of keeping them up-to-date, how it also produced an
+      interactive Developer Portal, and how you can do the same easily and with
+      very low overhead.
+    description_ja: >-
+      APIを利用しようとした開発者が、ライブラリに自分の使っているプログラミング言語が含まれていないこと、さらに数ヶ月更新されていないことを知ってしまったら、もう使おうとは思わないでしょう。逆に開発者ポータルを見つけ、そのAPIを使ってコードもコピペで使えるのであれば、その開発者は使い続けてくれるはずです。では、常に最新の状態に保たれているクライアントライブラリを複数言語に渡って作るという問題はどうすれば解決できるでしょうか。最新のAPIを試せる開発者ポータルをどう提供すれば良いでしょうか。
+
+
+      このセッションではクライアントライブラリの重要性と、それらがAPIの魅力にどう影響するのかを紹介します。Kalturaがどのように課題に対処しているのか、インタラクティブな開発者ポータルをどう開発したのか、そしてそれを少ない工数で実現できるのかを紹介します。
+    people: ''
+    translate: ''
+    number: ''
+    time: '16:15'
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      objectId: 0Qwzp7B80Y1QJkD8
+      number: ''
+      name: Avital Tzubeli
+      name_ja: Avital Tzubeli
+      company: Kaltura
+      company_ja: Kaltura
+      twitter: ''
+      profile: >-
+        After four years of backend development (python and java), I decided to
+        actualize my passion of meeting new people and inspiring them to build
+        cool stuff. As a developer evangelist, I get to meet smart people in
+        different countries, create fun turorial videos about our API, and write
+        insightful blog posts with the developers.
+      profile_ja: >-
+        PythonとJavaを中心としたバックエンド開発に4年間従事後、新しい人々との出会いや新しいものを開発する情熱を職業に活かすことを決める。
+        その後、開発者エバンジェリストとして、様々な国の開発者と交流しながら、KalturaのAPIのチュートリアルビデオを作成、開発者と共に、APIを解説するブログ記事を執筆。
+      title: ''
+      title_ja: ''
+      blog: ''
+      page: /speakers/avital/
+      image: /img/speakers/avital.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: gXXkyBjzzOPEoAG
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: avital
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: API
+  Sakura:
+    objectId: Sei2BKrFe2QYbGRi
+    title: >-
+      Why AI community stay stable for 2 years? "AI" means passion in Japanese
+      language.
+    title_ja: なぜAIコミュニティが2年間安定しているのか。「AI」は日本語で愛だからです！
+    description_en: >
+      Why does the AI developers community stay stable for two years? Why can
+      meetups be held monthly though the operating funds were short from the
+      software vendor? I'll share my experience of making the AI community
+      (mainly IBM Watson) attractive in Japan.
+
+
+      We launched developers community in Japan for Managed AI platform (mainly
+      IBM Watson API). Meetups held regularly every month. attendees are around
+      40 to 80. I will share my experience as an IBM Developer Advocate.
+
+
+      <a href="https://co-ba.net/shibuya/posts/watson_vol5/"
+      target="_blank">https://co-ba.net/shibuya/posts/watson_vol5/</a>
+
+
+      <img
+      src="https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image6.jpg"
+      />
+
+
+      <img
+      src="https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image5.jpg"
+      />
+    description_ja: >+
+      なぜAI開発者コミュニティが2年間、安定して運営できているのか。ソフトウェアベンダーからの運用資金をもらう訳でもないのに。このセッションでは私がコミュニティ（主にIBM
+      Watson）を魅力的にした経験を共有します。
+
+
+      マネージドAIプラットフォーム（主にIBM Watson
+      API）のために日本で開発者コミュニティを立ち上げました。ミートアップは毎月定期的に開催されており、毎回40〜80名の参加者となっています。私のIBMデベロッパーアドボケイトとしての経験を共有します。
+
+
+      <a href="https://co-ba.net/shibuya/posts/watson_vol5/"
+      target="_blank">https://co-ba.net/shibuya/posts/watson_vol5/</a>
+
+
+      <img
+      src="https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image6.jpg"
+      />
+
+
+      <img
+      src="https://s3-ap-northeast-1.amazonaws.com/static.co-ba.net/wp-content/uploads/2017/12/image5.jpg"
+      />
+
+    people: ''
+    translate: ''
+    number: ''
+    time: '16:15'
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      objectId: ec2IlVDxjbGiORhl
+      number: ''
+      name: Simon Sasaki
+      name_ja: 佐々木士門
+      company: IBM
+      company_ja: IBM
+      twitter: simonTokyo
+      profile: >-
+        IBM Software Developer (ex IBM Developer Advocate)
+
+
+        Engage with developers through workshops and as session speaker at tech
+        conference. My main sessions contents are about AI, Virtual Reality,
+        Cloud Serverless platform, Quantum computing and Blockchain. also give a
+        speech as a guest speaker at educational institutions such as
+        university.
+      profile_ja: |-
+        IBMのソフトウェア開発者（IBMの元Developer Adovocate)
+
+        ワークショップやカンファレンスへの登壇をメインに、開発者とのリレーション構築に従事。
+        AI、VR、クラウドサーバーレスプラットフォーム、量子コンピュータやブロックチェーンを専門とする。大学などの教育機関でもゲスト登壇をしている。
+      title: ''
+      title_ja: ''
+      blog: ''
+      page: /speakers/simon/
+      image: /img/speakers/simon.jpg
+      needhotel: false
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: Sei2BKrFe2QYbGRi
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: simon
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: 経験
+'16:40':
+  Sakura:
+    objectId: IR2z0vbL1H4vEr8Y
+    title: Helping Developers By Podcasting
+    title_ja: ポッドキャストを使った開発者サポート
+    description_en: >-
+      Many developers are by nature quiet introverts, but there’s so much to
+      gain from having more conversations — from rubber duck debugging, to
+      arguing about spaces vs tabs, to speaking at conferences, and podcasting
+      to the entire world!
+
+
+      In this session, More Than Just Code host Jaime will talk about his
+      experience with a tech podcast and helping developers in their technical
+      careers. Wherever you are on the scale from hermit to world-class famous
+      person tech blogger, how can talking about development and code make the
+      developer community better?
+    description_ja: >-
+      多くの開発者は本質的に静かで内向的な傾向がありますが、ゴム製のアヒルをデバッグしたり、スペースとタブについて議論する、カンファレンスでの講演そして全世界に向けたポッドキャスティングまで、たくさんの対話の中から得られるものがたくさんあります。
+
+
+      このセッションではMore Than Just
+      CodeのホストであるJaimeが、そのポッドキャストでの経験と技術キャリアにおけるDevRelをお話しします。あなたが一人で黙々と開発するタイプであろうと一流のブロガーであろうとも、開発とコードについて話すことが開発者コミュニティにとってどれだけ価値があるか分かりますか。
+    people: ''
+    translate: ''
+    number: ''
+    time: '16:40'
+    room: Sakura
+    SpeakerName: ''
+    speaker:
+      objectId: KM7txvc5AetoIGOZ
+      number: ''
+      name: Jaime Lopez Jr
+      name_ja: Jaime Lopez Jr
+      company: ''
+      company_ja: ''
+      twitter: DevWithTheHair
+      profile: >-
+        Jaime is an experienced software developer with a focus on iOS
+        development. He led the iOS development team at OfferUp where he helped
+        make the buying and selling experience simpler, faster, and safer. Jaime
+        is currently an iOS developer at Simple, where he helps make personal
+        banking delightful. He is also a co-host of the More Than Just Code
+        podcast. Jaime often enjoys a nice cup of coffee and conversation on
+        various topics.
+      profile_ja: >-
+        ハイメは、iOS開発を中心とした経験豊富なソフトウェア開発者です。
+
+        OfferUpのiOS開発チームを率いて、売買をより簡単に、より速く、そしてより安全にする手助けをしました。
+        現在はSimpleのiOS開発者であり、そこではパーソナルバンキングを楽しいものにしています。彼は、More Than Just Code
+        ポッドキャストの共催者でもあります。コーヒーを飲みながら、様々なトピックについての会話を楽しんでいます。
+      title: ''
+      title_ja: ''
+      blog: 'http://www.devwiththehair.com/'
+      page: /speakers/jaime
+      image: /img/speakers/jaime.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: IR2z0vbL1H4vEr8Y
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: false
+      key: jaime
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: 経験
+  Fuji:
+    objectId: IbHceUE2ccY9mPxF
+    title: An API Spec driven Developer Experience journey
+    title_ja: APIスペック駆動な開発者体験の旅
+    description_en: >-
+      Developer Experience has taken center stage for a lot of API providers,
+      with others following suit. In spite of it being an important part of the
+      API lifecycle, it has been a tough nut to crack for a lot of API
+      providers. The effort, time and cost required to achieve top-notch
+      Developer Experience tend to be a big obstacle, while the various
+      components getting out of sync just adds to the woes.
+
+      With the wide adoption of the API Specification as the single source of
+      truth and the center stage of most API endeavors, it is only fitting for
+      it to be the engine behind fixing the Developer Experience woes of API
+      providers.
+
+      I will walk you through the journey of achieving top-notch Developer
+      Experience by maximizing the use of the API Specifications. First, I will
+      talk about the components that make a Developer Experience great. I'll
+      then walk through the improvements and additions that can be made to API
+      Specifications that leads to great Developer Experience components.
+      Following that, I’ll dive into using the specification to generate Guides,
+      Documentation, SDKs and Code samples, and will compare the different
+      tooling out there that can help you achieve that. Finally, I'll highlight
+      the advantages of automatic generation of these components over manually
+      creating them and will present an internal case study on how we've used
+      that at APIMatic.
+    description_ja: >-
+      DX（開発者体験）は多くのAPIプロバイダにおいて中心に据えられた考えになっています。APIライフサイクルの重要な役割にあるにも関わらず、なかなかうまく実施できていないのも事実です。素晴らしいDXを提供するのに必要な工数、時間およびコストは大きな障害になりますが、各APIが統一されていないのは悩みのタネです。
+
+
+      一つの事実として、API
+      Specificationは広く知れ渡っており、殆どのAPIで採用されているのでAPIを使う上での開発者体験を改善するのに役立つでしょう。API
+      Specificationを活用し、素晴らしいDXを提供するための方法を解説します。まずDXを素晴らしいものにする要素について説明します。そしてDXを優れたものに対するためにAPI
+      Specificationの改善と追加を紹介します。さらにその仕様を使ってガイド、ドキュメント、SDKそしてサンプルコードを生成するためのツールを比較します。最後に、手動で作成するよりも、これらのコンポーネントを自動生成することのメリットについてよく知ってもらった上で、APIMaticでどのように使用しているかケーススタディとして紹介します。
+    people: ''
+    translate: ''
+    number: ''
+    time: '16:40'
+    room: Fuji
+    SpeakerName: ''
+    speaker:
+      objectId: U1y9YU3tDATEF1K9
+      number: ''
+      name: Nauman Ali
+      name_ja: Nauman Ali
+      company: APIMATIC
+      company_ja: APIMATIC
+      twitter: mnaumanali94
+      profile: >-
+        Nauman Ali is an API enthusiast who dived into the API world early into
+        his career. Ever since his days at college, he was deeply interested in
+        how systems interact and how the interactions between them can be
+        optimized to produce better connections between digital entities.
+        Working on a similar project he realized how hard it gets for developers
+        to work with unfamiliar systems when working on these integrations and
+        this opened him up to the world of Developer Experience and making APIs
+        easy to consume. Since then he took off his journey with APIMatic, a New
+        Zealand based startup set out to do the same. Nauman currently is
+        leading the Developer Experience Portal and the CodeGen project at
+        APIMatic and in his quest has met API Evangelists from around the world
+        and has spoken at a number of conferences. He has developed a
+        considerable insight into problems faced by both API Developers and
+        consumer and can feel their pain and is set out on a mission to make
+        life easy for both of them. In his free time, he loves watching football
+        and is currently really sad about Ronaldo leaving his favorite club,
+        Real Madrid.
+      profile_ja: >-
+        Nauman
+        Aliは、黎明期からAPIを活用してきた、API愛好家。学生時代から、システム同士の連携方法や統合を最適化しながら最適な開発方法に興味をもち、模索している。そうしたプロジェクトに多数従事した結果、開発者がなじみのないシステムで開発する難しさを発見。開発者としても経験を重ね、数々のAPIを使いやすくする技術を習得。ニュージーランドを拠点とするスタートアップ、APIMaticでのキャリアをスタートし、現在は、Developer
+        Experience
+        PortalとCodeGenプロジェクトを率いており、世界中のAPIエバンジェリストと出会いながら、数多くのカンファレンスで講演。API開発者とユーザの両方が直面する問題を究明し、両者の課題を理解しながら、開発者にもユーザにもフレンドリーなAPIを提供する、というミッションの元、活動中。趣味は、フットボール鑑賞。お気に入りのクラブはレアルマドリードだが、ロナウドが移籍してしまうのが悲しいとのこと。
+      title: ''
+      title_ja: ''
+      blog: 'https://www.linkedin.com/in/nauman-ali/'
+      page: /speakers/nauman/
+      image: /img/speakers/nauman.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: IbHceUE2ccY9mPxF
+      google: ''
+      linkedin: nauman-ali
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: nauman
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: API
+'17:00':
+  Both:
+    objectId: 8ujipAsqpisC2xFl
+    title: Short break
+    title_ja: 小休止
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ''
+    number: ''
+    time: '17:00'
+    room: Both
+    SpeakerName: ''
+    speaker: ''
+    speaker2: ''
+    color: ''
+    language: ''
+    category: その他
+'17:10':
+  Both:
+    objectId: aqoq4MRD09ByV58b
+    title_ja: アナウンス
+    description_ja: ''
+    category: その他
+    title: Announcement
+    description_en: ''
+    number: ''
+    time: '17:10'
+    room: Both
+    SpeakerName: ''
+    speaker: ''
+'17:20':
+  Both:
+    objectId: 80RoS23joe1udN7B
+    title: 5 Tips for making a robust DevRel team
+    title_ja: 堅牢なDevRelチームを作るための5つのヒント
+    description_en: >-
+      It's not easy to have a DevRel team especially for companies which are not
+      so big. But there're many things have to do. Then using external resources
+      is required, and it's not easy as well. From my real experience, I'll
+      share five tips on how to create a team to get a result!
+
+
+      There might be many tips we can try, but for the first twelve months, how
+      about trying only **FIVE** tips I always keep in mind. These are from my
+      experiences and **SIMPLE** though the effectiveness is not small. My goal
+      as a DevRel person is to acquire more users and create a user community of
+      our IoT application development service, since I've started this role from
+      March 2018. After nine months challenge, I could acquire hundreds of users
+      and about 150 members of the community.
+
+
+      I am still on the way of the journey, but I can show you real examples of
+      my failures and success.
+    description_ja: >-
+      それほど大きくない会社がDevRelチームを持つのは簡単ではありません。しかし、やるべきことはたくさんあります。そのため外部のリソースを使うことが必要です。そしてそれも容易ではありません。実際の経験から、結果を出すチームの作成方法に関する5つのヒントを紹介します。
+
+
+      試せる多くのヒントがあるかもしれません。しかし最初の12ヶ月間は5つのヒントについてだけ試すのはいかがでしょう。この5つのヒントは私の経験とシンプルさに由来しますが、効果は決して小さくありません。私は2018年3月からこのロールになり、目標はより多くのユーザーを獲得し、IoTアプリケーション開発サービスのユーザーコミュニティを作成することです。
+
+
+      まだ途中過程ではありますが、経験に基づく失敗と成功を示すことができるでしょう。
+    people: ''
+    translate: ''
+    number: ''
+    time: '17:20'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: uQQjqNfZNJCsVP59
+      number: ''
+      name: Wataru Yamazaki
+      name_ja: Wataru Yamazaki
+      company: Uhuru Corporation
+      company_ja: 株式会社ウフル
+      twitter: wyamazak
+      profile: >-
+        Wataru Yamazaki is a General Manager and the team lead of “enebular”
+        product marketing team, Uhuru Corporation based in Tokyo, Japan.
+
+
+        He runs a product marketing team and also acts as a developer relation
+        of the product - organises meetups, a user community, tech contents -
+        demos, hands-on labs, and communicate with users via SNS.
+
+
+        He is a community member of “DevRelJp”, “Community-Marketing Community”,
+        “Node-RED User Group”, “IoTLT”, “Cloud Developer Circle”, and so on. As
+        an admin. member, he joins “DevRelJp English” and “DevRel/Community”
+        communities.
+      profile_ja: >-
+        株式会社ウフルのIoT開発・運用サービス、「enebular」のプロダクトマーケティングチームでジェネラルマネージャーとチーム・リードを担います。
+
+        彼は製品マーケティングチームを運営しながら、製品のDevRel活動も行なっています。
+
+        例えばミートアップ、ユーザーコミュニティ、製品デモ、ハンズオンなどの技術コンテンツ、SNSを通してのユーザとのコミュニケーション、などです。
+
+        彼は、 "DevRelJp"、 "Community-Marketing Community"、 "Node-RED User Group"、
+        "IoTLT"、 "Cloud Developer Circle"などのコミュニティメンバーです。“ DevRelJp English”、“
+        DevRel / Community”コミュニティは管理者としてコミュニティ運営に携わっています。
+      title: ''
+      title_ja: ''
+      blog: 'https://about.me/wyamazak'
+      page: /speakers/wataru
+      image: /img/speakers/wataru.jpg
+      needhotel: false
+      money: 0
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: 80RoS23joe1udN7B
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: wataru
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: 経験
+'17:45':
+  Both:
+    objectId: KYBuS1MD2pGdd1kS
+    title: >-
+      Understanding Change; or, Adapt & Survive: a personal tale of a changing
+      career in DevRel
+    title_ja: 変化を受け入れるか適応するか：DevRelでのキャリア変更に関する個人的な話
+    description_en: >-
+      At previous DevRelCon events around the world, we've heard some fantastic
+      talks about handling burnout, avoiding burnout, how to deal with burnout
+      when it hits you (take. some. time. OFF.). This time, let's talk about
+      something that _contributes_ to burnout, but that is constant in our
+      industry and profession as much as any others - the changing landscape we
+      work in.
+
+
+      Technologies change. Your company's APIs _will_ change. The communities
+      you work with may change.
+
+      Your team may grow, shrink, be reorganized. In time, you may move into
+      more senior leadership or management positions.
+
+
+      Understanding that change is constant, and many of the dimensions where it
+      may occur, can help us to navigate our paths ahead.
+
+      This is a story of lessons learned across nearly 10 years in community
+      leadership and developer relations.
+    description_ja: >-
+      前回のDevRelConで、バーンアウト（燃え尽き症候群）の処理との回避、そしてバーンアウトが発生したときの対処方法について、いくつかの素晴らしいセッションがありました。
+
+      今回は、バーンアウトに寄与する話になりますが、それは私たちの業界や職業において他のものと同じくらい変わらない - 私たちが取り組むべき課題です。
+
+
+      技術は変わります。
+      あなたの会社のAPIも変わります。コミュニティだって変化するかも知れません。あなたのチームは成長し、または縮小したり、再編成されるかもしれません。
+      やがて、あなたはマネージャや経営層になるかもしれません。
+
+
+      変化は一定であり、変化が起こる可能性がある多くの側面を理解することは、私たちが前進する道を進むのに役立ちます。
+
+      これは、コミュニティのリーダーシップとDevRelにおいて10年近くにわたって学んだ教訓のストーリーです。
+    people: ''
+    translate: ''
+    number: ''
+    time: '17:45'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: emdFNey2l8nk2mfm
+      number: ''
+      name: Andy Piper
+      name_ja: Andy Piper
+      company: Twitter
+      company_ja: Twitter
+      twitter: andypiper
+      profile: >-
+        Lead Developer Advocate, and Public Speaker in London, United Kingdom A
+        widely-known Social Bridgebuilder, LEGO fanatic, technologist, and
+        speaker.
+
+
+        Andy is an enabler, a synthesiser, a connector, and a community-builder.
+      profile_ja: >-
+        Lead Developer
+        Advocateとしてロンドンを拠点にイベントやカンファレンスなどに多数登壇している。英国では、様々なコミュニティの架け橋を行い、イベント、カンファレンスのスピーカーやテクノロジストとして活動。レゴが趣味。 
+
+        周囲と協力しながらコミュニティ形成を実現することを得意とする。
+      title: ''
+      title_ja: ''
+      blog: 'https://andypiper.co.uk'
+      page: /speakers/andy/
+      image: /img/speakers/andy.jpg
+      needhotel: true
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session:
+        __type: Pointer
+        objectId: KYBuS1MD2pGdd1kS
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: true
+      instagram: ''
+      stackoverflow: ''
+      Slack: true
+      key: andy
+      __type: Object
+    speaker2: ''
+    color: ''
+    language: ''
+    category: 経験
+'18:05':
+  Both:
+    objectId: uQqBAI44ZIzqZzR2
+    title: Goodbye & Thanks!
+    title_ja: ありがとう & 閉幕
+    description_en: ''
+    description_ja: ''
+    people: ''
+    translate: ''
+    number: ''
+    time: '18:05'
+    room: Both
+    SpeakerName: ''
+    speaker:
+      objectId: S6tTMcUowzWffalP
+      number: ''
+      name: Atsushi Nakatsugawa
+      name_ja: アツシ
+      company: MOONGIFT
+      company_ja: MOONGIFT
+      twitter: ''
+      profile: ''
+      profile_ja: ''
+      title: ''
+      title_ja: ''
+      blog: ''
+      page: ''
+      key: ''
+      image: /img/members/atsushi.jpg
+      needhotel: false
+      money: ''
+      hotel: ''
+      preparty: ''
+      discount: ''
+      facebook: ''
+      github: ''
+      session: ''
+      google: ''
+      linkedin: ''
+      youtube: ''
+      list: false
+      instagram: ''
+      stackoverflow: ''
+      Slack: ''
       __type: Object
     speaker2: ''
     color: grey
     language: en
+    category: その他
 '18:30':
   Both:
     objectId: GsmVHHUIFd6UgXkn
     title: Drink up
-    title_ja: ''
+    title_ja: アフターパーティー
     description_en: ''
     description_ja: ''
     people: ''
@@ -414,3 +2244,4 @@
     speaker2: ''
     color: grey
     language: en
+    category: その他

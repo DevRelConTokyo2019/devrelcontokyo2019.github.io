@@ -38,7 +38,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '13:55'
     room: Both
     SpeakerName: ''
     speaker:
@@ -47,6 +47,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: コミュニティ/ハッカソン
     __type: Object
   google: ''
   linkedin: ''
@@ -54,7 +55,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: false
   key: matz
 - objectId: w1bOVXZhPv2DaW7O
   number: ''
@@ -115,8 +116,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Sakura
+    time: '12:00'
+    room: Fuji
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -124,6 +125,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: テクニック
     __type: Object
   google: ''
   linkedin: ''
@@ -131,7 +133,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: false
   key: melinda
 - objectId: 6Fpn7OaIbbVr0DwQ
   number: ''
@@ -198,8 +200,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Both
+    time: '12:25'
+    room: Fuji
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -207,6 +209,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: マーケティング
     __type: Object
   google: ''
   linkedin: ''
@@ -260,8 +263,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Fuji
+    time: '12:25'
+    room: Sakura
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -269,6 +272,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: コミュニティ/ハッカソン
     __type: Object
   google: ''
   linkedin: ''
@@ -276,7 +280,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: myrsini
 - objectId: KM7txvc5AetoIGOZ
   number: ''
@@ -335,8 +339,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Fuji
+    time: '16:40'
+    room: Sakura
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -344,6 +348,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: 経験
     __type: Object
   google: ''
   linkedin: ''
@@ -351,7 +356,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: false
   key: jaime
 - objectId: uQQjqNfZNJCsVP59
   number: ''
@@ -429,8 +434,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Fuji
+    time: '17:20'
+    room: Both
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -438,6 +443,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: 経験
     __type: Object
   google: ''
   linkedin: ''
@@ -510,7 +516,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '15:50'
     room: Sakura
     SpeakerName: ''
     speaker:
@@ -519,6 +525,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: 経験
     __type: Object
   google: ''
   linkedin: jbaruch
@@ -576,8 +583,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Fuji
+    time: '11:10'
+    room: Sakura
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -585,6 +592,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: コミュニティ/ハッカソン
     __type: Object
   google: ''
   linkedin: ''
@@ -640,7 +648,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '09:10'
     room: Both
     SpeakerName: ''
     speaker:
@@ -649,6 +657,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: ''
     __type: Object
   google: ''
   linkedin: petermoskovits
@@ -656,7 +665,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: peter
 - objectId: qwzBeEx8t7qJDvKX
   number: ''
@@ -722,7 +731,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '14:55'
     room: Both
     SpeakerName: ''
     speaker:
@@ -731,6 +740,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: マーケティング
     __type: Object
   google: ''
   linkedin: ''
@@ -738,7 +748,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: false
   key: chomado
 - objectId: QRWZza6rmTf8QmUm
   number: ''
@@ -835,8 +845,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Sakura
+    time: '14:30'
+    room: Both
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -844,6 +854,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: マーケティング
     __type: Object
   google: ''
   linkedin: ''
@@ -925,7 +936,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '15:50'
     room: Fuji
     SpeakerName: ''
     speaker:
@@ -934,6 +945,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: API
     __type: Object
   google: ''
   linkedin: ''
@@ -941,7 +953,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: kristof
 - objectId: y658abM6sJAVPCWU
   number: ''
@@ -1005,7 +1017,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '11:35'
     room: Fuji
     SpeakerName: ''
     speaker:
@@ -1014,6 +1026,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: テクニック
     __type: Object
   google: ''
   linkedin: ''
@@ -1021,7 +1034,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: jessica
 - objectId: emdFNey2l8nk2mfm
   number: ''
@@ -1080,7 +1093,7 @@
 
       This is a story of lessons learned across nearly 10 years in community
       leadership and developer relations.
-    description_ja: >
+    description_ja: >-
       前回のDevRelConで、バーンアウト（燃え尽き症候群）の処理との回避、そしてバーンアウトが発生したときの対処方法について、いくつかの素晴らしいセッションがありました。
 
       今回は、バーンアウトに寄与する話になりますが、それは私たちの業界や職業において他のものと同じくらい変わらない - 私たちが取り組むべき課題です。
@@ -1097,7 +1110,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '17:45'
     room: Both
     SpeakerName: ''
     speaker:
@@ -1106,6 +1119,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: 経験
     __type: Object
   google: ''
   linkedin: ''
@@ -1113,7 +1127,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: andy
 - objectId: ec2IlVDxjbGiORhl
   number: ''
@@ -1202,7 +1216,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '16:15'
     room: Sakura
     SpeakerName: ''
     speaker:
@@ -1211,6 +1225,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: 経験
     __type: Object
   google: ''
   linkedin: ''
@@ -1218,7 +1233,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: simon
 - objectId: QTnuwrmVkkLD5cwC
   number: ''
@@ -1332,7 +1347,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '12:00'
     room: Sakura
     SpeakerName: ''
     speaker:
@@ -1341,6 +1356,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: コミュニティ/ハッカソン
     __type: Object
   google: ''
   linkedin: ''
@@ -1348,7 +1364,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: jesse
 - objectId: cZnw5KBpTEzCK6TM
   number: ''
@@ -1402,8 +1418,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Fuji
+    time: '11:35'
+    room: Sakura
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -1411,6 +1427,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: コミュニティ/ハッカソン
     __type: Object
   google: ''
   linkedin: ''
@@ -1418,7 +1435,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: false
   key: sydney
 - objectId: 0Qwzp7B80Y1QJkD8
   number: ''
@@ -1474,8 +1491,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Sakura
+    time: '16:15'
+    room: Fuji
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -1483,6 +1500,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: API
     __type: Object
   google: ''
   linkedin: ''
@@ -1490,7 +1508,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: avital
 - objectId: U1y9YU3tDATEF1K9
   number: ''
@@ -1572,8 +1590,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Sakura
+    time: '16:40'
+    room: Fuji
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -1581,6 +1599,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: API
     __type: Object
   google: ''
   linkedin: nauman-ali
@@ -1588,7 +1607,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: nauman
 - objectId: AXlgHFqeQC3LtCCc
   number: ''
@@ -1745,8 +1764,8 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
-    room: Both
+    time: '11:10'
+    room: Fuji
     SpeakerName: ''
     speaker:
       __type: Pointer
@@ -1754,6 +1773,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: テクニック
     __type: Object
   google: ''
   linkedin: ''
@@ -1761,7 +1781,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: seigo
 - objectId: 0KXHfOp3FWagSWNZ
   number: ''
@@ -1828,7 +1848,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '10:10'
     room: Both
     SpeakerName: ''
     speaker:
@@ -1837,6 +1857,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: テクニック
     __type: Object
   google: ''
   linkedin: ''
@@ -1844,7 +1865,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
   key: brian
 - objectId: 6F1ltw52RncDFZN
   number: ''
@@ -1901,7 +1922,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '09:45'
     room: Both
     SpeakerName: ''
     speaker:
@@ -1910,6 +1931,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: マーケティング
     __type: Object
   google: ''
   linkedin: ''
@@ -1917,7 +1939,7 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: true
 - objectId: 2rfRMHFkYXW70Oda
   number: ''
   name: Matt Rose
@@ -1978,7 +2000,7 @@
     people: ''
     translate: ''
     number: ''
-    time: ''
+    time: '11:35'
     room: Fuji
     SpeakerName: ''
     speaker:
@@ -1987,6 +2009,7 @@
     speaker2: ''
     color: ''
     language: ''
+    category: テクニック
     __type: Object
   google: ''
   linkedin: ''
@@ -1994,4 +2017,4 @@
   list: true
   instagram: ''
   stackoverflow: ''
-  Slack: ''
+  Slack: false

@@ -60,9 +60,12 @@ Schedule
             </div>
         </div>
         <div class="row" style="background-color: black; color: white;text-align: center; font-weight: bold;">
-          <div class="col-sm-2">Time</div>
-          <div class="col-sm-5">Fuji</div>
-          <div class="col-sm-5">Sakura</div>
+          <div class="col-sm-2 lang en">Time</div>
+          <div class="col-sm-5 lang en">Fuji</div>
+          <div class="col-sm-5 lang en">Sakura</div>
+          <div class="col-sm-2 lang ja">時間</div>
+          <div class="col-sm-5 lang ja">富士</div>
+          <div class="col-sm-5 lang ja">桜</div>
         </div>
         {% for session in site.data.sessions %}
           <div class="row" style="background-color: #eee; margin-bottom: 2px; padding: 1.2em 0">
@@ -71,7 +74,8 @@ Schedule
               <div class="col-sm-10">
                 <div style="font-size: 1.1em;">
                   {% if session[1]['Both'].speaker == "" %}
-                    {{ session[1]['Both'].title }}
+                    <span class="lang en">{{ session[1]['Both'].title }}</span>
+                    <span class="lang ja">{{ session[1]['Both'].title_ja }}</span>
                   {% else %}
                     {% if session[1]['Both'].speaker.page != "" %}
                     <a href="{{ session[1]['Both'].speaker.page }}" class="lang en">
@@ -81,7 +85,8 @@ Schedule
                       {{ session[1]['Both'].title_ja }}
                     </a>
                     {% else %}
-                      {{ session[1]['Both'].title }}
+                    <span class="lang en">{{ session[1]['Both'].title }}</span>
+                    <span class="lang ja">{{ session[1]['Both'].title_ja }}</span>
                     {% endif %}
                   {% endif %}
                 </div>
@@ -91,7 +96,8 @@ Schedule
                   </div>
                 {% endif %}
                 {% if session[1]['Both'].speaker == "" %}
-                  {{ session[1]['Both'].speaker.name }}
+                <span class="lang en">{{ session[1]['Both'].speaker.name }}</span>
+                <span class="lang ja">{{ session[1]['Both'].speaker.name_ja }}</span>
                 {% else %}
                   {% if session[1]['Both'].speaker.page != "" %}
                     <a href="{{ session[1]['Both'].speaker.page }}" class="lang en">
@@ -101,7 +107,8 @@ Schedule
                       {{ session[1]['Both'].speaker.name_ja }}
                     </a>
                   {% else %}
-                    {{ session[1]['Both'].speaker.name }}
+                  <span class="lang en">{{ session[1]['Both'].speaker.name }}</span>
+                  <span class="lang ja">{{ session[1]['Both'].speaker.name_ja }}</span>
                   {% endif %}
                 {% endif %}
                 {% if session[1]['Both'].youtube %}
@@ -110,7 +117,8 @@ Schedule
                 </div>
                 {% endif %}
                 {% if session[1]['Both'].speaker.company %}
-                , {{ session[1]['Both'].speaker.company }}
+                , <span class="lang en">{{ session[1]['Both'].speaker.company }}</span>
+                  <span class="lang ja">{{ session[1]['Both'].speaker.company_ja }}</span>
                 {% endif %}<br />
                 {% if session[1]['Both'].english %}
                   <a href="https://paper.dropbox.com/doc/{{ session[1]['Both'].english }}" target="_blank">英語</a>
@@ -125,23 +133,32 @@ Schedule
             {% else %}
               <div class="col-sm-5">
                 <div style="font-size: 1.1em;">
-                  <a href="{{ session[1]['Fuji'].speaker.page }}">
+                  <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang en">
                     {{ session[1]['Fuji'].title }}
+                  </a>
+                  <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang ja">
+                    {{ session[1]['Fuji'].title_ja }}
                   </a>
                 </div>
                 <img src="{{ session[1]['Fuji'].speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
-                <a href="{{ session[1]['Fuji'].speaker.page }}">{{ session[1]['Fuji'].speaker.name }}</a>
+                <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang en">{{ session[1]['Fuji'].speaker.name }}</a>
+                <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang ja">{{ session[1]['Fuji'].speaker.name_ja }}</a>
                 {% if session[1]['Fuji'].speaker.company %}
-                , {{ session[1]['Fuji'].speaker.company }}
+                , <span class="lang en">{{ session[1]['Fuji'].speaker.company }}</span>
+                <span class="lang ja">{{ session[1]['Fuji'].speaker.company_ja }}</span>
                 {% endif %}
                 {% if session[1]['Fuji'].speaker2 != "" %}
                   <br />
                   {% assign objectId = session[1]['Fuji'].speaker2.objectId %}
                   {% assign speaker2 = site.data.speakers | where: "objectId", objectId %}
                   <img src="{{ speaker2[0].image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
-                  <a href="{{ speaker2[0].page }}">{{ speaker2[0].name }}</a>
-                  {% if speaker2[0].company %}
-                  , {{ speaker2[0].company }}
+                  <a href="{{ speaker2[0].page }}">
+                    <span class="lang en">{{ speaker2[0].name }}</span>
+                    <span class="lang ja">{{ speaker2[0].name_ja }}</span>
+                  </a>
+                  {% if speaker2[0].company != "" %}
+                  , <span class="lang en">{{ speaker2[0].company }}</span>
+                  <span class="lang ja">{{ speaker2[0].company_ja }}</span>
                   {% endif %}
                 {% endif %}<br />
                 {% if session[1]['Fuji'].youtube %}
@@ -161,20 +178,30 @@ Schedule
               </div>
               <div class="col-sm-5">
                 <div style="font-size: 1.1em;">
-                  <a href="{{ session[1]['Sakura'].speaker.page }}">
+                  <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang en">
                     {{ session[1]['Sakura'].title }}
+                  </a>
+                  <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang ja">
+                    {{ session[1]['Sakura'].title_ja }}
                   </a>
                 </div>
                 <img src="{{ session[1]['Sakura'].speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
-                <a href="{{ session[1]['Sakura'].speaker.page }}">{{ session[1]['Sakura'].speaker.name }}</a>
+                <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang ja">
+                  {{ session[1]['Sakura'].speaker.name_ja }}
+                </a>
+                <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang en">
+                  {{ session[1]['Sakura'].speaker.name }}
+                </a>
                 {% if session[1]['Sakura'].speaker.company %}
-                , {{ session[1]['Sakura'].speaker.company }}
+                , <span class="lang en">{{ session[1]['Sakura'].speaker.company }}</span>
+                <span class="lang ja">{{ session[1]['Sakura'].speaker.company_ja }}</span>
                 {% endif %}
                 {% if session[1]['Sakura'].speaker2 %}
                   <img src="{{ session[1]['Sakura'].speaker2.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
                   <a href="{{ session[1]['Sakura'].speaker2.page }}">{{ session[1]['Sakura'].speaker2.name }}</a>
                   {% if session[1]['Sakura'].speaker2.company %}
-                  , {{ session[1]['Sakura'].speaker2.company }}
+                  , <span class="lang en">{{ session[1]['Sakura'].speaker2.company }}</span>
+                  <span class="lang ja">{{ session[1]['Sakura'].speaker2.company_ja }}</span>
                   {% endif %}
                 {% endif %}<br />
                 {% if session[1]['Sakura'].youtube %}

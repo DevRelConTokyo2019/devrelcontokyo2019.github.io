@@ -61,11 +61,17 @@ Schedule
         </div>
         <div class="row" style="background-color: black; color: white;text-align: center; font-weight: bold;">
           <div class="col-sm-2 lang en">Time</div>
-          <div class="col-sm-5 lang en">Fuji</div>
-          <div class="col-sm-5 lang en">Sakura</div>
           <div class="col-sm-2 lang ja">時間</div>
-          <div class="col-sm-5 lang ja">富士</div>
-          <div class="col-sm-5 lang ja">桜</div>
+          <div class="col-sm-10">
+            <div class="row">
+              <div class="col-sm-4 lang en">Fuji</div>
+              <div class="col-sm-4 lang en">Sakura</div>
+              <div class="col-sm-4 lang en">Samurai</div>
+              <div class="col-sm-4 lang ja">富士</div>
+              <div class="col-sm-4 lang ja">桜</div>
+              <div class="col-sm-4 lang ja">侍</div>
+            </div>
+          </div>
         </div>
         {% for session in site.data.sessions %}
           <div class="row" style="background-color: #eee; margin-bottom: 2px; padding: 1.2em 0">
@@ -131,93 +137,136 @@ Schedule
                 {% endif %}
               </div>
             {% else %}
-              <div class="col-sm-5">
-                <div style="font-size: 1.1em;">
-                  <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang en">
-                    {{ session[1]['Fuji'].title }}
-                  </a>
-                  <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang ja">
-                    {{ session[1]['Fuji'].title_ja }}
-                  </a>
+              <div class="col-sm-10">
+                <div class="row">
+                  <div class="col-sm-4">
+                    <div style="font-size: 1.1em;">
+                      <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang en">
+                        {{ session[1]['Fuji'].title }}
+                      </a>
+                      <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang ja">
+                        {{ session[1]['Fuji'].title_ja }}
+                      </a>
+                    </div>
+                    <img src="{{ session[1]['Fuji'].speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                    <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang en">{{ session[1]['Fuji'].speaker.name }}</a>
+                    <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang ja">{{ session[1]['Fuji'].speaker.name_ja }}</a>
+                    {% if session[1]['Fuji'].speaker.company %}
+                    , <span class="lang en">{{ session[1]['Fuji'].speaker.company }}</span>
+                    <span class="lang ja">{{ session[1]['Fuji'].speaker.company_ja }}</span>
+                    {% endif %}
+                    {% if session[1]['Fuji'].speaker2 != "" %}
+                      <br />
+                      {% assign objectId = session[1]['Fuji'].speaker2.objectId %}
+                      {% assign speaker2 = site.data.speakers | where: "objectId", objectId %}
+                      <img src="{{ speaker2[0].image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                      <a href="{{ speaker2[0].page }}">
+                        <span class="lang en">{{ speaker2[0].name }}</span>
+                        <span class="lang ja">{{ speaker2[0].name_ja }}</span>
+                      </a>
+                      {% if speaker2[0].company != "" %}
+                      , <span class="lang en">{{ speaker2[0].company }}</span>
+                      <span class="lang ja">{{ speaker2[0].company_ja }}</span>
+                      {% endif %}
+                    {% endif %}<br />
+                    {% if session[1]['Fuji'].youtube %}
+                    <div class="movie-wrap">
+                      <iframe width="280" height="165" src="https://www.youtube.com/embed/{{session[1]['Fuji'].youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    {% endif %}
+                    {% if session[1]['Fuji'].english %}
+                      <a href="https://paper.dropbox.com/doc/{{ session[1]['Fuji'].english }}" target="_blank">英語</a>
+                    {% endif %}
+                    {% if session[1]['Fuji'].japanese %}
+                      / <a href="https://paper.dropbox.com/doc/{{ session[1]['Fuji'].japanese }}" target="_blank">日本語</a>
+                    {% endif %}
+                    {% if session[1]['Fuji'].both %}
+                      / <a href="https://paper.dropbox.com/doc/{{ session[1]['Fuji'].both }}" target="_blank">日英</a>
+                    {% endif %}
+                  </div>
+                  
+                  <!-- Sakura -->
+                  <div class="col-sm-4">
+                    <div style="font-size: 1.1em;">
+                      <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang en">
+                        {{ session[1]['Sakura'].title }}
+                      </a>
+                      <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang ja">
+                        {{ session[1]['Sakura'].title_ja }}
+                      </a>
+                    </div>
+                    <img src="{{ session[1]['Sakura'].speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                    <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang ja">
+                      {{ session[1]['Sakura'].speaker.name_ja }}
+                    </a>
+                    <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang en">
+                      {{ session[1]['Sakura'].speaker.name }}
+                    </a>
+                    {% if session[1]['Sakura'].speaker.company %}
+                    , <span class="lang en">{{ session[1]['Sakura'].speaker.company }}</span>
+                    <span class="lang ja">{{ session[1]['Sakura'].speaker.company_ja }}</span>
+                    {% endif %}
+                    {% if session[1]['Sakura'].speaker2 %}
+                      <img src="{{ session[1]['Sakura'].speaker2.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                      <a href="{{ session[1]['Sakura'].speaker2.page }}">{{ session[1]['Sakura'].speaker2.name }}</a>
+                      {% if session[1]['Sakura'].speaker2.company %}
+                      , <span class="lang en">{{ session[1]['Sakura'].speaker2.company }}</span>
+                      <span class="lang ja">{{ session[1]['Sakura'].speaker2.company_ja }}</span>
+                      {% endif %}
+                    {% endif %}<br />
+                    {% if session[1]['Sakura'].youtube %}
+                    <div class="movie-wrap">
+                      <iframe width="280" height="165" src="https://www.youtube.com/embed/{{session[1]['Sakura'].youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    {% endif %}
+                    {% if session[1]['Sakura'].english %}
+                      <a href="https://paper.dropbox.com/doc/{{ session[1]['Sakura'].english }}" target="_blank">英語</a>
+                    {% endif %}
+                    {% if session[1]['Sakura'].japanese %}
+                      / <a href="https://paper.dropbox.com/doc/{{ session[1]['Sakura'].japanese }}" target="_blank">日本語</a>
+                    {% endif %}
+                    {% if session[1]['Sakura'].both %}
+                      / <a href="https://paper.dropbox.com/doc/{{ session[1]['Sakura'].both }}" target="_blank">日英</a>
+                    {% endif %}
+                  </div>
+                  
+                  <!-- Samurai -->
+                  
+                  <div class="col-sm-4">
+                    <div style="font-size: 1.1em;">
+                      {% for session in session[1]['Samurai'] %}
+                        <div class="row">
+                          <div class="col-sm-12">
+                            <div style="font-size: 1.1em;">
+                              <a href="{{ session.speaker.page }}" class="lang en">
+                                {{ session.title }}
+                              </a>
+                              <a href="{{ session.speaker.page }}" class="lang ja">
+                                {{ session.title_ja }}
+                              </a>
+                            </div>
+                            <img src="{{ session.speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
+                            <a href="{{ session.speaker.page }}" class="lang ja">
+                              {{ session.speaker.name_ja }}
+                            </a>
+                            <a href="{{ session.speaker.page }}" class="lang en">
+                              {{ session.speaker.name }}
+                            </a>
+                            {% if session.speaker.company %}
+                            , <span class="lang en">{{ session.speaker.company }}</span>
+                            <span class="lang ja">{{ session.speaker.company_ja }}</span>
+                            {% endif %}
+                            {% if session.youtube %}
+                            <div class="movie-wrap">
+                              <iframe width="280" height="165" src="https://www.youtube.com/embed/{{session.youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                            {% endif %}
+                          </div>
+                        </div>
+                      {% endfor %}
+                    </div>
+                  </div>
                 </div>
-                <img src="{{ session[1]['Fuji'].speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
-                <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang en">{{ session[1]['Fuji'].speaker.name }}</a>
-                <a href="{{ session[1]['Fuji'].speaker.page }}" class="lang ja">{{ session[1]['Fuji'].speaker.name_ja }}</a>
-                {% if session[1]['Fuji'].speaker.company %}
-                , <span class="lang en">{{ session[1]['Fuji'].speaker.company }}</span>
-                <span class="lang ja">{{ session[1]['Fuji'].speaker.company_ja }}</span>
-                {% endif %}
-                {% if session[1]['Fuji'].speaker2 != "" %}
-                  <br />
-                  {% assign objectId = session[1]['Fuji'].speaker2.objectId %}
-                  {% assign speaker2 = site.data.speakers | where: "objectId", objectId %}
-                  <img src="{{ speaker2[0].image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
-                  <a href="{{ speaker2[0].page }}">
-                    <span class="lang en">{{ speaker2[0].name }}</span>
-                    <span class="lang ja">{{ speaker2[0].name_ja }}</span>
-                  </a>
-                  {% if speaker2[0].company != "" %}
-                  , <span class="lang en">{{ speaker2[0].company }}</span>
-                  <span class="lang ja">{{ speaker2[0].company_ja }}</span>
-                  {% endif %}
-                {% endif %}<br />
-                {% if session[1]['Fuji'].youtube %}
-                <div class="movie-wrap">
-                  <iframe width="280" height="165" src="https://www.youtube.com/embed/{{session[1]['Fuji'].youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-                {% endif %}
-                {% if session[1]['Fuji'].english %}
-                  <a href="https://paper.dropbox.com/doc/{{ session[1]['Fuji'].english }}" target="_blank">英語</a>
-                {% endif %}
-                {% if session[1]['Fuji'].japanese %}
-                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Fuji'].japanese }}" target="_blank">日本語</a>
-                {% endif %}
-                {% if session[1]['Fuji'].both %}
-                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Fuji'].both }}" target="_blank">日英</a>
-                {% endif %}
-              </div>
-              <div class="col-sm-5">
-                <div style="font-size: 1.1em;">
-                  <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang en">
-                    {{ session[1]['Sakura'].title }}
-                  </a>
-                  <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang ja">
-                    {{ session[1]['Sakura'].title_ja }}
-                  </a>
-                </div>
-                <img src="{{ session[1]['Sakura'].speaker.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
-                <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang ja">
-                  {{ session[1]['Sakura'].speaker.name_ja }}
-                </a>
-                <a href="{{ session[1]['Sakura'].speaker.page }}" class="lang en">
-                  {{ session[1]['Sakura'].speaker.name }}
-                </a>
-                {% if session[1]['Sakura'].speaker.company %}
-                , <span class="lang en">{{ session[1]['Sakura'].speaker.company }}</span>
-                <span class="lang ja">{{ session[1]['Sakura'].speaker.company_ja }}</span>
-                {% endif %}
-                {% if session[1]['Sakura'].speaker2 %}
-                  <img src="{{ session[1]['Sakura'].speaker2.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
-                  <a href="{{ session[1]['Sakura'].speaker2.page }}">{{ session[1]['Sakura'].speaker2.name }}</a>
-                  {% if session[1]['Sakura'].speaker2.company %}
-                  , <span class="lang en">{{ session[1]['Sakura'].speaker2.company }}</span>
-                  <span class="lang ja">{{ session[1]['Sakura'].speaker2.company_ja }}</span>
-                  {% endif %}
-                {% endif %}<br />
-                {% if session[1]['Sakura'].youtube %}
-                <div class="movie-wrap">
-                  <iframe width="280" height="165" src="https://www.youtube.com/embed/{{session[1]['Sakura'].youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-                {% endif %}
-                {% if session[1]['Sakura'].english %}
-                  <a href="https://paper.dropbox.com/doc/{{ session[1]['Sakura'].english }}" target="_blank">英語</a>
-                {% endif %}
-                {% if session[1]['Sakura'].japanese %}
-                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Sakura'].japanese }}" target="_blank">日本語</a>
-                {% endif %}
-                {% if session[1]['Sakura'].both %}
-                  / <a href="https://paper.dropbox.com/doc/{{ session[1]['Sakura'].both }}" target="_blank">日英</a>
-                {% endif %}
               </div>
             {% endif %}
           </div>

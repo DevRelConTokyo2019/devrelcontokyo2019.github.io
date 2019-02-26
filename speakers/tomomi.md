@@ -1,9 +1,5 @@
 ---
 layout: speaker
-permalink: 
+permalink: /speakers/tomomi
 speaker: Tomomi Imura
----
-ai
----
-
 ---

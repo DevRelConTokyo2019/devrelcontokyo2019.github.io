@@ -2024,3 +2024,285 @@
   instagram: ''
   stackoverflow: ''
   Slack: false
+- objectId: S6tTMcUowzWffalP
+  number: ''
+  name: Atsushi Nakatsugawa
+  name_ja: アツシ
+  company: MOONGIFT
+  company_ja: MOONGIFT
+  twitter: ''
+  profile: "CEO of MOONGIFT Inc. in Japan. Ruby and JavaScript/Node.js Programmer.\r\nI manage Web site named [MOONGIFT](http://www.moongift.jp/) that introduce Open source Software everyday to Japanese programmers from 2004. It is the biggest Open source information site in Japan.\r\nI started DevRel service from 2014. I have a knowledge of developing content for programmers. We have several clients in Japan.\r\n\r\nMy github: [https://github.com/moongift](https://github.com/moongift)"
+  profile_ja: "CEO of MOONGIFT Inc. in Japan. Ruby and JavaScript/Node.js Programmer.\r\nI manage Web site named [MOONGIFT](http://www.moongift.jp/) that introduce Open source Software everyday to Japanese programmers from 2004. It is the biggest Open source information site in Japan.\r\nI started DevRel service from 2014. I have a knowledge of developing content for programmers. We have several clients in Japan.\r\n\r\nMy github: [https://github.com/moongift](https://github.com/moongift)"
+  title: CEO
+  title_ja: CEO
+  blog: 'https://www.moongift.jp/'
+  page: /speakers/atsushi
+  key: atsushi
+  image: /img/members/atsushi.jpg
+  needhotel: false
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session: ''
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
+- objectId: Qd0Rlct4Ar8noevW
+  number: ''
+  name: Taiji
+  name_ja: たいじ
+  company: IBM
+  company_ja: IBM
+  twitter: taiponrock
+  profile: >-
+    IBM Developer Advocate. Specialist for IoT, Web and Mobile Apps with IBM
+    Cloud. Ale Beer and Rock Musics are my favorites.
+  profile_ja: >-
+    IBM Developer Advocate. Specialist for IoT, Web and Mobile Apps with IBM
+    Cloud. Ale Beer and Rock Musics are my favorites.
+  title: Developer Advocate
+  title_ja: デベロッパーアドボケイト
+  blog: 'https://www.ibm.com'
+  page: /speakers/taiji
+  key: taiji
+  image: /img/members/taiji.jpg
+  needhotel: ''
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session: ''
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
+- objectId: OY8jNZvelCVytpj2
+  number: ''
+  name: Takeshi Nick Osanai
+  name_ja: Takeshi Nick Osanai
+  company: Six Apart Ltd.
+  company_ja: Six Apart Ltd.
+  twitter: Nick_smallworld
+  profile: >-
+    **Profile**
+
+
+    After graduating from the university, engaged in game business.
+
+    Specializes in the Internet industry since 2003.
+
+    After working at the web production company as a general manager of the web
+    solution division,  joined Six Apart.
+
+
+    In Six Apart, after worked as a Product manager, currently engaging as a
+    Developer Relation Manager.
+
+
+    **Education**
+
+
+    Graduated from Department of literature, Waseda university
+
+    B.A. 
+
+
+    **Summary of skills**
+
+
+    * Web CMS engineering
+
+    * Sales engineering
+
+    * Front-end engineering (HTML5, JavaScript)
+
+    * Back-end engineering (Linux, Apache, MySQL, php, Perl)
+
+    * Cloud server engineering (Amazon Web Services, Microsoft Azure)
+
+    * [AWS Certified Solutions Architect
+    Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-02-03&ci=AWS00480471)
+
+    * Developer Relation
+  profile_ja: >-
+    **Profile**
+
+
+    After graduating from the university, engaged in game business.
+
+    Specializes in the Internet industry since 2003.
+
+    After working at the web production company as a general manager of the web
+    solution division,  joined Six Apart.
+
+
+    In Six Apart, after worked as a Product manager, currently engaging as a
+    Developer Relation Manager.
+
+
+    **Education**
+
+
+    Graduated from Department of literature, Waseda university
+
+    B.A. 
+
+
+    **Summary of skills**
+
+
+    * Web CMS engineering
+
+    * Sales engineering
+
+    * Front-end engineering (HTML5, JavaScript)
+
+    * Back-end engineering (Linux, Apache, MySQL, php, Perl)
+
+    * Cloud server engineering (Amazon Web Services, Microsoft Azure)
+
+    * [AWS Certified Solutions Architect
+    Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-02-03&ci=AWS00480471)
+
+    * Developer Relation
+  title: ''
+  title_ja: ''
+  blog: 'http://smallworld.west-tokyo.com'
+  page: /speakers/nick
+  key: nick
+  image: /img/speakers/nick.jpg
+  needhotel: ''
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session: ''
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
+- objectId: Wib6VAUsXhTuXzuV
+  number: ''
+  name: Tomomi Imura
+  name_ja: Tomomi Imura
+  company: Slack
+  company_ja: Slack
+  twitter: girlie_mac
+  profile: >-
+    Tomomi (@girlie_mac) is an avid open technology advocate, software engineer,
+    also a creative technologist, who had been in working for Developer
+    Relations in 5 companies, including at the current gig at Slack in San
+    Francisco. When she is not at work, she still geeks around and hacks with
+    Raspberry Pi for cats, and Amazon Dash to Rickroll people.
+  profile_ja: >-
+    Tomomi (@girlie_mac) is an avid open technology advocate, software engineer,
+    also a creative technologist, who had been in working for Developer
+    Relations in 5 companies, including at the current gig at Slack in San
+    Francisco. When she is not at work, she still geeks around and hacks with
+    Raspberry Pi for cats, and Amazon Dash to Rickroll people.
+  title: ''
+  title_ja: ''
+  blog: 'http://girliemac.com'
+  page: /speakers/tomomi
+  key: tomomi
+  image: /img/speakers/tomomi.jpg
+  needhotel: ''
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session: ''
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
+- objectId: 4uSR5bafyPHpkDY1
+  number: ''
+  name: Ana Jiménez Santamaría
+  name_ja: Ana Jiménez Santamaría
+  company: Bitergia
+  company_ja: Bitergia
+  twitter: anajsana95
+  profile: "Ana currently works at Bitergia, a software development analytics firm specialized in Open source projects. She holds a bachelor's degree in marketing.\r\nAs marketing specialist and data nerd, DevRel activities got her attention from the beginning. Her main goal is to show to the DevRel community that marketing and software development can (and should) work together to help Developer Relations to better achieve their goals.\r\nOpen source advocate, self taught illustrator and gamer. She also loves Japan and Japanese language.\r"
+  profile_ja: "Ana currently works at Bitergia, a software development analytics firm specialized in Open source projects. She holds a bachelor's degree in marketing.\r\nAs marketing specialist and data nerd, DevRel activities got her attention from the beginning. Her main goal is to show to the DevRel community that marketing and software development can (and should) work together to help Developer Relations to better achieve their goals.\r\nOpen source advocate, self taught illustrator and gamer. She also loves Japan and Japanese language.\r"
+  title: ''
+  title_ja: ''
+  blog: ''
+  page: /speakers/ana_jimenez
+  key: ana_jimenez
+  image: /img/speakers/ana_jimenez.jpg
+  needhotel: ''
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session: ''
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''
+- objectId: agRHZoGLY7yCkZpA
+  number: ''
+  name: Yoshito Tabuchi
+  name_ja: Yoshito Tabuchi
+  company: XLsoftKK
+  company_ja: XLsoftKK
+  twitter: ytabuchi
+  profile: "Hi, I'm Yoshito Tabuchi who working as an sales engineer at XLsoftKK that introduces many products and libraries for developers.\r\n\r\nThe organizer of Japan Xamarin User Group (JXUG).\r\n\r\nAwarded Microsoft MVP for Developer Technologies from 2016-04."
+  profile_ja: >-
+    Hi, I'm Yoshito Tabuchi who working as an sales engineer at XLsoftKK that
+    introduces many products and libraries for developers.
+
+
+    The organizer of Japan Xamarin User Group (JXUG).
+
+
+    Awarded Microsoft MVP for Developer Technologies from 2016-04.
+  title: ''
+  title_ja: ''
+  blog: 'https://ja.gravatar.com/ytabuchixlsoft'
+  page: /speakers/tabuchi
+  key: tabuchi
+  image: /img/speakers/tabuchi.jpg
+  needhotel: ''
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session: ''
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''

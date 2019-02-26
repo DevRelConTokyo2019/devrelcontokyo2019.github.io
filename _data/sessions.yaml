@@ -68,10 +68,16 @@
 '09:10':
   Both:
     objectId: mcwbIBfLMsMPJUtK
-    title: TBD
-    title_ja: TBD
-    description_en: ''
-    description_ja: ''
+    title: "The Buzz Around Developer Advocacy: \vA Story in First Person"
+    title_ja: Developer Advocacyを取り巻く活力
+    description_en: >-
+      In his presentation Peter offers a deeply personal perspective on the
+      importance of passion in developer relations and life in general. If you
+      like having fun, enjoy games, don’t take yourself too seriously, and are
+      ready for surprises - this session is for you.
+    description_ja: >-
+      このセッションでは、ピーターが開発者との関係における情熱の重要性と人生全般について、個人的に深い知見を示します。楽しい時間を過ごしたい、ゲームを楽しんだりしたいならば、真剣に考えすぎてはいけません。-
+      このセッションはまさにあなたのためにあります。
     people: ''
     translate: ''
     number: ''
@@ -132,7 +138,7 @@
     speaker2: ''
     color: ''
     language: ''
-    category: ''
+    category: 経験
 '09:45':
   Both:
     objectId: SwRenS3gqt6Py1Nl
@@ -1136,8 +1142,8 @@
 '13:55':
   Both:
     objectId: wVSrIWkRRCJ8OnD9
-    title: TBD
-    title_ja: TBD
+    title: How to raise open source community
+    title_ja: オープンソースコミュニティの育て方
     description_en: ''
     description_ja: ''
     people: ''

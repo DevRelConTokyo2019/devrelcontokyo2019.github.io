@@ -711,55 +711,18 @@
     category: コミュニティ/ハッカソン
 '12:00':
   Sakura:
-    objectId: YL9jnrrsViKQAjYM
-    title: How AI (Artificial Intelligence) will change DevRel
-    title_ja: AI（人工知能）がいかにDevRelを変革するか
+    objectId: K6NhbQTh3xdpFrvk
+    title: Hackathons as an internal advocacy tool
+    title_ja: 社内支援ツールとしてのハッカソン
     description_en: >-
-      What do you think of when you hear “AI (Artificial Intelligence)”? Some
-      people might imagine a world where AI surpasses humans and threatens
-      humanity such as movies “Terminator” and “iRobot”. Or tech enthusiasts
-      imagine machine learning robot using technology such as deep learning.
-      This time, I will explain the basic knowledge that people involved in
-      DevRel should know about AI. In addition, I will also introduce the
-      relationship between DevRel and AI with sample scenarios.
-
-
-      Agenda
-
-      What is AI?
-
-      Will AI steal your job?
-
-      Utilization of AI in marketing
-
-      DevRel using AI
-
-      Challenges for the future
-
-      *This is not technical session.
+      In DevRel we speak a lot about external advocacy. But are we also giving
+      our internal community the love it needs? In this talk we’ll explore
+      strategies and go through practical tips for running impactful internal
+      hackathons. No previous experience necessary. Whether you work for a
+      startup or multi-thousand people company, and whatever your budget is,
+      we’ll go through solutions for all.
     description_ja: >-
-      「AI（人工知能）」と聞いたとき、どう思いますか？
-      映画「ターミネーター」や「iRobot」のように、AIが人間を超えて人類を脅かす世界を想像する人もいるかもしれません。
-      あるいはエンジニアは、ディープラーニングなどの技術を使用した機械学習ロボットを想像するでしょう。
-      今回はDevRelに関わる人々がAIについて知っておくべき基本的な知識について説明します。
-      さらに、DevRelとAIの関係についてもサンプルシナリオで紹介します。
-
-
-      議題
-
-
-      - AIとは
-
-      - AIはあなたの仕事を盗みますか？
-
-      - マーケティングにおけるAIの活用
-
-      - AIを使用したDevRel
-
-      - 未来への挑戦
-
-
-      *これはテクニカルセッションではありません。
+      DevRelでは社外でのアドボカシーについてよく話されます。しかし内部コミュニティに対しても同様に行動すべきではないでしょうか。この講演ではインパクトある社内ハッカソンを実施するための戦略、実用的なヒントを紹介します。ハッカソン経験は不要です。あなたがエンタープライズまたはスタートアップであろうと、さらに予算がどうあろうと解決策を見つけられるはずです。
     people: ''
     translate: ''
     number: ''
@@ -767,21 +730,28 @@
     room: Sakura
     SpeakerName: ''
     speaker:
-      objectId: QTnuwrmVkkLD5cwC
+      objectId: GgqJvFKfp6Jc6xTL
       number: ''
-      name: Aya Tokura
-      name_ja: 戸倉彩
-      company: IBM
-      company_ja: IBM
-      twitter: ayatokura
-      profile: ''
-      profile_ja: ''
-      title: Developer Advocate
-      title_ja: Developer Advocate
-      blog: 'http://ayatokura.hatenablog.com/'
-      page: /speakers/aya/
-      image: /img/speakers/aya.jpg
-      needhotel: false
+      name: Myrsini Koukiasa
+      name_ja: Myrsini Koukiasa
+      company: Nexmo
+      company_ja: Nexmo
+      twitter: myrsiningos
+      profile: >-
+        Myrsini is a Community Manager at Nexmo. In the past, she’s run
+        hackathons and developer programs for PayPal, Braintree and Major League
+        Hacking. She loves running events and project management as much as
+        creating content. A keen coffee drinker and expert devourer of new
+        Netflix shows, you’ll never run our of things to discuss.
+      profile_ja: >-
+        ミルシニはNexmoのコミュニティマネージャーです。これまでPayPal、Braintree、Major League
+        Hackingのためにハッカソンや開発者プログラムの運営を行ってきました。コンテンツを作成するのと同じくらい、イベントやプロジェクト管理を行うのが好きです。良くコーヒーを飲んだり、Netflixの番組が好きならば彼女との話題に困らないでしょう。
+      title: ''
+      title_ja: ''
+      blog: 'https://developer.nexmo.com/'
+      page: /speakers/myrsini
+      image: /img/speakers/myrsini.jpg
+      needhotel: true
       money: ''
       hotel: ''
       preparty: ''
@@ -790,7 +760,7 @@
       github: ''
       session:
         __type: Pointer
-        objectId: YL9jnrrsViKQAjYM
+        objectId: K6NhbQTh3xdpFrvk
       google: ''
       linkedin: ''
       youtube: ''
@@ -798,11 +768,11 @@
       instagram: ''
       stackoverflow: ''
       Slack: true
-      key: aya
+      key: myrsini
       __type: Object
     color: ''
     language: ''
-    category: マーケティング
+    category: コミュニティ/ハッカソン
   Fuji:
     objectId: y4iiGhYiTGpRiGjH
     title: The Art of Talk Design
@@ -883,18 +853,55 @@
     category: テクニック
 '12:25':
   Sakura:
-    objectId: K6NhbQTh3xdpFrvk
-    title: Hackathons as an internal advocacy tool
-    title_ja: 社内支援ツールとしてのハッカソン
+    objectId: YL9jnrrsViKQAjYM
+    title: How AI (Artificial Intelligence) will change DevRel
+    title_ja: AI（人工知能）がいかにDevRelを変革するか
     description_en: >-
-      In DevRel we speak a lot about external advocacy. But are we also giving
-      our internal community the love it needs? In this talk we’ll explore
-      strategies and go through practical tips for running impactful internal
-      hackathons. No previous experience necessary. Whether you work for a
-      startup or multi-thousand people company, and whatever your budget is,
-      we’ll go through solutions for all.
+      What do you think of when you hear “AI (Artificial Intelligence)”? Some
+      people might imagine a world where AI surpasses humans and threatens
+      humanity such as movies “Terminator” and “iRobot”. Or tech enthusiasts
+      imagine machine learning robot using technology such as deep learning.
+      This time, I will explain the basic knowledge that people involved in
+      DevRel should know about AI. In addition, I will also introduce the
+      relationship between DevRel and AI with sample scenarios.
+
+
+      Agenda
+
+      What is AI?
+
+      Will AI steal your job?
+
+      Utilization of AI in marketing
+
+      DevRel using AI
+
+      Challenges for the future
+
+      *This is not technical session.
     description_ja: >-
-      DevRelでは社外でのアドボカシーについてよく話されます。しかし内部コミュニティに対しても同様に行動すべきではないでしょうか。この講演ではインパクトある社内ハッカソンを実施するための戦略、実用的なヒントを紹介します。ハッカソン経験は不要です。あなたがエンタープライズまたはスタートアップであろうと、さらに予算がどうあろうと解決策を見つけられるはずです。
+      「AI（人工知能）」と聞いたとき、どう思いますか？
+      映画「ターミネーター」や「iRobot」のように、AIが人間を超えて人類を脅かす世界を想像する人もいるかもしれません。
+      あるいはエンジニアは、ディープラーニングなどの技術を使用した機械学習ロボットを想像するでしょう。
+      今回はDevRelに関わる人々がAIについて知っておくべき基本的な知識について説明します。
+      さらに、DevRelとAIの関係についてもサンプルシナリオで紹介します。
+
+
+      議題
+
+
+      - AIとは
+
+      - AIはあなたの仕事を盗みますか？
+
+      - マーケティングにおけるAIの活用
+
+      - AIを使用したDevRel
+
+      - 未来への挑戦
+
+
+      *これはテクニカルセッションではありません。
     people: ''
     translate: ''
     number: ''
@@ -902,28 +909,21 @@
     room: Sakura
     SpeakerName: ''
     speaker:
-      objectId: GgqJvFKfp6Jc6xTL
+      objectId: QTnuwrmVkkLD5cwC
       number: ''
-      name: Myrsini Koukiasa
-      name_ja: Myrsini Koukiasa
-      company: Nexmo
-      company_ja: Nexmo
-      twitter: myrsiningos
-      profile: >-
-        Myrsini is a Community Manager at Nexmo. In the past, she’s run
-        hackathons and developer programs for PayPal, Braintree and Major League
-        Hacking. She loves running events and project management as much as
-        creating content. A keen coffee drinker and expert devourer of new
-        Netflix shows, you’ll never run our of things to discuss.
-      profile_ja: >-
-        ミルシニはNexmoのコミュニティマネージャーです。これまでPayPal、Braintree、Major League
-        Hackingのためにハッカソンや開発者プログラムの運営を行ってきました。コンテンツを作成するのと同じくらい、イベントやプロジェクト管理を行うのが好きです。良くコーヒーを飲んだり、Netflixの番組が好きならば彼女との話題に困らないでしょう。
-      title: ''
-      title_ja: ''
-      blog: 'https://developer.nexmo.com/'
-      page: /speakers/myrsini
-      image: /img/speakers/myrsini.jpg
-      needhotel: true
+      name: Aya Tokura
+      name_ja: 戸倉彩
+      company: IBM
+      company_ja: IBM
+      twitter: ayatokura
+      profile: ''
+      profile_ja: ''
+      title: Developer Advocate
+      title_ja: Developer Advocate
+      blog: 'http://ayatokura.hatenablog.com/'
+      page: /speakers/aya/
+      image: /img/speakers/aya.jpg
+      needhotel: false
       money: ''
       hotel: ''
       preparty: ''
@@ -932,7 +932,7 @@
       github: ''
       session:
         __type: Pointer
-        objectId: K6NhbQTh3xdpFrvk
+        objectId: YL9jnrrsViKQAjYM
       google: ''
       linkedin: ''
       youtube: ''
@@ -940,11 +940,11 @@
       instagram: ''
       stackoverflow: ''
       Slack: true
-      key: myrsini
+      key: aya
       __type: Object
     color: ''
     language: ''
-    category: コミュニティ/ハッカソン
+    category: マーケティング
   Fuji:
     objectId: Sak5wJqerRD0jpU3
     title: Public Relations 101 for Developer Advocates

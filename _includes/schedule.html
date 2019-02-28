@@ -155,7 +155,7 @@ Schedule
                     , <span class="lang en">{{ session[1]['Fuji'].speaker.company }}</span>
                     <span class="lang ja">{{ session[1]['Fuji'].speaker.company_ja }}</span>
                     {% endif %}
-                    {% if session[1]['Fuji'].speaker2 != "" %}
+                    {% if session[1]['Fuji'].speaker2 && session[1]['Fuji'].speaker2 != "" %}
                       <br />
                       {% assign objectId = session[1]['Fuji'].speaker2.objectId %}
                       {% assign speaker2 = site.data.speakers | where: "objectId", objectId %}
@@ -206,7 +206,8 @@ Schedule
                     , <span class="lang en">{{ session[1]['Sakura'].speaker.company }}</span>
                     <span class="lang ja">{{ session[1]['Sakura'].speaker.company_ja }}</span>
                     {% endif %}
-                    {% if session[1]['Sakura'].speaker2 %}
+                    {% if session[1]['Sakura'].speaker2 && session[1]['Sakura'].speaker2 != "" %}
+                      
                       <img src="{{ session[1]['Sakura'].speaker2.image }}"  style="border-radius: 40px;height: 80px;width: 80px;" />
                       <a href="{{ session[1]['Sakura'].speaker2.page }}">{{ session[1]['Sakura'].speaker2.name }}</a>
                       {% if session[1]['Sakura'].speaker2.company %}

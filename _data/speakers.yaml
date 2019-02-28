@@ -44,10 +44,10 @@
     speaker:
       __type: Pointer
       objectId: OQKbZdChO2Tep7EU
-    speaker2: ''
     color: ''
     language: ''
     category: コミュニティ/ハッカソン
+    speaker2: ''
     __type: Object
   google: ''
   linkedin: ''
@@ -122,7 +122,6 @@
     speaker:
       __type: Pointer
       objectId: w1bOVXZhPv2DaW7O
-    speaker2: ''
     color: ''
     language: ''
     category: テクニック
@@ -206,7 +205,6 @@
     speaker:
       __type: Pointer
       objectId: 6Fpn7OaIbbVr0DwQ
-    speaker2: ''
     color: ''
     language: ''
     category: マーケティング
@@ -269,7 +267,6 @@
     speaker:
       __type: Pointer
       objectId: GgqJvFKfp6Jc6xTL
-    speaker2: ''
     color: ''
     language: ''
     category: コミュニティ/ハッカソン
@@ -345,7 +342,6 @@
     speaker:
       __type: Pointer
       objectId: KM7txvc5AetoIGOZ
-    speaker2: ''
     color: ''
     language: ''
     category: 経験
@@ -440,7 +436,6 @@
     speaker:
       __type: Pointer
       objectId: uQQjqNfZNJCsVP59
-    speaker2: ''
     color: ''
     language: ''
     category: 経験
@@ -522,7 +517,6 @@
     speaker:
       __type: Pointer
       objectId: qyUpWCZFBDpE0KKk
-    speaker2: ''
     color: ''
     language: ''
     category: 経験
@@ -589,7 +583,6 @@
     speaker:
       __type: Pointer
       objectId: MtHmDxVi5wZUNETi
-    speaker2: ''
     color: ''
     language: ''
     category: コミュニティ/ハッカソン
@@ -660,7 +653,6 @@
     speaker:
       __type: Pointer
       objectId: Qhazhg5LDpemyRdg
-    speaker2: ''
     color: ''
     language: ''
     category: 経験
@@ -743,7 +735,6 @@
     speaker:
       __type: Pointer
       objectId: qwzBeEx8t7qJDvKX
-    speaker2: ''
     color: ''
     language: ''
     category: マーケティング
@@ -857,7 +848,6 @@
     speaker:
       __type: Pointer
       objectId: QRWZza6rmTf8QmUm
-    speaker2: ''
     color: ''
     language: ''
     category: マーケティング
@@ -948,7 +938,6 @@
     speaker:
       __type: Pointer
       objectId: kDqmS26gmCrBX4mH
-    speaker2: ''
     color: ''
     language: ''
     category: API
@@ -1029,10 +1018,12 @@
     speaker:
       __type: Pointer
       objectId: y658abM6sJAVPCWU
-    speaker2: ''
     color: ''
     language: ''
     category: テクニック
+    speaker2:
+      __type: Pointer
+      objectId: 2rfRMHFkYXW70Oda
     __type: Object
   google: ''
   linkedin: ''
@@ -1122,7 +1113,6 @@
     speaker:
       __type: Pointer
       objectId: emdFNey2l8nk2mfm
-    speaker2: ''
     color: ''
     language: ''
     category: 経験
@@ -1228,7 +1218,6 @@
     speaker:
       __type: Pointer
       objectId: ec2IlVDxjbGiORhl
-    speaker2: ''
     color: ''
     language: ''
     category: 経験
@@ -1243,53 +1232,19 @@
   key: simon
 - objectId: QTnuwrmVkkLD5cwC
   number: ''
-  name: Jesse Casman
-  name_ja: Jesse Casman
-  company: 'Oppkey, Inc.'
-  company_ja: 'Oppkey, Inc.'
-  twitter: jcasman
-  profile: >-
-    I am a software marketing executive with extensive experience in early-stage
-    startups in Silicon Valley and Japan. I focus on building developer
-    communities. Developer Relations is a key component to reaching customers
-    and building awareness. I work with great companies like IBM, RICOH, and
-    Renesas to leverage open source, open communities and open APIs to build
-    strong developer communities that benefit community members and companies
-    alike.
-
-
-    DevRel doesn’t just happen, it requires planning, effort and insight. I have
-    more than 15 years experience developing smart, high impact marketing and
-    developer relations campaigns. I have been deeply involved in open source,
-    networking, software development, enterprise software and high-performance
-    computing (HPC).
-
-    I act as the face of companies and communities and have a wide range of
-    specialties around communications: marketing strategy, messaging and
-    positioning development, competitive analysis, content development (writing
-    and graphics), developer-focused tech PR, US market entry for non-US
-    companies, Japanese language fluency.
-  profile_ja: >
-    ソフトウェアのマーケティングエグゼクティブ。主に、シリコンバレーと日本のアーリーステージのスタートアップのマーケティングに従事。
-
-    開発者コミュニティの構築にも注力している。DevRelは、顧客へのリーチを広げ、認知度を高めるために必要な活動だという信念のもとにDevRelに携わる。
-
-    IBM、RICO、Renesasといった大企業と共に、オープンソース、オープンソースのコミュニティ、オープンAPIを活用しながら、コミュニティの参加者、企業双方向に利益をもたらせるコミュニティの構築を目指す。
-
-
-    DevRelはただ施策をやればいいというわけではなく、計画や考察、地道な努力も必要である。そうした中で15年以上、マーケティングやDevRelの施策を実行し成果をあげる。
-
-    オープンソース、ネットワーキング、ソフトウェア開発、エンタープライズソフトウェア、そしてハイパフォーマンスコンピューティング（HPC）に携わる。
-
-    企業やコミュニティを代表し、マーケティング戦略、メッセージングおよびポジショニング開発、競合分析、ライティングおよびグラフィックなどのコンテンツ作成、
-
-    開発者向けの技術PR、米系の会社の海外への新規市場への参入、日本語への理解等、コミュニケーション分野を専門とする。
-  title: ''
-  title_ja: ''
-  blog: 'http://www.oppkey.com'
-  page: /speakers/jesse/
-  image: /img/speakers/jesse.jpg
-  needhotel: true
+  name: Aya Tokura
+  name_ja: 戸倉彩
+  company: IBM
+  company_ja: IBM
+  twitter: ayatokura
+  profile: ''
+  profile_ja: ''
+  title: Developer Advocate
+  title_ja: Developer Advocate
+  blog: 'http://ayatokura.hatenablog.com/'
+  page: /speakers/aya/
+  image: /img/speakers/aya.jpg
+  needhotel: false
   money: ''
   hotel: ''
   preparty: ''
@@ -1298,58 +1253,54 @@
   github: ''
   session:
     objectId: YL9jnrrsViKQAjYM
-    title: Why Japan Is Naturally Great at DevRel Internationally (US case study)
-    title_ja: なぜ日本は国際的にDevRelを得意とするのか（米国のケーススタディより）
+    title: How AI (Artificial Intelligence) will change DevRel
+    title_ja: AI（人工知能）がいかにDevRelを変革するか
     description_en: >-
-      RICOH THETA, the world's best selling VR camera, has a vibrant and large
-      developer ecosystem in the US with thousands of registered developers
-      opening up new markets in real estate, architecture, construction, law
-      enforcement, used car sales and more.
+      What do you think of when you hear “AI (Artificial Intelligence)”? Some
+      people might imagine a world where AI surpasses humans and threatens
+      humanity such as movies “Terminator” and “iRobot”. Or tech enthusiasts
+      imagine machine learning robot using technology such as deep learning.
+      This time, I will explain the basic knowledge that people involved in
+      DevRel should know about AI. In addition, I will also introduce the
+      relationship between DevRel and AI with sample scenarios.
 
 
-      How did a seemingly conservative Japanese hardware maker get this far?
+      Agenda
 
+      What is AI?
 
-      Looking closely at the case study of RICOH THETA, I will show how Japanese
-      companies can excel in DevRel. Japanese companies are famous for the
-      Galapagos Syndrome where they are too focused on the domestic market and
-      build products best suited for Japan only. However, Japan has natural
-      advantages when trying to build developer communities in the US (and
-      probably worldwide, though that is not covered in this case study).
+      Will AI steal your job?
 
+      Utilization of AI in marketing
 
-      Oppkey worked closely with RICOH THETA over the past three years building
-      a developer community that has helped RICOH identify new markets for the
-      camera and radically extended the flexibility of the camera itself. RICOH
-      started with excellent hardware but then went on to leverage their
-      commitment to long term planning that helped them try techniques in 1-to-1
-      and 1-to-many outreach and measure growth over several quarters instead of
-      several months. They also relied on a culture of longer term partnerships,
-      that allows for sharing of early information and extended support, once a
-      good relationship is established. And they made a strong bet on local US
-      talent - my company, Oppkey - in order to connect more closely with US
-      developers.
+      DevRel using AI
 
+      Challenges for the future
 
-      The case of RICOH THETA shows how Japanese companies have strong natural
-      advantages for leveraging DevRel to succeed in the US - and worldwide.
+      *This is not technical session.
     description_ja: >-
-      世界で最も売れているVRカメラであるRICOH
-      THETAは、活気にあふれた大規模な開発者エコシステムを持ち、不動産や建築、建設、警察、中古車販売などの分野で新たな市場を開拓しています。
+      「AI（人工知能）」と聞いたとき、どう思いますか？
+      映画「ターミネーター」や「iRobot」のように、AIが人間を超えて人類を脅かす世界を想像する人もいるかもしれません。
+      あるいはエンジニアは、ディープラーニングなどの技術を使用した機械学習ロボットを想像するでしょう。
+      今回はDevRelに関わる人々がAIについて知っておくべき基本的な知識について説明します。
+      さらに、DevRelとAIの関係についてもサンプルシナリオで紹介します。
 
 
-      一見保守的な日本のハードウェアメーカーは、どのようにしてこれだけの結果を出したのでしょうか。
+      議題
 
 
-      RICOH
-      THETAのケーススタディをよく見ながら、日本企業がいかにDevRelに優れているかを紹介します。日本企業のガラパゴス症候群で有名で、国内市場に焦点を絞りすぎて日本だけに適した製品を作っています。とは言え、米国で開発者コミュニティを構築しようとすると（そして恐らくこのケーススタディではカバーされていませんが）日本には日本の利点があります。
+      - AIとは
+
+      - AIはあなたの仕事を盗みますか？
+
+      - マーケティングにおけるAIの活用
+
+      - AIを使用したDevRel
+
+      - 未来への挑戦
 
 
-      Oppkeyは過去3年間RICOH
-      THETAと密接に協力して開発者コミュニティを構築し、カメラの新しい市場を創造し、カメラ自体の可能性を劇的に拡大しました。RICOHは優れたハードウェアから始めましたが、その後アウトリーチでテクニックを試し、数四半期にわたって成長を測定できる長期計画への取り組みを実施しました。彼らはまた、長期的なパートナーシップ文化も活用します。それは良い関係が確立されれば、早期の情報の共有とサポートの延長を可能にします。米国の開発者とより密接に結びつくために私の会社、Oppkeyに賭けてくれました。
-
-
-      RICOH THETAの事例は、DevRelを活用して米国および世界で成功するために、日本企業がいかに強力な武器を持っているかを示しています。
+      *これはテクニカルセッションではありません。
     people: ''
     translate: ''
     number: ''
@@ -1359,10 +1310,9 @@
     speaker:
       __type: Pointer
       objectId: QTnuwrmVkkLD5cwC
-    speaker2: ''
     color: ''
     language: ''
-    category: コミュニティ/ハッカソン
+    category: マーケティング
     __type: Object
   google: ''
   linkedin: ''
@@ -1371,7 +1321,7 @@
   instagram: ''
   stackoverflow: ''
   Slack: true
-  key: jesse
+  key: aya
 - objectId: cZnw5KBpTEzCK6TM
   number: ''
   name: Sydney Lai
@@ -1430,7 +1380,6 @@
     speaker:
       __type: Pointer
       objectId: cZnw5KBpTEzCK6TM
-    speaker2: ''
     color: ''
     language: ''
     category: コミュニティ/ハッカソン
@@ -1503,7 +1452,6 @@
     speaker:
       __type: Pointer
       objectId: 0Qwzp7B80Y1QJkD8
-    speaker2: ''
     color: ''
     language: ''
     category: API
@@ -1602,7 +1550,6 @@
     speaker:
       __type: Pointer
       objectId: U1y9YU3tDATEF1K9
-    speaker2: ''
     color: ''
     language: ''
     category: API
@@ -1776,7 +1723,6 @@
     speaker:
       __type: Pointer
       objectId: AXlgHFqeQC3LtCCc
-    speaker2: ''
     color: ''
     language: ''
     category: テクニック
@@ -1860,7 +1806,6 @@
     speaker:
       __type: Pointer
       objectId: 0KXHfOp3FWagSWNZ
-    speaker2: ''
     color: ''
     language: ''
     category: テクニック
@@ -1934,7 +1879,6 @@
     speaker:
       __type: Pointer
       objectId: 6F1ltw52RncDFZN
-    speaker2: ''
     color: ''
     language: ''
     category: マーケティング
@@ -2012,10 +1956,12 @@
     speaker:
       __type: Pointer
       objectId: y658abM6sJAVPCWU
-    speaker2: ''
     color: ''
     language: ''
     category: テクニック
+    speaker2:
+      __type: Pointer
+      objectId: 2rfRMHFkYXW70Oda
     __type: Object
   google: ''
   linkedin: ''

@@ -552,6 +552,239 @@
     color: ''
     language: ''
     category: コミュニティ/ハッカソン
+  Samurai:
+    - objectId: WenQM230B0WqUT8W
+      title_ja: Making Effective KPI on Your Advocacy
+      description_ja: >-
+        # What kind of issues do we have?
+
+
+        In Evangelism and Advocacy, the difficulty of determining KPI is often a
+        topic.
+
+        What is the purpose of our activities for Developer Advocate?
+
+        Increase sales? Profit rate? Reduce lavor-costs in development progects?
+
+        Though it may be about the purpose of activities in Develoepr Advocate,
+        it is hard to be KPI of activity itself.
+
+        Because our activities are where we build the foundation for the company
+        to earn money to sustain.
+
+        It is similar to seeding, so it is not its Quarterly or Half-Yearly that
+        its fruit and flowers bloom. Sometimes it often gets results after more
+        than a year.
+
+
+        # What can you learn from this session?
+
+
+        What should we do for KPI on Evangelism and Advocay?
+
+        I don't think we have the right answer, but I will teach KPIs necessary
+        for Evangelism and Advocacy from my experiences involving DevRel with
+        some companies and acting as an external evangelist of platform vendors.
+
+        After listening to this session, you will be able to set the goals you
+        need for yourself to work.
+      category: LT
+      title: Making Effective KPI on Your Advocacy
+      description_en: >-
+        # What kind of issues do we have?
+
+
+        In Evangelism and Advocacy, the difficulty of determining KPI is often a
+        topic.
+
+        What is the purpose of our activities for Developer Advocate?
+
+        Increase sales? Profit rate? Reduce lavor-costs in development progects?
+
+        Though it may be about the purpose of activities in Develoepr Advocate,
+        it is hard to be KPI of activity itself.
+
+        Because our activities are where we build the foundation for the company
+        to earn money to sustain.
+
+        It is similar to seeding, so it is not its Quarterly or Half-Yearly that
+        its fruit and flowers bloom. Sometimes it often gets results after more
+        than a year.
+
+
+        # What can you learn from this session?
+
+
+        What should we do for KPI on Evangelism and Advocay?
+
+        I don't think we have the right answer, but I will teach KPIs necessary
+        for Evangelism and Advocacy from my experiences involving DevRel with
+        some companies and acting as an external evangelist of platform vendors.
+
+        After listening to this session, you will be able to set the goals you
+        need for yourself to work.
+      number: ''
+      time: '11:10'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: Qd0Rlct4Ar8noevW
+        number: ''
+        name: Taiji
+        name_ja: たいじ
+        company: IBM
+        company_ja: IBM
+        twitter: taiponrock
+        profile: >-
+          IBM Developer Advocate. Specialist for IoT, Web and Mobile Apps with
+          IBM Cloud. Ale Beer and Rock Musics are my favorites.
+        profile_ja: >-
+          IBM Developer Advocate. Specialist for IoT, Web and Mobile Apps with
+          IBM Cloud. Ale Beer and Rock Musics are my favorites.
+        title: Developer Advocate
+        title_ja: デベロッパーアドボケイト
+        blog: 'https://www.ibm.com'
+        page: /speakers/taiji
+        key: taiji
+        image: /img/members/taiji.jpg
+        needhotel: ''
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session: ''
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
+    - objectId: cdN6UikQKETWTh7U
+      title_ja: The way for making smooth relationship with the Community
+      description_ja: "I have been working as a Developer Relation manager for years .\r\nTo make a good relationship with Developers, Project Directors, and Designers I tried my best. \r\nNow, I could luckily have a great relationship with our community members, and they have established a lot of User Community Groups all over Japan.  \r\n\r\nhttps://www.movabletype.jp/usergroup/\r\n\r\nThis time I would like to introduce my experience and tell some tips about:\r\n\r\n* The best way to communicate with users\r\n* The way to making a good relationship with user communities\r\n* What you should NOT do in communities"
+      category: LT
+      title: The way for making smooth relationship with the Community
+      description_en: "I have been working as a Developer Relation manager for years .\r\nTo make a good relationship with Developers, Project Directors, and Designers I tried my best. \r\nNow, I could luckily have a great relationship with our community members, and they have established a lot of User Community Groups all over Japan.  \r\n\r\nhttps://www.movabletype.jp/usergroup/\r\n\r\nThis time I would like to introduce my experience and tell some tips about:\r\n\r\n* The best way to communicate with users\r\n* The way to making a good relationship with user communities\r\n* What you should NOT do in communities"
+      number: ''
+      time: '11:10'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: OY8jNZvelCVytpj2
+        number: ''
+        name: Takeshi Nick Osanai
+        name_ja: Takeshi Nick Osanai
+        company: Six Apart Ltd.
+        company_ja: Six Apart Ltd.
+        twitter: Nick_smallworld
+        profile: >-
+          **Profile**
+
+
+          After graduating from the university, engaged in game business.
+
+          Specializes in the Internet industry since 2003.
+
+          After working at the web production company as a general manager of
+          the web solution division,  joined Six Apart.
+
+
+          In Six Apart, after worked as a Product manager, currently engaging as
+          a Developer Relation Manager.
+
+
+          **Education**
+
+
+          Graduated from Department of literature, Waseda university
+
+          B.A. 
+
+
+          **Summary of skills**
+
+
+          * Web CMS engineering
+
+          * Sales engineering
+
+          * Front-end engineering (HTML5, JavaScript)
+
+          * Back-end engineering (Linux, Apache, MySQL, php, Perl)
+
+          * Cloud server engineering (Amazon Web Services, Microsoft Azure)
+
+          * [AWS Certified Solutions Architect
+          Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-02-03&ci=AWS00480471)
+
+          * Developer Relation
+        profile_ja: >-
+          **Profile**
+
+
+          After graduating from the university, engaged in game business.
+
+          Specializes in the Internet industry since 2003.
+
+          After working at the web production company as a general manager of
+          the web solution division,  joined Six Apart.
+
+
+          In Six Apart, after worked as a Product manager, currently engaging as
+          a Developer Relation Manager.
+
+
+          **Education**
+
+
+          Graduated from Department of literature, Waseda university
+
+          B.A. 
+
+
+          **Summary of skills**
+
+
+          * Web CMS engineering
+
+          * Sales engineering
+
+          * Front-end engineering (HTML5, JavaScript)
+
+          * Back-end engineering (Linux, Apache, MySQL, php, Perl)
+
+          * Cloud server engineering (Amazon Web Services, Microsoft Azure)
+
+          * [AWS Certified Solutions Architect
+          Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-02-03&ci=AWS00480471)
+
+          * Developer Relation
+        title: ''
+        title_ja: ''
+        blog: 'http://smallworld.west-tokyo.com'
+        page: /speakers/nick
+        key: nick
+        image: /img/speakers/nick.jpg
+        needhotel: ''
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session: ''
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
 '11:35':
   Fuji:
     objectId: A7CdXbs2cFJGzxs5
@@ -709,6 +942,103 @@
     color: ''
     language: ''
     category: コミュニティ/ハッカソン
+  Samurai:
+    - objectId: crqP8vvoTqobc2v7
+      title_ja: Developer Experience Matters
+      description_ja: "When your potential developers, who are in search of a solution for a new project, or it could be to compete at a hackathon, see your poorly-designed developer portal or your open-source project on GitHub with no README, how does the developer feel? Do they still want to try it out anyway, or keep searching something else and end up choosing your competitor?\r\n\r\nThis Developer Experience is one of the biggest key factors for developers to decide if they use certain technologies to use.\r\nIn this short talk, Tomomi will talk about what DX means and what you need to do to improve the DX."
+      category: LT
+      title: Developer Experience Matters
+      description_en: "When your potential developers, who are in search of a solution for a new project, or it could be to compete at a hackathon, see your poorly-designed developer portal or your open-source project on GitHub with no README, how does the developer feel? Do they still want to try it out anyway, or keep searching something else and end up choosing your competitor?\r\n\r\nThis Developer Experience is one of the biggest key factors for developers to decide if they use certain technologies to use.\r\nIn this short talk, Tomomi will talk about what DX means and what you need to do to improve the DX."
+      number: ''
+      time: '11:35'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: Wib6VAUsXhTuXzuV
+        number: ''
+        name: Tomomi Imura
+        name_ja: Tomomi Imura
+        company: Slack
+        company_ja: Slack
+        twitter: girlie_mac
+        profile: >-
+          Tomomi (@girlie_mac) is an avid open technology advocate, software
+          engineer, also a creative technologist, who had been in working for
+          Developer Relations in 5 companies, including at the current gig at
+          Slack in San Francisco. When she is not at work, she still geeks
+          around and hacks with Raspberry Pi for cats, and Amazon Dash to
+          Rickroll people.
+        profile_ja: >-
+          Tomomi (@girlie_mac) is an avid open technology advocate, software
+          engineer, also a creative technologist, who had been in working for
+          Developer Relations in 5 companies, including at the current gig at
+          Slack in San Francisco. When she is not at work, she still geeks
+          around and hacks with Raspberry Pi for cats, and Amazon Dash to
+          Rickroll people.
+        title: ''
+        title_ja: ''
+        blog: 'http://girliemac.com'
+        page: /speakers/tomomi
+        key: tomomi
+        image: /img/speakers/tomomi.jpg
+        needhotel: ''
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session: ''
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
+    - objectId: u0l9zZbC7h69Hgn2
+      title_ja: Why DevRel should care about software development metrics?
+      description_ja: "In general terms, marketing mission within Developer Relations is to show how attractive a specific software project is and get developers motivated and engaged. However, how can a DevRel prove to the company that the investment is worthwhile? How can we show the real value that comes from their teams? Are marketing tools providing enough data? Software development analytics is the next step to answer these questions.\r\n\r\nDevRel actions are made for a specific goal: Get more and more developers to either use or contribute to a specific project. Forums, site documentation, GitHub... There are several touch-points where developer community interact with the project before and while using it. Thus, being able to get evidence about the activity of these data sources and get aggregated information within a same platform seems to be crucial to better analyze community health\r\n\r\nDuring this talk, audience will learn a way to visualize aggregated information and better analyze  community health, answering questions such as time to answer within forums, which core developers came from outside the company,  or total amount of newcomers over time filtered by organization."
+      category: LT
+      title: Why DevRel should care about software development metrics?
+      description_en: "In general terms, marketing mission within Developer Relations is to show how attractive a specific software project is and get developers motivated and engaged. However, how can a DevRel prove to the company that the investment is worthwhile? How can we show the real value that comes from their teams? Are marketing tools providing enough data? Software development analytics is the next step to answer these questions.\r\n\r\nDevRel actions are made for a specific goal: Get more and more developers to either use or contribute to a specific project. Forums, site documentation, GitHub... There are several touch-points where developer community interact with the project before and while using it. Thus, being able to get evidence about the activity of these data sources and get aggregated information within a same platform seems to be crucial to better analyze community health\r\n\r\nDuring this talk, audience will learn a way to visualize aggregated information and better analyze  community health, answering questions such as time to answer within forums, which core developers came from outside the company,  or total amount of newcomers over time filtered by organization."
+      number: ''
+      time: '11:35'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: 4uSR5bafyPHpkDY1
+        number: ''
+        name: Ana Jiménez Santamaría
+        name_ja: Ana Jiménez Santamaría
+        company: Bitergia
+        company_ja: Bitergia
+        twitter: anajsana95
+        profile: "Ana currently works at Bitergia, a software development analytics firm specialized in Open source projects. She holds a bachelor's degree in marketing.\r\nAs marketing specialist and data nerd, DevRel activities got her attention from the beginning. Her main goal is to show to the DevRel community that marketing and software development can (and should) work together to help Developer Relations to better achieve their goals.\r\nOpen source advocate, self taught illustrator and gamer. She also loves Japan and Japanese language.\r"
+        profile_ja: "Ana currently works at Bitergia, a software development analytics firm specialized in Open source projects. She holds a bachelor's degree in marketing.\r\nAs marketing specialist and data nerd, DevRel activities got her attention from the beginning. Her main goal is to show to the DevRel community that marketing and software development can (and should) work together to help Developer Relations to better achieve their goals.\r\nOpen source advocate, self taught illustrator and gamer. She also loves Japan and Japanese language.\r"
+        title: ''
+        title_ja: ''
+        blog: ''
+        page: /speakers/ana_jimenez
+        key: ana_jimenez
+        image: /img/speakers/ana_jimenez.jpg
+        needhotel: ''
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session: ''
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
 '12:00':
   Sakura:
     objectId: K6NhbQTh3xdpFrvk
@@ -851,6 +1181,283 @@
     color: ''
     language: ''
     category: テクニック
+  Samurai:
+    - objectId: glKa4pJOTZtW4F7C
+      title_ja: How non-developer create a user group and expand it
+      description_ja: >-
+        To create a user group for developers is not so hard if you love the
+        technologies that related the group. Because you already have a passion
+        of it :)
+
+        But to keep and expand the group might be hard a little. I will show you
+        some points to keep it. 
+
+
+        Please take a look at this session if you own or belong to some user
+        group.
+      category: LT
+      title: How non-developer create a user group and expand it
+      description_en: >-
+        To create a user group for developers is not so hard if you love the
+        technologies that related the group. Because you already have a passion
+        of it :)
+
+        But to keep and expand the group might be hard a little. I will show you
+        some points to keep it. 
+
+
+        Please take a look at this session if you own or belong to some user
+        group.
+      number: ''
+      time: '12:00'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: agRHZoGLY7yCkZpA
+        number: ''
+        name: Yoshito Tabuchi
+        name_ja: Yoshito Tabuchi
+        company: XLsoftKK
+        company_ja: XLsoftKK
+        twitter: ytabuchi
+        profile: "Hi, I'm Yoshito Tabuchi who working as an sales engineer at XLsoftKK that introduces many products and libraries for developers.\r\n\r\nThe organizer of Japan Xamarin User Group (JXUG).\r\n\r\nAwarded Microsoft MVP for Developer Technologies from 2016-04."
+        profile_ja: >-
+          Hi, I'm Yoshito Tabuchi who working as an sales engineer at XLsoftKK
+          that introduces many products and libraries for developers.
+
+
+          The organizer of Japan Xamarin User Group (JXUG).
+
+
+          Awarded Microsoft MVP for Developer Technologies from 2016-04.
+        title: ''
+        title_ja: ''
+        blog: 'https://ja.gravatar.com/ytabuchixlsoft'
+        page: /speakers/tabuchi
+        key: tabuchi
+        image: /img/speakers/tabuchi.jpg
+        needhotel: ''
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session: ''
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
+    - objectId: miBO8hBblZTyLlT1
+      title_ja: How to create and expand your idea
+      description_ja: >-
+        DevRel has to give inspiration to your developers and pull out maximize
+        their idea. So, evangelist or advocate have to be more creative person
+        who full of ideas than developers. In this session, I will talk about
+        how to create an idea of contents especially blog or documentation.
+
+
+        # Create idea
+
+
+        We know several ways how to expand an idea.
+
+
+        - KJ method
+
+        - Osborn's checklist
+
+        - Brainstorming
+
+        - Mandal Art
+
+
+        When you create an idea of core, you can expand the core by those
+        methods. So how to create an idea of core?
+
+
+        ## From developers
+
+
+        You can learn from your developers. We can make a idea from information
+        that usually when the developers concern on their work, what is their
+        wants and what they want to know. In the online, we can know about it
+        from Q&A forum or search queries. In the offline, we can understand
+        about it from meetup and networking.
+
+
+        ## From trend
+
+
+        You can mix your service and newest technologies such as programming
+        language, framework and etc. You write the contents like how to combine
+        new frameworks, how to use your service with new technology like IoT,
+        blockchaine or deep learning.
+
+
+        ## From season
+
+
+        We know many companies make a content that focus to April fool in Japan.
+        Similar, you have an opportunity on New year and halloween. For example,
+        you can provide content that is homework of summer vacation for
+        students. And you can provide the tutorial content for adult, tackle to
+        new technology with your service.
+
+
+        # Who is your target
+
+
+        After creating idea, you should consider who is the your target. In this
+        session, I will talk about three patterns.
+
+
+        - A. They don't know your service.
+
+        - B. They know your service. But they don't register or don't use it.
+
+        - C. They use your service.
+
+
+        For A, you give an opportunity to them. So you should help their work by
+        your content. Or you can delivery your content other market target like
+        from cloud to IoT.
+
+
+        For B, you will make contents to dig up them. Service update in 6
+        months, case study, or event report. There is the possibility of looking
+        back when being told that the service is exciting.
+
+
+        For C, you will provide contents to raise the royalty more. It might be
+        a little difficult tutorial or a combination with recent technology. I
+        recommended that you will make a content that developers want to tell
+        others.
+      category: LT
+      title: How to create and expand your idea
+      description_en: >-
+        DevRel has to give inspiration to your developers and pull out maximize
+        their idea. So, evangelist or advocate have to be more creative person
+        who full of ideas than developers. In this session, I will talk about
+        how to create an idea of contents especially blog or documentation.
+
+
+        # Create idea
+
+
+        We know several ways how to expand an idea.
+
+
+        - KJ method
+
+        - Osborn's checklist
+
+        - Brainstorming
+
+        - Mandal Art
+
+
+        When you create an idea of core, you can expand the core by those
+        methods. So how to create an idea of core?
+
+
+        ## From developers
+
+
+        You can learn from your developers. We can make a idea from information
+        that usually when the developers concern on their work, what is their
+        wants and what they want to know. In the online, we can know about it
+        from Q&A forum or search queries. In the offline, we can understand
+        about it from meetup and networking.
+
+
+        ## From trend
+
+
+        You can mix your service and newest technologies such as programming
+        language, framework and etc. You write the contents like how to combine
+        new frameworks, how to use your service with new technology like IoT,
+        blockchaine or deep learning.
+
+
+        ## From season
+
+
+        We know many companies make a content that focus to April fool in Japan.
+        Similar, you have an opportunity on New year and halloween. For example,
+        you can provide content that is homework of summer vacation for
+        students. And you can provide the tutorial content for adult, tackle to
+        new technology with your service.
+
+
+        # Who is your target
+
+
+        After creating idea, you should consider who is the your target. In this
+        session, I will talk about three patterns.
+
+
+        - A. They don't know your service.
+
+        - B. They know your service. But they don't register or don't use it.
+
+        - C. They use your service.
+
+
+        For A, you give an opportunity to them. So you should help their work by
+        your content. Or you can delivery your content other market target like
+        from cloud to IoT.
+
+
+        For B, you will make contents to dig up them. Service update in 6
+        months, case study, or event report. There is the possibility of looking
+        back when being told that the service is exciting.
+
+
+        For C, you will provide contents to raise the royalty more. It might be
+        a little difficult tutorial or a combination with recent technology. I
+        recommended that you will make a content that developers want to tell
+        others.
+      number: ''
+      time: '12:00'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: S6tTMcUowzWffalP
+        number: ''
+        name: Atsushi Nakatsugawa
+        name_ja: アツシ
+        company: MOONGIFT
+        company_ja: MOONGIFT
+        twitter: ''
+        profile: "CEO of MOONGIFT Inc. in Japan. Ruby and JavaScript/Node.js Programmer.\r\nI manage Web site named [MOONGIFT](http://www.moongift.jp/) that introduce Open source Software everyday to Japanese programmers from 2004. It is the biggest Open source information site in Japan.\r\nI started DevRel service from 2014. I have a knowledge of developing content for programmers. We have several clients in Japan.\r\n\r\nMy github: [https://github.com/moongift](https://github.com/moongift)"
+        profile_ja: "CEO of MOONGIFT Inc. in Japan. Ruby and JavaScript/Node.js Programmer.\r\nI manage Web site named [MOONGIFT](http://www.moongift.jp/) that introduce Open source Software everyday to Japanese programmers from 2004. It is the biggest Open source information site in Japan.\r\nI started DevRel service from 2014. I have a knowledge of developing content for programmers. We have several clients in Japan.\r\n\r\nMy github: [https://github.com/moongift](https://github.com/moongift)"
+        title: CEO
+        title_ja: CEO
+        blog: 'https://www.moongift.jp/'
+        page: /speakers/atsushi
+        key: atsushi
+        image: /img/members/atsushi.jpg
+        needhotel: false
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session: ''
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
 '12:25':
   Sakura:
     objectId: YL9jnrrsViKQAjYM
@@ -1547,239 +2154,6 @@
     color: ''
     language: ''
     category: 経験
-  Samurai:
-    - objectId: WenQM230B0WqUT8W
-      title_ja: Making Effective KPI on Your Advocacy
-      description_ja: >-
-        # What kind of issues do we have?
-
-
-        In Evangelism and Advocacy, the difficulty of determining KPI is often a
-        topic.
-
-        What is the purpose of our activities for Developer Advocate?
-
-        Increase sales? Profit rate? Reduce lavor-costs in development progects?
-
-        Though it may be about the purpose of activities in Develoepr Advocate,
-        it is hard to be KPI of activity itself.
-
-        Because our activities are where we build the foundation for the company
-        to earn money to sustain.
-
-        It is similar to seeding, so it is not its Quarterly or Half-Yearly that
-        its fruit and flowers bloom. Sometimes it often gets results after more
-        than a year.
-
-
-        # What can you learn from this session?
-
-
-        What should we do for KPI on Evangelism and Advocay?
-
-        I don't think we have the right answer, but I will teach KPIs necessary
-        for Evangelism and Advocacy from my experiences involving DevRel with
-        some companies and acting as an external evangelist of platform vendors.
-
-        After listening to this session, you will be able to set the goals you
-        need for yourself to work.
-      category: LT
-      title: Making Effective KPI on Your Advocacy
-      description_en: >-
-        # What kind of issues do we have?
-
-
-        In Evangelism and Advocacy, the difficulty of determining KPI is often a
-        topic.
-
-        What is the purpose of our activities for Developer Advocate?
-
-        Increase sales? Profit rate? Reduce lavor-costs in development progects?
-
-        Though it may be about the purpose of activities in Develoepr Advocate,
-        it is hard to be KPI of activity itself.
-
-        Because our activities are where we build the foundation for the company
-        to earn money to sustain.
-
-        It is similar to seeding, so it is not its Quarterly or Half-Yearly that
-        its fruit and flowers bloom. Sometimes it often gets results after more
-        than a year.
-
-
-        # What can you learn from this session?
-
-
-        What should we do for KPI on Evangelism and Advocay?
-
-        I don't think we have the right answer, but I will teach KPIs necessary
-        for Evangelism and Advocacy from my experiences involving DevRel with
-        some companies and acting as an external evangelist of platform vendors.
-
-        After listening to this session, you will be able to set the goals you
-        need for yourself to work.
-      number: ''
-      time: '15:50'
-      room: Samurai
-      SpeakerName: ''
-      speaker:
-        objectId: Qd0Rlct4Ar8noevW
-        number: ''
-        name: Taiji
-        name_ja: たいじ
-        company: IBM
-        company_ja: IBM
-        twitter: taiponrock
-        profile: >-
-          IBM Developer Advocate. Specialist for IoT, Web and Mobile Apps with
-          IBM Cloud. Ale Beer and Rock Musics are my favorites.
-        profile_ja: >-
-          IBM Developer Advocate. Specialist for IoT, Web and Mobile Apps with
-          IBM Cloud. Ale Beer and Rock Musics are my favorites.
-        title: Developer Advocate
-        title_ja: デベロッパーアドボケイト
-        blog: 'https://www.ibm.com'
-        page: /speakers/taiji
-        key: taiji
-        image: /img/members/taiji.jpg
-        needhotel: ''
-        money: ''
-        hotel: ''
-        preparty: ''
-        discount: ''
-        facebook: ''
-        github: ''
-        session: ''
-        google: ''
-        linkedin: ''
-        youtube: ''
-        list: true
-        instagram: ''
-        stackoverflow: ''
-        Slack: ''
-        __type: Object
-    - objectId: cdN6UikQKETWTh7U
-      title_ja: The way for making smooth relationship with the Community
-      description_ja: "I have been working as a Developer Relation manager for years .\r\nTo make a good relationship with Developers, Project Directors, and Designers I tried my best. \r\nNow, I could luckily have a great relationship with our community members, and they have established a lot of User Community Groups all over Japan.  \r\n\r\nhttps://www.movabletype.jp/usergroup/\r\n\r\nThis time I would like to introduce my experience and tell some tips about:\r\n\r\n* The best way to communicate with users\r\n* The way to making a good relationship with user communities\r\n* What you should NOT do in communities"
-      category: LT
-      title: The way for making smooth relationship with the Community
-      description_en: "I have been working as a Developer Relation manager for years .\r\nTo make a good relationship with Developers, Project Directors, and Designers I tried my best. \r\nNow, I could luckily have a great relationship with our community members, and they have established a lot of User Community Groups all over Japan.  \r\n\r\nhttps://www.movabletype.jp/usergroup/\r\n\r\nThis time I would like to introduce my experience and tell some tips about:\r\n\r\n* The best way to communicate with users\r\n* The way to making a good relationship with user communities\r\n* What you should NOT do in communities"
-      number: ''
-      time: '15:50'
-      room: Samurai
-      SpeakerName: ''
-      speaker:
-        objectId: OY8jNZvelCVytpj2
-        number: ''
-        name: Takeshi Nick Osanai
-        name_ja: Takeshi Nick Osanai
-        company: Six Apart Ltd.
-        company_ja: Six Apart Ltd.
-        twitter: Nick_smallworld
-        profile: >-
-          **Profile**
-
-
-          After graduating from the university, engaged in game business.
-
-          Specializes in the Internet industry since 2003.
-
-          After working at the web production company as a general manager of
-          the web solution division,  joined Six Apart.
-
-
-          In Six Apart, after worked as a Product manager, currently engaging as
-          a Developer Relation Manager.
-
-
-          **Education**
-
-
-          Graduated from Department of literature, Waseda university
-
-          B.A. 
-
-
-          **Summary of skills**
-
-
-          * Web CMS engineering
-
-          * Sales engineering
-
-          * Front-end engineering (HTML5, JavaScript)
-
-          * Back-end engineering (Linux, Apache, MySQL, php, Perl)
-
-          * Cloud server engineering (Amazon Web Services, Microsoft Azure)
-
-          * [AWS Certified Solutions Architect
-          Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-02-03&ci=AWS00480471)
-
-          * Developer Relation
-        profile_ja: >-
-          **Profile**
-
-
-          After graduating from the university, engaged in game business.
-
-          Specializes in the Internet industry since 2003.
-
-          After working at the web production company as a general manager of
-          the web solution division,  joined Six Apart.
-
-
-          In Six Apart, after worked as a Product manager, currently engaging as
-          a Developer Relation Manager.
-
-
-          **Education**
-
-
-          Graduated from Department of literature, Waseda university
-
-          B.A. 
-
-
-          **Summary of skills**
-
-
-          * Web CMS engineering
-
-          * Sales engineering
-
-          * Front-end engineering (HTML5, JavaScript)
-
-          * Back-end engineering (Linux, Apache, MySQL, php, Perl)
-
-          * Cloud server engineering (Amazon Web Services, Microsoft Azure)
-
-          * [AWS Certified Solutions Architect
-          Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-02-03&ci=AWS00480471)
-
-          * Developer Relation
-        title: ''
-        title_ja: ''
-        blog: 'http://smallworld.west-tokyo.com'
-        page: /speakers/nick
-        key: nick
-        image: /img/speakers/nick.jpg
-        needhotel: ''
-        money: ''
-        hotel: ''
-        preparty: ''
-        discount: ''
-        facebook: ''
-        github: ''
-        session: ''
-        google: ''
-        linkedin: ''
-        youtube: ''
-        list: true
-        instagram: ''
-        stackoverflow: ''
-        Slack: ''
-        __type: Object
 '16:15':
   Fuji:
     objectId: gXXkyBjzzOPEoAG
@@ -1961,103 +2335,6 @@
     color: ''
     language: ''
     category: 経験
-  Samurai:
-    - objectId: crqP8vvoTqobc2v7
-      title_ja: Developer Experience Matters
-      description_ja: "When your potential developers, who are in search of a solution for a new project, or it could be to compete at a hackathon, see your poorly-designed developer portal or your open-source project on GitHub with no README, how does the developer feel? Do they still want to try it out anyway, or keep searching something else and end up choosing your competitor?\r\n\r\nThis Developer Experience is one of the biggest key factors for developers to decide if they use certain technologies to use.\r\nIn this short talk, Tomomi will talk about what DX means and what you need to do to improve the DX."
-      category: LT
-      title: Developer Experience Matters
-      description_en: "When your potential developers, who are in search of a solution for a new project, or it could be to compete at a hackathon, see your poorly-designed developer portal or your open-source project on GitHub with no README, how does the developer feel? Do they still want to try it out anyway, or keep searching something else and end up choosing your competitor?\r\n\r\nThis Developer Experience is one of the biggest key factors for developers to decide if they use certain technologies to use.\r\nIn this short talk, Tomomi will talk about what DX means and what you need to do to improve the DX."
-      number: ''
-      time: '16:15'
-      room: Samurai
-      SpeakerName: ''
-      speaker:
-        objectId: Wib6VAUsXhTuXzuV
-        number: ''
-        name: Tomomi Imura
-        name_ja: Tomomi Imura
-        company: Slack
-        company_ja: Slack
-        twitter: girlie_mac
-        profile: >-
-          Tomomi (@girlie_mac) is an avid open technology advocate, software
-          engineer, also a creative technologist, who had been in working for
-          Developer Relations in 5 companies, including at the current gig at
-          Slack in San Francisco. When she is not at work, she still geeks
-          around and hacks with Raspberry Pi for cats, and Amazon Dash to
-          Rickroll people.
-        profile_ja: >-
-          Tomomi (@girlie_mac) is an avid open technology advocate, software
-          engineer, also a creative technologist, who had been in working for
-          Developer Relations in 5 companies, including at the current gig at
-          Slack in San Francisco. When she is not at work, she still geeks
-          around and hacks with Raspberry Pi for cats, and Amazon Dash to
-          Rickroll people.
-        title: ''
-        title_ja: ''
-        blog: 'http://girliemac.com'
-        page: /speakers/tomomi
-        key: tomomi
-        image: /img/speakers/tomomi.jpg
-        needhotel: ''
-        money: ''
-        hotel: ''
-        preparty: ''
-        discount: ''
-        facebook: ''
-        github: ''
-        session: ''
-        google: ''
-        linkedin: ''
-        youtube: ''
-        list: true
-        instagram: ''
-        stackoverflow: ''
-        Slack: ''
-        __type: Object
-    - objectId: u0l9zZbC7h69Hgn2
-      title_ja: Why DevRel should care about software development metrics?
-      description_ja: "In general terms, marketing mission within Developer Relations is to show how attractive a specific software project is and get developers motivated and engaged. However, how can a DevRel prove to the company that the investment is worthwhile? How can we show the real value that comes from their teams? Are marketing tools providing enough data? Software development analytics is the next step to answer these questions.\r\n\r\nDevRel actions are made for a specific goal: Get more and more developers to either use or contribute to a specific project. Forums, site documentation, GitHub... There are several touch-points where developer community interact with the project before and while using it. Thus, being able to get evidence about the activity of these data sources and get aggregated information within a same platform seems to be crucial to better analyze community health\r\n\r\nDuring this talk, audience will learn a way to visualize aggregated information and better analyze  community health, answering questions such as time to answer within forums, which core developers came from outside the company,  or total amount of newcomers over time filtered by organization."
-      category: LT
-      title: Why DevRel should care about software development metrics?
-      description_en: "In general terms, marketing mission within Developer Relations is to show how attractive a specific software project is and get developers motivated and engaged. However, how can a DevRel prove to the company that the investment is worthwhile? How can we show the real value that comes from their teams? Are marketing tools providing enough data? Software development analytics is the next step to answer these questions.\r\n\r\nDevRel actions are made for a specific goal: Get more and more developers to either use or contribute to a specific project. Forums, site documentation, GitHub... There are several touch-points where developer community interact with the project before and while using it. Thus, being able to get evidence about the activity of these data sources and get aggregated information within a same platform seems to be crucial to better analyze community health\r\n\r\nDuring this talk, audience will learn a way to visualize aggregated information and better analyze  community health, answering questions such as time to answer within forums, which core developers came from outside the company,  or total amount of newcomers over time filtered by organization."
-      number: ''
-      time: '16:15'
-      room: Samurai
-      SpeakerName: ''
-      speaker:
-        objectId: 4uSR5bafyPHpkDY1
-        number: ''
-        name: Ana Jiménez Santamaría
-        name_ja: Ana Jiménez Santamaría
-        company: Bitergia
-        company_ja: Bitergia
-        twitter: anajsana95
-        profile: "Ana currently works at Bitergia, a software development analytics firm specialized in Open source projects. She holds a bachelor's degree in marketing.\r\nAs marketing specialist and data nerd, DevRel activities got her attention from the beginning. Her main goal is to show to the DevRel community that marketing and software development can (and should) work together to help Developer Relations to better achieve their goals.\r\nOpen source advocate, self taught illustrator and gamer. She also loves Japan and Japanese language.\r"
-        profile_ja: "Ana currently works at Bitergia, a software development analytics firm specialized in Open source projects. She holds a bachelor's degree in marketing.\r\nAs marketing specialist and data nerd, DevRel activities got her attention from the beginning. Her main goal is to show to the DevRel community that marketing and software development can (and should) work together to help Developer Relations to better achieve their goals.\r\nOpen source advocate, self taught illustrator and gamer. She also loves Japan and Japanese language.\r"
-        title: ''
-        title_ja: ''
-        blog: ''
-        page: /speakers/ana_jimenez
-        key: ana_jimenez
-        image: /img/speakers/ana_jimenez.jpg
-        needhotel: ''
-        money: ''
-        hotel: ''
-        preparty: ''
-        discount: ''
-        facebook: ''
-        github: ''
-        session: ''
-        google: ''
-        linkedin: ''
-        youtube: ''
-        list: true
-        instagram: ''
-        stackoverflow: ''
-        Slack: ''
-        __type: Object
 '16:40':
   Sakura:
     objectId: IR2z0vbL1H4vEr8Y
@@ -2236,283 +2513,6 @@
     color: ''
     language: ''
     category: API
-  Samurai:
-    - objectId: glKa4pJOTZtW4F7C
-      title_ja: How non-developer create a user group and expand it
-      description_ja: >-
-        To create a user group for developers is not so hard if you love the
-        technologies that related the group. Because you already have a passion
-        of it :)
-
-        But to keep and expand the group might be hard a little. I will show you
-        some points to keep it. 
-
-
-        Please take a look at this session if you own or belong to some user
-        group.
-      category: LT
-      title: How non-developer create a user group and expand it
-      description_en: >-
-        To create a user group for developers is not so hard if you love the
-        technologies that related the group. Because you already have a passion
-        of it :)
-
-        But to keep and expand the group might be hard a little. I will show you
-        some points to keep it. 
-
-
-        Please take a look at this session if you own or belong to some user
-        group.
-      number: ''
-      time: '16:40'
-      room: Samurai
-      SpeakerName: ''
-      speaker:
-        objectId: agRHZoGLY7yCkZpA
-        number: ''
-        name: Yoshito Tabuchi
-        name_ja: Yoshito Tabuchi
-        company: XLsoftKK
-        company_ja: XLsoftKK
-        twitter: ytabuchi
-        profile: "Hi, I'm Yoshito Tabuchi who working as an sales engineer at XLsoftKK that introduces many products and libraries for developers.\r\n\r\nThe organizer of Japan Xamarin User Group (JXUG).\r\n\r\nAwarded Microsoft MVP for Developer Technologies from 2016-04."
-        profile_ja: >-
-          Hi, I'm Yoshito Tabuchi who working as an sales engineer at XLsoftKK
-          that introduces many products and libraries for developers.
-
-
-          The organizer of Japan Xamarin User Group (JXUG).
-
-
-          Awarded Microsoft MVP for Developer Technologies from 2016-04.
-        title: ''
-        title_ja: ''
-        blog: 'https://ja.gravatar.com/ytabuchixlsoft'
-        page: /speakers/tabuchi
-        key: tabuchi
-        image: /img/speakers/tabuchi.jpg
-        needhotel: ''
-        money: ''
-        hotel: ''
-        preparty: ''
-        discount: ''
-        facebook: ''
-        github: ''
-        session: ''
-        google: ''
-        linkedin: ''
-        youtube: ''
-        list: true
-        instagram: ''
-        stackoverflow: ''
-        Slack: ''
-        __type: Object
-    - objectId: miBO8hBblZTyLlT1
-      title_ja: How to create and expand your idea
-      description_ja: >-
-        DevRel has to give inspiration to your developers and pull out maximize
-        their idea. So, evangelist or advocate have to be more creative person
-        who full of ideas than developers. In this session, I will talk about
-        how to create an idea of contents especially blog or documentation.
-
-
-        # Create idea
-
-
-        We know several ways how to expand an idea.
-
-
-        - KJ method
-
-        - Osborn's checklist
-
-        - Brainstorming
-
-        - Mandal Art
-
-
-        When you create an idea of core, you can expand the core by those
-        methods. So how to create an idea of core?
-
-
-        ## From developers
-
-
-        You can learn from your developers. We can make a idea from information
-        that usually when the developers concern on their work, what is their
-        wants and what they want to know. In the online, we can know about it
-        from Q&A forum or search queries. In the offline, we can understand
-        about it from meetup and networking.
-
-
-        ## From trend
-
-
-        You can mix your service and newest technologies such as programming
-        language, framework and etc. You write the contents like how to combine
-        new frameworks, how to use your service with new technology like IoT,
-        blockchaine or deep learning.
-
-
-        ## From season
-
-
-        We know many companies make a content that focus to April fool in Japan.
-        Similar, you have an opportunity on New year and halloween. For example,
-        you can provide content that is homework of summer vacation for
-        students. And you can provide the tutorial content for adult, tackle to
-        new technology with your service.
-
-
-        # Who is your target
-
-
-        After creating idea, you should consider who is the your target. In this
-        session, I will talk about three patterns.
-
-
-        - A. They don't know your service.
-
-        - B. They know your service. But they don't register or don't use it.
-
-        - C. They use your service.
-
-
-        For A, you give an opportunity to them. So you should help their work by
-        your content. Or you can delivery your content other market target like
-        from cloud to IoT.
-
-
-        For B, you will make contents to dig up them. Service update in 6
-        months, case study, or event report. There is the possibility of looking
-        back when being told that the service is exciting.
-
-
-        For C, you will provide contents to raise the royalty more. It might be
-        a little difficult tutorial or a combination with recent technology. I
-        recommended that you will make a content that developers want to tell
-        others.
-      category: LT
-      title: How to create and expand your idea
-      description_en: >-
-        DevRel has to give inspiration to your developers and pull out maximize
-        their idea. So, evangelist or advocate have to be more creative person
-        who full of ideas than developers. In this session, I will talk about
-        how to create an idea of contents especially blog or documentation.
-
-
-        # Create idea
-
-
-        We know several ways how to expand an idea.
-
-
-        - KJ method
-
-        - Osborn's checklist
-
-        - Brainstorming
-
-        - Mandal Art
-
-
-        When you create an idea of core, you can expand the core by those
-        methods. So how to create an idea of core?
-
-
-        ## From developers
-
-
-        You can learn from your developers. We can make a idea from information
-        that usually when the developers concern on their work, what is their
-        wants and what they want to know. In the online, we can know about it
-        from Q&A forum or search queries. In the offline, we can understand
-        about it from meetup and networking.
-
-
-        ## From trend
-
-
-        You can mix your service and newest technologies such as programming
-        language, framework and etc. You write the contents like how to combine
-        new frameworks, how to use your service with new technology like IoT,
-        blockchaine or deep learning.
-
-
-        ## From season
-
-
-        We know many companies make a content that focus to April fool in Japan.
-        Similar, you have an opportunity on New year and halloween. For example,
-        you can provide content that is homework of summer vacation for
-        students. And you can provide the tutorial content for adult, tackle to
-        new technology with your service.
-
-
-        # Who is your target
-
-
-        After creating idea, you should consider who is the your target. In this
-        session, I will talk about three patterns.
-
-
-        - A. They don't know your service.
-
-        - B. They know your service. But they don't register or don't use it.
-
-        - C. They use your service.
-
-
-        For A, you give an opportunity to them. So you should help their work by
-        your content. Or you can delivery your content other market target like
-        from cloud to IoT.
-
-
-        For B, you will make contents to dig up them. Service update in 6
-        months, case study, or event report. There is the possibility of looking
-        back when being told that the service is exciting.
-
-
-        For C, you will provide contents to raise the royalty more. It might be
-        a little difficult tutorial or a combination with recent technology. I
-        recommended that you will make a content that developers want to tell
-        others.
-      number: ''
-      time: '16:40'
-      room: Samurai
-      SpeakerName: ''
-      speaker:
-        objectId: S6tTMcUowzWffalP
-        number: ''
-        name: Atsushi Nakatsugawa
-        name_ja: アツシ
-        company: MOONGIFT
-        company_ja: MOONGIFT
-        twitter: ''
-        profile: "CEO of MOONGIFT Inc. in Japan. Ruby and JavaScript/Node.js Programmer.\r\nI manage Web site named [MOONGIFT](http://www.moongift.jp/) that introduce Open source Software everyday to Japanese programmers from 2004. It is the biggest Open source information site in Japan.\r\nI started DevRel service from 2014. I have a knowledge of developing content for programmers. We have several clients in Japan.\r\n\r\nMy github: [https://github.com/moongift](https://github.com/moongift)"
-        profile_ja: "CEO of MOONGIFT Inc. in Japan. Ruby and JavaScript/Node.js Programmer.\r\nI manage Web site named [MOONGIFT](http://www.moongift.jp/) that introduce Open source Software everyday to Japanese programmers from 2004. It is the biggest Open source information site in Japan.\r\nI started DevRel service from 2014. I have a knowledge of developing content for programmers. We have several clients in Japan.\r\n\r\nMy github: [https://github.com/moongift](https://github.com/moongift)"
-        title: CEO
-        title_ja: CEO
-        blog: 'https://www.moongift.jp/'
-        page: /speakers/atsushi
-        key: atsushi
-        image: /img/members/atsushi.jpg
-        needhotel: false
-        money: ''
-        hotel: ''
-        preparty: ''
-        discount: ''
-        facebook: ''
-        github: ''
-        session: ''
-        google: ''
-        linkedin: ''
-        youtube: ''
-        list: true
-        instagram: ''
-        stackoverflow: ''
-        Slack: ''
-        __type: Object
 '17:00':
   Both:
     objectId: 8ujipAsqpisC2xFl

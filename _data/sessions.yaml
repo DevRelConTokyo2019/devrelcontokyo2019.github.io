@@ -51,7 +51,9 @@
       discount: ''
       facebook: ''
       github: ''
-      session: ''
+      session:
+        __type: Pointer
+        objectId: miBO8hBblZTyLlT1
       google: ''
       linkedin: ''
       youtube: ''
@@ -59,6 +61,7 @@
       instagram: ''
       stackoverflow: ''
       Slack: ''
+      sociallogo: true
       __type: Object
     color: grey
     language: en
@@ -132,6 +135,7 @@
       stackoverflow: ''
       Slack: true
       key: peter
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -206,6 +210,7 @@
       instagram: ''
       stackoverflow: ''
       Slack: true
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -291,6 +296,7 @@
       stackoverflow: ''
       Slack: true
       key: brian
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -481,6 +487,7 @@
       stackoverflow: ''
       Slack: true
       key: seigo
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -548,6 +555,7 @@
       stackoverflow: ''
       Slack: true
       key: terence
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -654,7 +662,9 @@
         discount: ''
         facebook: ''
         github: ''
-        session: ''
+        session:
+          __type: Pointer
+          objectId: WenQM230B0WqUT8W
         google: ''
         linkedin: ''
         youtube: ''
@@ -662,6 +672,7 @@
         instagram: ''
         stackoverflow: ''
         Slack: ''
+        sociallogo: true
         __type: Object
     - objectId: cdN6UikQKETWTh7U
       title_ja: The way for making smooth relationship with the Community
@@ -776,7 +787,9 @@
         discount: ''
         facebook: ''
         github: ''
-        session: ''
+        session:
+          __type: Pointer
+          objectId: cdN6UikQKETWTh7U
         google: ''
         linkedin: ''
         youtube: ''
@@ -784,6 +797,7 @@
         instagram: ''
         stackoverflow: ''
         Slack: ''
+        sociallogo: true
         __type: Object
 '11:35':
   Fuji:
@@ -863,6 +877,7 @@
       stackoverflow: ''
       Slack: true
       key: jessica
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -938,6 +953,7 @@
       stackoverflow: ''
       Slack: false
       key: sydney
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -988,7 +1004,9 @@
         discount: ''
         facebook: ''
         github: ''
-        session: ''
+        session:
+          __type: Pointer
+          objectId: crqP8vvoTqobc2v7
         google: ''
         linkedin: ''
         youtube: ''
@@ -996,6 +1014,7 @@
         instagram: ''
         stackoverflow: ''
         Slack: ''
+        sociallogo: true
         __type: Object
     - objectId: u0l9zZbC7h69Hgn2
       title_ja: Why DevRel should care about software development metrics?
@@ -1030,7 +1049,9 @@
         discount: ''
         facebook: ''
         github: ''
-        session: ''
+        session:
+          __type: Pointer
+          objectId: u0l9zZbC7h69Hgn2
         google: ''
         linkedin: ''
         youtube: ''
@@ -1038,6 +1059,7 @@
         instagram: ''
         stackoverflow: ''
         Slack: ''
+        sociallogo: true
         __type: Object
 '12:00':
   Sakura:
@@ -1099,6 +1121,7 @@
       stackoverflow: ''
       Slack: true
       key: myrsini
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -1177,6 +1200,7 @@
       stackoverflow: ''
       Slack: false
       key: melinda
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -1243,7 +1267,9 @@
         discount: ''
         facebook: ''
         github: ''
-        session: ''
+        session:
+          __type: Pointer
+          objectId: glKa4pJOTZtW4F7C
         google: ''
         linkedin: ''
         youtube: ''
@@ -1251,6 +1277,7 @@
         instagram: ''
         stackoverflow: ''
         Slack: ''
+        sociallogo: ''
         __type: Object
     - objectId: miBO8hBblZTyLlT1
       title_ja: How to create and expand your idea
@@ -1449,7 +1476,9 @@
         discount: ''
         facebook: ''
         github: ''
-        session: ''
+        session:
+          __type: Pointer
+          objectId: miBO8hBblZTyLlT1
         google: ''
         linkedin: ''
         youtube: ''
@@ -1457,6 +1486,7 @@
         instagram: ''
         stackoverflow: ''
         Slack: ''
+        sociallogo: true
         __type: Object
 '12:25':
   Sakura:
@@ -1523,8 +1553,21 @@
       company: IBM
       company_ja: IBM
       twitter: ayatokura
-      profile: ''
-      profile_ja: ''
+      profile: >-
+        Around 15 years comprehensive experience with IT industry - Support
+        Engineer, Security Engineer, Product Marketing, Partner Account Manager,
+        Technical Evangelist. Creative problem-solver, enthusiastic
+        self-starter, and goal-driven achiever. Willing to travel worldwide. OSS
+        and Mixed Reality Lover.
+
+
+        ・Cloud Security Alliance Japan member * The Virtual Reality Society of
+        Japan member
+      profile_ja: >-
+        約15年にわたるIT業界で、サポートエンジニア、セキュリティエンジニア、プロダクトマーケティング等の豊富な経験を持つテクニカルエバンジェリスト。創造的な問題解決スキル、強い自発性を持ち目標達成を成し遂げます。とくにOSSやxRに関心があり。開発者を応援します。
+
+
+        ・日本クラウドセキュリティアライアンス会員 、日本バーチャルリアリティ学会会員
       title: Developer Advocate
       title_ja: Developer Advocate
       blog: 'http://ayatokura.hatenablog.com/'
@@ -1548,6 +1591,7 @@
       stackoverflow: ''
       Slack: true
       key: aya
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -1632,6 +1676,7 @@
       stackoverflow: ''
       Slack: true
       key: cristiano
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -1692,7 +1737,9 @@
       discount: ''
       facebook: ''
       github: ''
-      session: ''
+      session:
+        __type: Pointer
+        objectId: WenQM230B0WqUT8W
       google: ''
       linkedin: ''
       youtube: ''
@@ -1700,6 +1747,7 @@
       instagram: ''
       stackoverflow: ''
       Slack: ''
+      sociallogo: true
       __type: Object
 '13:55':
   Both:
@@ -1758,6 +1806,7 @@
       stackoverflow: ''
       Slack: false
       key: matz
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -1874,6 +1923,7 @@
       stackoverflow: ''
       Slack: true
       key: matthew
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -1958,6 +2008,7 @@
       stackoverflow: ''
       Slack: false
       key: chomado
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -2068,6 +2119,7 @@
       stackoverflow: ''
       Slack: true
       key: kristof
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -2150,6 +2202,7 @@
       stackoverflow: ''
       Slack: ''
       key: baruch
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -2224,6 +2277,7 @@
       stackoverflow: ''
       Slack: true
       key: avital
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -2331,6 +2385,7 @@
       stackoverflow: ''
       Slack: true
       key: simon
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -2409,6 +2464,7 @@
       stackoverflow: ''
       Slack: false
       key: jaime
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -2509,6 +2565,7 @@
       stackoverflow: ''
       Slack: true
       key: nauman
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -2635,6 +2692,7 @@
       stackoverflow: ''
       Slack: true
       key: wataru
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
@@ -2730,10 +2788,70 @@
       stackoverflow: ''
       Slack: true
       key: andy
+      sociallogo: true
       __type: Object
     color: ''
     language: ''
     category: 経験
+'1899-12-30T03:25:00.000Z':
+  Samurai:
+    - objectId: kfCcuEqd1akZVJAL
+      title_ja: 'From Engineer to Developer Advocate, the Hard Way'
+      description_ja: >-
+        It turned out releasing mimicjs.io project was not enough. People didn't
+        just magically find out how cool it is. Now I had to learn what it means
+        to be a developer advocate the hard way. In this talk I will share what
+        did I learn when trying to promote my open-source product.
+      category: LT
+      title: 'From Engineer to Developer Advocate, the Hard Way'
+      description_en: >-
+        It turned out releasing mimicjs.io project was not enough. People didn't
+        just magically find out how cool it is. Now I had to learn what it means
+        to be a developer advocate the hard way. In this talk I will share what
+        did I learn when trying to promote my open-source product.
+      number: ''
+      time: '1899-12-30T03:25:00.000Z'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: kLeig2dC8HAJel6l
+        number: ''
+        name: Volodymyr Ladnik
+        name_ja: Volodymyr Ladnik
+        sociallogo: ''
+        company: ''
+        company_ja: Credit Karma
+        twitter: Credit Karma
+        profile: >-
+          A lead developer in Developer Efficiency team @ Credit Karma. I
+          believe, that software can change the world.
+        profile_ja: >-
+          A lead developer in Developer Efficiency team @ Credit Karma. I
+          believe, that software can change the world.
+        title: ''
+        title_ja: ''
+        blog: 'https://engineering.creditkarma.com/'
+        page: /speakers/volodymyr
+        key: volodymyr
+        image: /img/speakers/volodymyr.jpg
+        needhotel: ''
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session:
+          __type: Pointer
+          objectId: kfCcuEqd1akZVJAL
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
 '18:05':
   Both:
     objectId: uQqBAI44ZIzqZzR2
@@ -2770,7 +2888,9 @@
       discount: ''
       facebook: ''
       github: ''
-      session: ''
+      session:
+        __type: Pointer
+        objectId: miBO8hBblZTyLlT1
       google: ''
       linkedin: ''
       youtube: ''
@@ -2778,6 +2898,7 @@
       instagram: ''
       stackoverflow: ''
       Slack: ''
+      sociallogo: true
       __type: Object
     color: grey
     language: en

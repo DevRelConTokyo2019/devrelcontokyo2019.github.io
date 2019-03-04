@@ -1355,8 +1355,8 @@
   number: ''
   name: Sydney Lai
   name_ja: Sydney Lai
-  company: ''
-  company_ja: ''
+  company: Codecorgi
+  company_ja: Codecorgi
   twitter: sydneylai
   profile: >-
     Sydney Lai has passionately volunteered for the dev community since 2013,
@@ -2626,60 +2626,3 @@
   stackoverflow: ''
   Slack: ''
   sociallogo: ''
-- objectId: kLeig2dC8HAJel6l
-  number: ''
-  name: Volodymyr Ladnik
-  name_ja: Volodymyr Ladnik
-  sociallogo: ''
-  company: ''
-  company_ja: Credit Karma
-  twitter: Credit Karma
-  profile: >-
-    A lead developer in Developer Efficiency team @ Credit Karma. I believe,
-    that software can change the world.
-  profile_ja: >-
-    A lead developer in Developer Efficiency team @ Credit Karma. I believe,
-    that software can change the world.
-  title: ''
-  title_ja: ''
-  blog: 'https://engineering.creditkarma.com/'
-  page: /speakers/volodymyr
-  key: volodymyr
-  image: /img/speakers/volodymyr.jpg
-  needhotel: ''
-  money: ''
-  hotel: ''
-  preparty: ''
-  discount: ''
-  facebook: ''
-  github: ''
-  session:
-    objectId: kfCcuEqd1akZVJAL
-    title_ja: 'From Engineer to Developer Advocate, the Hard Way'
-    description_ja: >-
-      It turned out releasing mimicjs.io project was not enough. People didn't
-      just magically find out how cool it is. Now I had to learn what it means
-      to be a developer advocate the hard way. In this talk I will share what
-      did I learn when trying to promote my open-source product.
-    category: LT
-    title: 'From Engineer to Developer Advocate, the Hard Way'
-    description_en: >-
-      It turned out releasing mimicjs.io project was not enough. People didn't
-      just magically find out how cool it is. Now I had to learn what it means
-      to be a developer advocate the hard way. In this talk I will share what
-      did I learn when trying to promote my open-source product.
-    number: ''
-    time: '12:25'
-    room: Samurai
-    SpeakerName: ''
-    speaker:
-      __type: Pointer
-      objectId: kLeig2dC8HAJel6l
-    __type: Object
-  google: ''
-  linkedin: ''
-  youtube: ''
-  list: true
-  instagram: ''
-  stackoverflow: ''
-  Slack: ''

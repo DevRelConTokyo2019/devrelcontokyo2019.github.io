@@ -62,6 +62,7 @@
       stackoverflow: ''
       Slack: ''
       sociallogo: true
+      coaster: ''
       __type: Object
     color: grey
     language: en
@@ -136,6 +137,7 @@
       Slack: true
       key: peter
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -211,6 +213,7 @@
       stackoverflow: ''
       Slack: true
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -297,6 +300,7 @@
       Slack: true
       key: brian
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -488,6 +492,7 @@
       Slack: true
       key: seigo
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -556,6 +561,7 @@
       Slack: true
       key: terence
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -673,6 +679,7 @@
         stackoverflow: ''
         Slack: ''
         sociallogo: true
+        coaster: ''
         __type: Object
     - objectId: cdN6UikQKETWTh7U
       title_ja: The way for making smooth relationship with the Community
@@ -798,6 +805,7 @@
         stackoverflow: ''
         Slack: ''
         sociallogo: true
+        coaster: ''
         __type: Object
 '11:35':
   Fuji:
@@ -878,6 +886,7 @@
       Slack: true
       key: jessica
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -954,6 +963,7 @@
       Slack: false
       key: sydney
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -1015,6 +1025,7 @@
         stackoverflow: ''
         Slack: ''
         sociallogo: true
+        coaster: ''
         __type: Object
     - objectId: u0l9zZbC7h69Hgn2
       title_ja: Why DevRel should care about software development metrics?
@@ -1060,6 +1071,7 @@
         stackoverflow: ''
         Slack: ''
         sociallogo: true
+        coaster: ''
         __type: Object
 '12:00':
   Sakura:
@@ -1122,6 +1134,7 @@
       Slack: true
       key: myrsini
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -1201,6 +1214,7 @@
       Slack: false
       key: melinda
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -1277,7 +1291,8 @@
         instagram: ''
         stackoverflow: ''
         Slack: ''
-        sociallogo: ''
+        sociallogo: true
+        coaster: ''
         __type: Object
     - objectId: miBO8hBblZTyLlT1
       title_ja: How to create and expand your idea
@@ -1487,6 +1502,7 @@
         stackoverflow: ''
         Slack: ''
         sociallogo: true
+        coaster: ''
         __type: Object
 '12:25':
   Sakura:
@@ -1592,6 +1608,7 @@
       Slack: true
       key: aya
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -1677,10 +1694,146 @@
       Slack: true
       key: cristiano
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
     category: マーケティング
+  Samurai:
+    - objectId: a8w386gPD2UrLAIS
+      title_ja: DevRel is changing my life!
+      description_ja: >-
+        At the time I started DevRel, I belonged to the main system integrator
+        for contract development. I would like to share the knowledge gained
+        from the chance to start DevRel activities and activities up to now.
+
+
+        · How did you get to know the community? I belonged to a domestic system
+        integrator and did not know the existence of the community for 8 years.
+        I was not originally majoring in computer science, and I did not know
+        the means to get information. I think that the existence of Tech
+        Community is not known especially in Japan. Many of my friends who
+        actually belong to IT companies do not know that. Everyone participating
+        here already knows the community. Why do not you try inviting more
+        people around you? I am inviting my former friends to join in this way
+        today.
+
+
+        · Output is not scary (your common sense is insane for others) I thought
+        that speaking in public, not only in the community, was granted only to
+        special people. Speaker thought that it would be permissible to speak
+        only to humans who have special experience and tell the circumstances.
+        That was my misunderstanding. That experience that you feel natural is a
+        valuable experience that is not commonplace for others. You do not need
+        to be afraid. Try talking about your experience and knowledge in front
+        of everyone. I’m sure you will be grateful for the surroundings.
+
+
+        · Enjoy the community! (To make the community better) It is the most
+        important factor. You should enjoy this activity. You had better quit
+        acting if it is difficult. The number of people who adore you as they
+        continue community activities and start activities will also increase.
+        You should not be arrogant. Next is what you are asked to do to support
+        new participants to enjoy the community, as you did. Let’s aim for a
+        community that can be enjoyed while supporting it. You surely can be an
+        important person for that community.
+      category: LT
+      title: DevRel is changing my life!
+      description_en: >-
+        At the time I started DevRel, I belonged to the main system integrator
+        for contract development. I would like to share the knowledge gained
+        from the chance to start DevRel activities and activities up to now.
+
+
+        · How did you get to know the community? I belonged to a domestic system
+        integrator and did not know the existence of the community for 8 years.
+        I was not originally majoring in computer science, and I did not know
+        the means to get information. I think that the existence of Tech
+        Community is not known especially in Japan. Many of my friends who
+        actually belong to IT companies do not know that. Everyone participating
+        here already knows the community. Why do not you try inviting more
+        people around you? I am inviting my former friends to join in this way
+        today.
+
+
+        · Output is not scary (your common sense is insane for others) I thought
+        that speaking in public, not only in the community, was granted only to
+        special people. Speaker thought that it would be permissible to speak
+        only to humans who have special experience and tell the circumstances.
+        That was my misunderstanding. That experience that you feel natural is a
+        valuable experience that is not commonplace for others. You do not need
+        to be afraid. Try talking about your experience and knowledge in front
+        of everyone. I’m sure you will be grateful for the surroundings.
+
+
+        · Enjoy the community! (To make the community better) It is the most
+        important factor. You should enjoy this activity. You had better quit
+        acting if it is difficult. The number of people who adore you as they
+        continue community activities and start activities will also increase.
+        You should not be arrogant. Next is what you are asked to do to support
+        new participants to enjoy the community, as you did. Let’s aim for a
+        community that can be enjoyed while supporting it. You surely can be an
+        important person for that community.
+      number: ''
+      time: '12:25'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: SonAtcCq09qS1vGe
+        number: ''
+        name: Shohei Oda
+        name_ja: Shohei Oda
+        coaster: ''
+        sociallogo: ''
+        company: Microsoft
+        company_ja: Microsoft
+        twitter: MS_odasho
+        profile: >-
+          I have been involved in various development projects for about 10
+          years at domestic system integrator. Building a call center system,
+          mobile application development, PaaS application development, etc. In
+          recent years I have been focusing on the activities of the developer
+          community including DevRel. Join to Microsoft in 2018. I conduct
+          DevRel activities as my own activity mainly focusing on educational
+          activities for developers. What I like is chocolate and caramel
+          frappuccino. Since I was 15 years old I loved Mobile phone as crazy
+          and I got a job at an IT company. I have a physical education
+          teacher’s license and my most favorite language is body language.
+        profile_ja: >-
+          I have been involved in various development projects for about 10
+          years at domestic system integrator. Building a call center system,
+          mobile application development, PaaS application development, etc. In
+          recent years I have been focusing on the activities of the developer
+          community including DevRel. Join to Microsoft in 2018. I conduct
+          DevRel activities as my own activity mainly focusing on educational
+          activities for developers. What I like is chocolate and caramel
+          frappuccino. Since I was 15 years old I loved Mobile phone as crazy
+          and I got a job at an IT company. I have a physical education
+          teacher’s license and my most favorite language is body language.
+        title: ''
+        title_ja: ''
+        blog: 'https://medium.com/@shoheioda/'
+        page: /speakers/odasho
+        key: odasho
+        image: /img/speakers/odasho.jpg
+        needhotel: ''
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session:
+          __type: Pointer
+          objectId: a8w386gPD2UrLAIS
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
 '12:45':
   Both:
     objectId: 4crtfmbxb9Wnakc9
@@ -1748,6 +1901,7 @@
       stackoverflow: ''
       Slack: ''
       sociallogo: true
+      coaster: ''
       __type: Object
 '13:55':
   Both:
@@ -1807,6 +1961,7 @@
       Slack: false
       key: matz
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -1924,6 +2079,7 @@
       Slack: true
       key: matthew
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2009,6 +2165,7 @@
       Slack: false
       key: chomado
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2120,6 +2277,7 @@
       Slack: true
       key: kristof
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2203,6 +2361,7 @@
       Slack: ''
       key: baruch
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2278,6 +2437,7 @@
       Slack: true
       key: avital
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2386,6 +2546,7 @@
       Slack: true
       key: simon
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2465,6 +2626,7 @@
       Slack: false
       key: jaime
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2566,6 +2728,7 @@
       Slack: true
       key: nauman
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2693,6 +2856,7 @@
       Slack: true
       key: wataru
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2789,6 +2953,7 @@
       Slack: true
       key: andy
       sociallogo: true
+      coaster: ''
       __type: Object
     color: ''
     language: ''
@@ -2840,6 +3005,7 @@
       stackoverflow: ''
       Slack: ''
       sociallogo: true
+      coaster: ''
       __type: Object
     color: grey
     language: en

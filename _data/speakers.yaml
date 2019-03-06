@@ -58,6 +58,7 @@
   Slack: false
   key: matz
   sociallogo: true
+  coaster: ''
 - objectId: w1bOVXZhPv2DaW7O
   number: ''
   name: Melinda Seckington
@@ -136,6 +137,7 @@
   Slack: false
   key: melinda
   sociallogo: true
+  coaster: ''
 - objectId: 6Fpn7OaIbbVr0DwQ
   number: ''
   name: Cristiano Betta
@@ -220,6 +222,7 @@
   Slack: true
   key: cristiano
   sociallogo: true
+  coaster: ''
 - objectId: GgqJvFKfp6Jc6xTL
   number: ''
   name: Myrsini Koukiasa
@@ -283,6 +286,7 @@
   Slack: true
   key: myrsini
   sociallogo: true
+  coaster: ''
 - objectId: KM7txvc5AetoIGOZ
   number: ''
   name: Jaime Lopez Jr
@@ -359,6 +363,7 @@
   Slack: false
   key: jaime
   sociallogo: true
+  coaster: ''
 - objectId: uQQjqNfZNJCsVP59
   number: ''
   name: Wataru Yamazaki
@@ -454,6 +459,7 @@
   Slack: true
   key: wataru
   sociallogo: true
+  coaster: ''
 - objectId: qyUpWCZFBDpE0KKk
   number: ''
   name: Baruch Sadogursky
@@ -536,6 +542,7 @@
   Slack: ''
   key: baruch
   sociallogo: true
+  coaster: ''
 - objectId: MtHmDxVi5wZUNETi
   number: ''
   name: Terence Huynh
@@ -603,6 +610,7 @@
   Slack: true
   key: terence
   sociallogo: true
+  coaster: ''
 - objectId: Qhazhg5LDpemyRdg
   number: ''
   name: Peter Moskovits
@@ -674,6 +682,7 @@
   Slack: true
   key: peter
   sociallogo: true
+  coaster: ''
 - objectId: qwzBeEx8t7qJDvKX
   number: ''
   name: Madoka Chiyoda
@@ -757,6 +766,7 @@
   Slack: false
   key: chomado
   sociallogo: true
+  coaster: ''
 - objectId: QRWZza6rmTf8QmUm
   number: ''
   name: Matthew Revell
@@ -871,6 +881,7 @@
   Slack: true
   key: matthew
   sociallogo: true
+  coaster: ''
 - objectId: kDqmS26gmCrBX4mH
   number: ''
   name: Kristof Van Tomme
@@ -962,6 +973,7 @@
   Slack: true
   key: kristof
   sociallogo: true
+  coaster: ''
 - objectId: y658abM6sJAVPCWU
   number: ''
   name: Jessica Rose
@@ -1046,6 +1058,7 @@
   Slack: true
   key: jessica
   sociallogo: true
+  coaster: ''
 - objectId: emdFNey2l8nk2mfm
   number: ''
   name: Andy Piper
@@ -1139,6 +1152,7 @@
   Slack: true
   key: andy
   sociallogo: true
+  coaster: ''
 - objectId: ec2IlVDxjbGiORhl
   number: ''
   name: Simon Sasaki
@@ -1245,6 +1259,7 @@
   Slack: true
   key: simon
   sociallogo: true
+  coaster: ''
 - objectId: QTnuwrmVkkLD5cwC
   number: ''
   name: Aya Tokura
@@ -1351,6 +1366,7 @@
   Slack: true
   key: aya
   sociallogo: true
+  coaster: ''
 - objectId: cZnw5KBpTEzCK6TM
   number: ''
   name: Sydney Lai
@@ -1422,6 +1438,7 @@
   Slack: false
   key: sydney
   sociallogo: true
+  coaster: ''
 - objectId: 0Qwzp7B80Y1QJkD8
   number: ''
   name: Avital Tzubeli
@@ -1495,6 +1512,7 @@
   Slack: true
   key: avital
   sociallogo: true
+  coaster: ''
 - objectId: U1y9YU3tDATEF1K9
   number: ''
   name: Nauman Ali
@@ -1594,6 +1612,7 @@
   Slack: true
   key: nauman
   sociallogo: true
+  coaster: ''
 - objectId: AXlgHFqeQC3LtCCc
   number: ''
   name: Seigo Tanaka
@@ -1768,6 +1787,7 @@
   Slack: true
   key: seigo
   sociallogo: true
+  coaster: ''
 - objectId: 0KXHfOp3FWagSWNZ
   number: ''
   name: Brian Douglas
@@ -1852,6 +1872,7 @@
   Slack: true
   key: brian
   sociallogo: true
+  coaster: ''
 - objectId: 6F1ltw52RncDFZN
   number: ''
   name: Ali Spivak
@@ -1925,6 +1946,7 @@
   stackoverflow: ''
   Slack: true
   sociallogo: true
+  coaster: ''
 - objectId: 2rfRMHFkYXW70Oda
   number: ''
   name: Matt Rose
@@ -2006,6 +2028,7 @@
   stackoverflow: ''
   Slack: false
   sociallogo: true
+  coaster: ''
 - objectId: S6tTMcUowzWffalP
   number: ''
   name: Atsushi Nakatsugawa
@@ -2215,6 +2238,7 @@
   stackoverflow: ''
   Slack: ''
   sociallogo: true
+  coaster: ''
 - objectId: Qd0Rlct4Ar8noevW
   number: ''
   name: Taiji
@@ -2328,6 +2352,7 @@
   stackoverflow: ''
   Slack: ''
   sociallogo: true
+  coaster: ''
 - objectId: OY8jNZvelCVytpj2
   number: ''
   name: Takeshi Nick Osanai
@@ -2453,6 +2478,7 @@
   stackoverflow: ''
   Slack: ''
   sociallogo: true
+  coaster: ''
 - objectId: Wib6VAUsXhTuXzuV
   number: ''
   name: Tomomi Imura
@@ -2508,6 +2534,7 @@
   stackoverflow: ''
   Slack: ''
   sociallogo: true
+  coaster: ''
 - objectId: 4uSR5bafyPHpkDY1
   number: ''
   name: Ana Jiménez Santamaría
@@ -2553,6 +2580,7 @@
   stackoverflow: ''
   Slack: ''
   sociallogo: true
+  coaster: ''
 - objectId: agRHZoGLY7yCkZpA
   number: ''
   name: Yoshito Tabuchi
@@ -2625,4 +2653,135 @@
   instagram: ''
   stackoverflow: ''
   Slack: ''
+  sociallogo: true
+  coaster: ''
+- objectId: SonAtcCq09qS1vGe
+  number: ''
+  name: Shohei Oda
+  name_ja: Shohei Oda
+  coaster: ''
   sociallogo: ''
+  company: Microsoft
+  company_ja: Microsoft
+  twitter: MS_odasho
+  profile: >-
+    I have been involved in various development projects for about 10 years at
+    domestic system integrator. Building a call center system, mobile
+    application development, PaaS application development, etc. In recent years
+    I have been focusing on the activities of the developer community including
+    DevRel. Join to Microsoft in 2018. I conduct DevRel activities as my own
+    activity mainly focusing on educational activities for developers. What I
+    like is chocolate and caramel frappuccino. Since I was 15 years old I loved
+    Mobile phone as crazy and I got a job at an IT company. I have a physical
+    education teacher’s license and my most favorite language is body language.
+  profile_ja: >-
+    I have been involved in various development projects for about 10 years at
+    domestic system integrator. Building a call center system, mobile
+    application development, PaaS application development, etc. In recent years
+    I have been focusing on the activities of the developer community including
+    DevRel. Join to Microsoft in 2018. I conduct DevRel activities as my own
+    activity mainly focusing on educational activities for developers. What I
+    like is chocolate and caramel frappuccino. Since I was 15 years old I loved
+    Mobile phone as crazy and I got a job at an IT company. I have a physical
+    education teacher’s license and my most favorite language is body language.
+  title: ''
+  title_ja: ''
+  blog: 'https://medium.com/@shoheioda/'
+  page: /speakers/odasho
+  key: odasho
+  image: /img/speakers/odasho.jpg
+  needhotel: ''
+  money: ''
+  hotel: ''
+  preparty: ''
+  discount: ''
+  facebook: ''
+  github: ''
+  session:
+    objectId: a8w386gPD2UrLAIS
+    title_ja: DevRel is changing my life!
+    description_ja: >-
+      At the time I started DevRel, I belonged to the main system integrator for
+      contract development. I would like to share the knowledge gained from the
+      chance to start DevRel activities and activities up to now.
+
+
+      · How did you get to know the community? I belonged to a domestic system
+      integrator and did not know the existence of the community for 8 years. I
+      was not originally majoring in computer science, and I did not know the
+      means to get information. I think that the existence of Tech Community is
+      not known especially in Japan. Many of my friends who actually belong to
+      IT companies do not know that. Everyone participating here already knows
+      the community. Why do not you try inviting more people around you? I am
+      inviting my former friends to join in this way today.
+
+
+      · Output is not scary (your common sense is insane for others) I thought
+      that speaking in public, not only in the community, was granted only to
+      special people. Speaker thought that it would be permissible to speak only
+      to humans who have special experience and tell the circumstances. That was
+      my misunderstanding. That experience that you feel natural is a valuable
+      experience that is not commonplace for others. You do not need to be
+      afraid. Try talking about your experience and knowledge in front of
+      everyone. I’m sure you will be grateful for the surroundings.
+
+
+      · Enjoy the community! (To make the community better) It is the most
+      important factor. You should enjoy this activity. You had better quit
+      acting if it is difficult. The number of people who adore you as they
+      continue community activities and start activities will also increase. You
+      should not be arrogant. Next is what you are asked to do to support new
+      participants to enjoy the community, as you did. Let’s aim for a community
+      that can be enjoyed while supporting it. You surely can be an important
+      person for that community.
+    category: LT
+    title: DevRel is changing my life!
+    description_en: >-
+      At the time I started DevRel, I belonged to the main system integrator for
+      contract development. I would like to share the knowledge gained from the
+      chance to start DevRel activities and activities up to now.
+
+
+      · How did you get to know the community? I belonged to a domestic system
+      integrator and did not know the existence of the community for 8 years. I
+      was not originally majoring in computer science, and I did not know the
+      means to get information. I think that the existence of Tech Community is
+      not known especially in Japan. Many of my friends who actually belong to
+      IT companies do not know that. Everyone participating here already knows
+      the community. Why do not you try inviting more people around you? I am
+      inviting my former friends to join in this way today.
+
+
+      · Output is not scary (your common sense is insane for others) I thought
+      that speaking in public, not only in the community, was granted only to
+      special people. Speaker thought that it would be permissible to speak only
+      to humans who have special experience and tell the circumstances. That was
+      my misunderstanding. That experience that you feel natural is a valuable
+      experience that is not commonplace for others. You do not need to be
+      afraid. Try talking about your experience and knowledge in front of
+      everyone. I’m sure you will be grateful for the surroundings.
+
+
+      · Enjoy the community! (To make the community better) It is the most
+      important factor. You should enjoy this activity. You had better quit
+      acting if it is difficult. The number of people who adore you as they
+      continue community activities and start activities will also increase. You
+      should not be arrogant. Next is what you are asked to do to support new
+      participants to enjoy the community, as you did. Let’s aim for a community
+      that can be enjoyed while supporting it. You surely can be an important
+      person for that community.
+    number: ''
+    time: '12:25'
+    room: Samurai
+    SpeakerName: ''
+    speaker:
+      __type: Pointer
+      objectId: SonAtcCq09qS1vGe
+    __type: Object
+  google: ''
+  linkedin: ''
+  youtube: ''
+  list: true
+  instagram: ''
+  stackoverflow: ''
+  Slack: ''

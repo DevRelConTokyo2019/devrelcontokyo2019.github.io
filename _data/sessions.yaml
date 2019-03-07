@@ -1834,6 +1834,66 @@
         stackoverflow: ''
         Slack: ''
         __type: Object
+    - objectId: QVk8hZhdGka8R1LJ
+      title_ja: Community Event and Money
+      description_ja: "We held a community event as an our business. Many communities agreed, but their activities are basically without pay.\r\n\r\nWhat did I take most care of? and what could be returning to them?\r\n\r\nI would like to think about the health of the community and money issues indispensable for large events."
+      category: LT
+      title: Community Event and Money
+      description_en: "We held a community event as an our business. Many communities agreed, but their activities are basically without pay.\r\n\r\nWhat did I take most care of? and what could be returning to them?\r\n\r\nI would like to think about the health of the community and money issues indispensable for large events."
+      number: ''
+      time: '12:25'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: mGPxEBHYpmDkNl1Q
+        number: ''
+        name: Noriyuki Suzuki
+        name_ja: Noriyuki Suzuki
+        coaster: ''
+        sociallogo: ''
+        company: Impress Corporation
+        company_ja: Impress Corporation
+        twitter: szkn27
+        profile: >-
+          Hi there! I’m Noriyuki Suzuki ( [@szkn27](https://twitter.com/szkn27)
+          ) who working at Japanese Publisher Impress Corporation.
+
+
+          I am editing technical books and managing the website [Think
+          IT](https://thinkit.co.jp/) for developers. The most focused project
+          is Tech Conference [CloudNative Days](https://cloudnativedays.jp/).
+        profile_ja: >-
+          Hi there! I’m Noriyuki Suzuki ( [@szkn27](https://twitter.com/szkn27)
+          ) who working at Japanese Publisher Impress Corporation.
+
+
+          I am editing technical books and managing the website [Think
+          IT](https://thinkit.co.jp/) for developers. The most focused project
+          is Tech Conference [CloudNative Days](https://cloudnativedays.jp/).
+        title: ''
+        title_ja: ''
+        blog: 'https://thinkit.co.jp/'
+        page: /speakers/suzuki
+        key: suzuki
+        image: /img/speakers/suzuki.jpg
+        needhotel: ''
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session:
+          __type: Pointer
+          objectId: QVk8hZhdGka8R1LJ
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
 '12:45':
   Both:
     objectId: 4crtfmbxb9Wnakc9
@@ -2766,7 +2826,7 @@
 '17:20':
   Both:
     objectId: 80RoS23joe1udN7B
-    title: 5 Tips for making a robust DevRel team
+    title: 5 Tips for building a robust DevRel team
     title_ja: 堅牢なDevRelチームを作るための5つのヒント
     description_en: >-
       It's not easy to have a DevRel team especially for companies which are not

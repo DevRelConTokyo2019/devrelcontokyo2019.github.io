@@ -2426,6 +2426,77 @@
     color: ''
     language: ''
     category: 経験
+  Samurai:
+    - objectId: IXfZGubHYjmTngDp
+      title_ja: >-
+        A missing piece of community marketing: empowerment to post-newbie
+        developers
+      description_ja: >-
+        Developer marketing often targets two audiences in terms of skill level,
+        which are experts and newbies. However, post-newbie developers tends to
+        be ignored, despite their necessity of our empowerment. I would like to
+        share my experience on driving community for them and some thoughs from
+        it.
+      category: LT
+      title: >-
+        A missing piece of community marketing: empowerment to post-newbie
+        developers
+      description_en: >-
+        Developer marketing often targets two audiences in terms of skill level,
+        which are experts and newbies. However, post-newbie developers tends to
+        be ignored, despite their necessity of our empowerment. I would like to
+        share my experience on driving community for them and some thoughs from
+        it.
+      number: ''
+      time: '15:50'
+      room: Samurai
+      SpeakerName: ''
+      speaker:
+        objectId: OUKlR4b4GLi10EWL
+        number: ''
+        name: chikoski
+        name_ja: chikoski
+        coaster: ''
+        sociallogo: ''
+        company: We are JavaScripters!
+        company_ja: We are JavaScripters!
+        twitter: chikoski
+        profile: >-
+          Noritada Shimizu (a.k.a Chiko) is a Mozilla Tech Speaker. He loves
+          programming language and its related technologies related, so he
+          mainly working on  providing technical information about JavaScript,
+          WebAssembly, and Rust. Chiko is based on Tokyo and organizing several
+          developer communities for these technologies.
+        profile_ja: >-
+          Noritada Shimizu (a.k.a Chiko) is a Mozilla Tech Speaker. He loves
+          programming language and its related technologies related, so he
+          mainly working on  providing technical information about JavaScript,
+          WebAssembly, and Rust. Chiko is based on Tokyo and organizing several
+          developer communities for these technologies.
+        title: ''
+        title_ja: ''
+        blog: 'https://twitter.com/chikoski'
+        page: /speakers/chikoski
+        key: chikoski
+        image: /img/speakers/chikoski.jpg
+        needhotel: ''
+        money: ''
+        hotel: ''
+        preparty: ''
+        discount: ''
+        facebook: ''
+        github: ''
+        session:
+          __type: Pointer
+          objectId: IXfZGubHYjmTngDp
+        google: ''
+        linkedin: ''
+        youtube: ''
+        list: true
+        instagram: ''
+        stackoverflow: ''
+        Slack: ''
+        __type: Object
 '16:15':
   Fuji:
     objectId: gXXkyBjzzOPEoAG

@@ -1166,13 +1166,13 @@
 
     Engage with developers through workshops and as session speaker at tech
     conference. My main sessions contents are about AI, Virtual Reality, Cloud
-    Serverless platform, Quantum computing and Blockchain. also give a speech as
-    a guest speaker at educational institutions such as university.
+    Serverless platform and Blockchain. also give a speech as a guest speaker at
+    educational institutions such as university.
   profile_ja: |-
     IBMのソフトウェア開発者（IBMの元Developer Adovocate)
 
     ワークショップやカンファレンスへの登壇をメインに、開発者とのリレーション構築に従事。
-    AI、VR、クラウドサーバーレスプラットフォーム、量子コンピュータやブロックチェーンを専門とする。大学などの教育機関でもゲスト登壇をしている。
+    AI、VR、クラウドサーバーレスプラットフォームやブロックチェーンを専門とする。大学などの教育機関でもゲスト登壇をしている。
   title: ''
   title_ja: ''
   blog: ''
@@ -1511,106 +1511,6 @@
   stackoverflow: ''
   Slack: true
   key: avital
-  sociallogo: true
-  coaster: ''
-- objectId: U1y9YU3tDATEF1K9
-  number: ''
-  name: Nauman Ali
-  name_ja: Nauman Ali
-  company: APIMATIC
-  company_ja: APIMATIC
-  twitter: mnaumanali94
-  profile: >-
-    Nauman Ali is an API enthusiast who dived into the API world early into his
-    career. Ever since his days at college, he was deeply interested in how
-    systems interact and how the interactions between them can be optimized to
-    produce better connections between digital entities. Working on a similar
-    project he realized how hard it gets for developers to work with unfamiliar
-    systems when working on these integrations and this opened him up to the
-    world of Developer Experience and making APIs easy to consume. Since then he
-    took off his journey with APIMatic, a New Zealand based startup set out to
-    do the same. Nauman currently is leading the Developer Experience Portal and
-    the CodeGen project at APIMatic and in his quest has met API Evangelists
-    from around the world and has spoken at a number of conferences. He has
-    developed a considerable insight into problems faced by both API Developers
-    and consumer and can feel their pain and is set out on a mission to make
-    life easy for both of them. In his free time, he loves watching football and
-    is currently really sad about Ronaldo leaving his favorite club, Real
-    Madrid.
-  profile_ja: >-
-    Nauman
-    Aliは、黎明期からAPIを活用してきた、API愛好家。学生時代から、システム同士の連携方法や統合を最適化しながら最適な開発方法に興味をもち、模索している。そうしたプロジェクトに多数従事した結果、開発者がなじみのないシステムで開発する難しさを発見。開発者としても経験を重ね、数々のAPIを使いやすくする技術を習得。ニュージーランドを拠点とするスタートアップ、APIMaticでのキャリアをスタートし、現在は、Developer
-    Experience
-    PortalとCodeGenプロジェクトを率いており、世界中のAPIエバンジェリストと出会いながら、数多くのカンファレンスで講演。API開発者とユーザの両方が直面する問題を究明し、両者の課題を理解しながら、開発者にもユーザにもフレンドリーなAPIを提供する、というミッションの元、活動中。趣味は、フットボール鑑賞。お気に入りのクラブはレアルマドリードだが、ロナウドが移籍してしまうのが悲しいとのこと。
-  title: ''
-  title_ja: ''
-  blog: 'https://www.linkedin.com/in/nauman-ali/'
-  page: /speakers/nauman/
-  image: /img/speakers/nauman.jpg
-  needhotel: true
-  money: ''
-  hotel: ''
-  preparty: ''
-  discount: ''
-  facebook: ''
-  github: ''
-  session:
-    objectId: IbHceUE2ccY9mPxF
-    title: An API Spec driven Developer Experience journey
-    title_ja: APIスペック駆動な開発者体験の旅
-    description_en: >-
-      Developer Experience has taken center stage for a lot of API providers,
-      with others following suit. In spite of it being an important part of the
-      API lifecycle, it has been a tough nut to crack for a lot of API
-      providers. The effort, time and cost required to achieve top-notch
-      Developer Experience tend to be a big obstacle, while the various
-      components getting out of sync just adds to the woes.
-
-      With the wide adoption of the API Specification as the single source of
-      truth and the center stage of most API endeavors, it is only fitting for
-      it to be the engine behind fixing the Developer Experience woes of API
-      providers.
-
-      I will walk you through the journey of achieving top-notch Developer
-      Experience by maximizing the use of the API Specifications. First, I will
-      talk about the components that make a Developer Experience great. I'll
-      then walk through the improvements and additions that can be made to API
-      Specifications that leads to great Developer Experience components.
-      Following that, I’ll dive into using the specification to generate Guides,
-      Documentation, SDKs and Code samples, and will compare the different
-      tooling out there that can help you achieve that. Finally, I'll highlight
-      the advantages of automatic generation of these components over manually
-      creating them and will present an internal case study on how we've used
-      that at APIMatic.
-    description_ja: >-
-      DX（開発者体験）は多くのAPIプロバイダにおいて中心に据えられた考えになっています。APIライフサイクルの重要な役割にあるにも関わらず、なかなかうまく実施できていないのも事実です。素晴らしいDXを提供するのに必要な工数、時間およびコストは大きな障害になりますが、各APIが統一されていないのは悩みのタネです。
-
-
-      一つの事実として、API
-      Specificationは広く知れ渡っており、殆どのAPIで採用されているのでAPIを使う上での開発者体験を改善するのに役立つでしょう。API
-      Specificationを活用し、素晴らしいDXを提供するための方法を解説します。まずDXを素晴らしいものにする要素について説明します。そしてDXを優れたものに対するためにAPI
-      Specificationの改善と追加を紹介します。さらにその仕様を使ってガイド、ドキュメント、SDKそしてサンプルコードを生成するためのツールを比較します。最後に、手動で作成するよりも、これらのコンポーネントを自動生成することのメリットについてよく知ってもらった上で、APIMaticでどのように使用しているかケーススタディとして紹介します。
-    people: ''
-    translate: ''
-    number: ''
-    time: '16:40'
-    room: Fuji
-    SpeakerName: ''
-    speaker:
-      __type: Pointer
-      objectId: U1y9YU3tDATEF1K9
-    color: ''
-    language: ''
-    category: API
-    __type: Object
-  google: ''
-  linkedin: nauman-ali
-  youtube: ''
-  list: true
-  instagram: ''
-  stackoverflow: ''
-  Slack: true
-  key: nauman
   sociallogo: true
   coaster: ''
 - objectId: AXlgHFqeQC3LtCCc
